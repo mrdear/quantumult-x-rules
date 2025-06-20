@@ -1,0 +1,47 @@
+name: Update GFW List
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-gfwlist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run GFW list converter
+      run: |
+        python scripts/gfwlist_to_quantumultx.py
+
+    - name: Check for changes
+      id: git-check
+      run: |
+        git status --porcelain
+        echo "modified=$(if git status --porcelain | grep .; then echo true; else echo false; fi)" >> $GITHUB_OUTPUT
+
+    - name: Commit and push if changed
+      if: steps.git-check.outputs.modified == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Update GFW list for Quantumult X"
+        git push
