@@ -6,6 +6,7 @@ import requests
 import re
 import os
 from datetime import datetime
+import socket
 
 # GFW list URL
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
@@ -13,6 +14,28 @@ GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.
 OUTPUT_DIR = "rules"
 # Output file name
 OUTPUT_FILE = "gfwlist.list"
+
+def is_ip_address(domain):
+    """Check if a domain is actually an IP address (with or without port)"""
+    # Remove port if present
+    if ':' in domain:
+        domain = domain.split(':')[0]
+
+    # Check if it's an IPv4 address
+    try:
+        socket.inet_pton(socket.AF_INET, domain)
+        return True
+    except socket.error:
+        pass
+
+    # Check if it's an IPv6 address
+    try:
+        socket.inet_pton(socket.AF_INET6, domain)
+        return True
+    except socket.error:
+        pass
+
+    return False
 
 def fetch_gfwlist():
     """Fetch the GFW list from GitHub"""
@@ -49,7 +72,7 @@ def parse_gfwlist(content):
             domain = re.sub(r'^\*\.', '', domain)
             # Remove leading dot
             domain = re.sub(r'^\.', '', domain)
-            if domain:
+            if domain and not is_ip_address(domain):
                 domains.add(domain)
         # Handle domain keyword rules
         elif '.' in line and not line.startswith('/'):
@@ -63,7 +86,7 @@ def parse_gfwlist(content):
             domain = re.sub(r'^\*\.', '', domain)
             # Remove leading dot
             domain = re.sub(r'^\.', '', domain)
-            if domain and '.' in domain:
+            if domain and '.' in domain and not is_ip_address(domain):
                 domains.add(domain)
 
     return sorted(list(domains))
