@@ -1,9 +1,7 @@
 # GFW List for Quantumult X
-# Updated: 2025-06-20 06:29:07
+# Updated: 2025-06-20 14:42:30
 # Total domains: 6179
 
-HOST-SUFFIX,*.google,GFWLIST
-HOST-SUFFIX,*.m-team.cc,GFWLIST
 HOST-SUFFIX,.030buy.com,GFWLIST
 HOST-SUFFIX,.0rz.tw,GFWLIST
 HOST-SUFFIX,.1000giri.net,GFWLIST
@@ -3492,6 +3490,7 @@ HOST-SUFFIX,goodnewsnetwork.org,GFWLIST
 HOST-SUFFIX,goodreaders.com,GFWLIST
 HOST-SUFFIX,goodreads.com,GFWLIST
 HOST-SUFFIX,goofind.com,GFWLIST
+HOST-SUFFIX,google,GFWLIST
 HOST-SUFFIX,google.dev,GFWLIST
 HOST-SUFFIX,googleapis.com,GFWLIST
 HOST-SUFFIX,googleapps.com,GFWLIST
@@ -4132,6 +4131,7 @@ HOST-SUFFIX,lvv2.com,GFWLIST
 HOST-SUFFIX,ly.gov.tw,GFWLIST
 HOST-SUFFIX,lzjscript.com,GFWLIST
 HOST-SUFFIX,lzmtnews.org,GFWLIST
+HOST-SUFFIX,m-team.cc,GFWLIST
 HOST-SUFFIX,m.hkgalden.com,GFWLIST
 HOST-SUFFIX,m.me,GFWLIST
 HOST-SUFFIX,m.moegirl.org,GFWLIST
