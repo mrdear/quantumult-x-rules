@@ -47,6 +47,8 @@ def parse_gfwlist(content):
             domain = re.sub(r'[\^\\].*$', '', domain)
             # Remove wildcard prefix (*.domain)
             domain = re.sub(r'^\*\.', '', domain)
+            # Remove leading dot
+            domain = re.sub(r'^\.', '', domain)
             if domain:
                 domains.add(domain)
         # Handle domain keyword rules
@@ -59,6 +61,8 @@ def parse_gfwlist(content):
             domain = re.sub(r'[\^\\].*$', '', domain)
             # Remove wildcard prefix (*.domain)
             domain = re.sub(r'^\*\.', '', domain)
+            # Remove leading dot
+            domain = re.sub(r'^\.', '', domain)
             if domain and '.' in domain:
                 domains.add(domain)
 
