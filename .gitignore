@@ -3,7 +3,7 @@
 *.iml
 out
 gen
-./my
+./my/*
 # Python
 __pycache__/
 *.py[cod]
