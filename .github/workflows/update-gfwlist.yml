@@ -29,13 +29,18 @@ jobs:
 
     - name: Run GFW list converter
       run: |
-        python scripts/gfwlist_to_quantumultx.py
+        python gfw/gfwlist_to_quantumultx.py
 
     - name: Check for changes
       id: git-check
       run: |
-        git status --porcelain
-        echo "modified=$(if git status --porcelain | grep .; then echo true; else echo false; fi)" >> $GITHUB_OUTPUT
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "Change detected"
+          echo "modified=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "No changes"
+          echo "modified=false" >> "$GITHUB_OUTPUT"
+        fi
 
     - name: Commit and push if changed
       if: steps.git-check.outputs.modified == 'true'
