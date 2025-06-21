@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-06-20 15:17:05
-# Total domains: 5536
+# Updated: 2025-06-21 01:06:11
+# Total domains: 5537
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -253,6 +253,7 @@ HOST-SUFFIX,amnesty.tw,GFWLIST
 HOST-SUFFIX,amnestyusa.org,GFWLIST
 HOST-SUFFIX,ampproject.org,GFWLIST
 HOST-SUFFIX,amtb-taipei.org,GFWLIST
+HOST-SUFFIX,amuletmc.com,GFWLIST
 HOST-SUFFIX,anchor.fm,GFWLIST
 HOST-SUFFIX,anchorfree.com,GFWLIST
 HOST-SUFFIX,ancsconf.org,GFWLIST
