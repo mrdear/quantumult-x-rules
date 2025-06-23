@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-06-22 01:13:57
-# Total domains: 5537
+# Updated: 2025-06-23 01:11:35
+# Total domains: 5543
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -349,6 +349,7 @@ HOST-SUFFIX,arte.tv,GFWLIST
 HOST-SUFFIX,artofpeacefoundation.org,GFWLIST
 HOST-SUFFIX,artstation.com,GFWLIST
 HOST-SUFFIX,artsy.net,GFWLIST
+HOST-SUFFIX,arvanstorage.ir,GFWLIST
 HOST-SUFFIX,asacp.org,GFWLIST
 HOST-SUFFIX,asdfg.jp,GFWLIST
 HOST-SUFFIX,asg.to,GFWLIST
@@ -1887,6 +1888,7 @@ HOST-SUFFIX,gizlen.net,GFWLIST
 HOST-SUFFIX,gjczz.com,GFWLIST
 HOST-SUFFIX,glarity.app,GFWLIST
 HOST-SUFFIX,glass8.eu,GFWLIST
+HOST-SUFFIX,gle,GFWLIST
 HOST-SUFFIX,global.bing.com,GFWLIST
 HOST-SUFFIX,global.ssl.fastly.net,GFWLIST
 HOST-SUFFIX,globaljihad.net,GFWLIST
@@ -2035,6 +2037,7 @@ HOST-SUFFIX,gotgeeks.com,GFWLIST
 HOST-SUFFIX,gotquestions.org,GFWLIST
 HOST-SUFFIX,gotrusted.com,GFWLIST
 HOST-SUFFIX,gotw.ca,GFWLIST
+HOST-SUFFIX,gov.ir,GFWLIST
 HOST-SUFFIX,gov.taipei,GFWLIST
 HOST-SUFFIX,gov.tw,GFWLIST
 HOST-SUFFIX,gr8domain.biz,GFWLIST
@@ -2464,7 +2467,9 @@ HOST-SUFFIX,ipredator.se,GFWLIST
 HOST-SUFFIX,iptv.com.tw,GFWLIST
 HOST-SUFFIX,iptvbin.com,GFWLIST
 HOST-SUFFIX,ipvanish.com,GFWLIST
+HOST-SUFFIX,irangov.ir,GFWLIST
 HOST-SUFFIX,iredmail.org,GFWLIST
+HOST-SUFFIX,irna.ir,GFWLIST
 HOST-SUFFIX,ironpython.net,GFWLIST
 HOST-SUFFIX,ironsocket.com,GFWLIST
 HOST-SUFFIX,is-a-hunter.com,GFWLIST
@@ -3682,6 +3687,7 @@ HOST-SUFFIX,prcleader.org,GFWLIST
 HOST-SUFFIX,premproxy.com,GFWLIST
 HOST-SUFFIX,presentation.new,GFWLIST
 HOST-SUFFIX,presentationzen.com,GFWLIST
+HOST-SUFFIX,president.ir,GFWLIST
 HOST-SUFFIX,presidentlee.tw,GFWLIST
 HOST-SUFFIX,prestige-av.com,GFWLIST
 HOST-SUFFIX,primevideo.com,GFWLIST
