@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-06-26 01:07:28
-# Total domains: 5543
+# Updated: 2025-06-27 01:08:20
+# Total domains: 5541
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -850,7 +850,6 @@ HOST-SUFFIX,chenpokongvip.com,GFWLIST
 HOST-SUFFIX,chenshan20042005.wordpress.com,GFWLIST
 HOST-SUFFIX,cherrysave.com,GFWLIST
 HOST-SUFFIX,chhongbi.org,GFWLIST
-HOST-SUFFIX,chicagoncmtv.com,GFWLIST
 HOST-SUFFIX,china-mmm.jp.net,GFWLIST
 HOST-SUFFIX,china-mmm.net,GFWLIST
 HOST-SUFFIX,china-review.com.ua,GFWLIST
@@ -1702,8 +1701,6 @@ HOST-SUFFIX,freedomhouse.org,GFWLIST
 HOST-SUFFIX,freedominfonetweb.wordpress.com,GFWLIST
 HOST-SUFFIX,freedomsherald.org,GFWLIST
 HOST-SUFFIX,freeforums.org,GFWLIST
-HOST-SUFFIX,freefq.com,GFWLIST
-HOST-SUFFIX,freefuckvids.com,GFWLIST
 HOST-SUFFIX,freegao.com,GFWLIST
 HOST-SUFFIX,freehongkong.org,GFWLIST
 HOST-SUFFIX,freeilhamtohti.org,GFWLIST
@@ -3796,6 +3793,7 @@ HOST-SUFFIX,radiohilight.net,GFWLIST
 HOST-SUFFIX,radioline.co,GFWLIST
 HOST-SUFFIX,radiovaticana.org,GFWLIST
 HOST-SUFFIX,radiovncr.com,GFWLIST
+HOST-SUFFIX,radmin-vpn.com,GFWLIST
 HOST-SUFFIX,rael.org,GFWLIST
 HOST-SUFFIX,raggedbanner.com,GFWLIST
 HOST-SUFFIX,raidcall.com.tw,GFWLIST
