@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-07-09 01:09:36
-# Total domains: 5543
+# Updated: 2025-07-10 01:09:37
+# Total domains: 5544
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1352,6 +1352,7 @@ HOST-SUFFIX,e-hentaidb.com,GFWLIST
 HOST-SUFFIX,e-info.org.tw,GFWLIST
 HOST-SUFFIX,e-zone.com.hk,GFWLIST
 HOST-SUFFIX,e123.hk,GFWLIST
+HOST-SUFFIX,e621.net,GFWLIST
 HOST-SUFFIX,earlytibet.com,GFWLIST
 HOST-SUFFIX,earthcam.com,GFWLIST
 HOST-SUFFIX,earthvpn.com,GFWLIST
