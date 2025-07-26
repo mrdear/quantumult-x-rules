@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-07-25 01:11:39
-# Total domains: 5545
+# Updated: 2025-07-26 01:10:21
+# Total domains: 5546
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -5392,6 +5392,7 @@ HOST-SUFFIX,yam.com,GFWLIST
 HOST-SUFFIX,yam.org.tw,GFWLIST
 HOST-SUFFIX,yande.re,GFWLIST
 HOST-SUFFIX,yanghengjun.com,GFWLIST
+HOST-SUFFIX,yangzhi.org,GFWLIST
 HOST-SUFFIX,yasni.co.uk,GFWLIST
 HOST-SUFFIX,yasukuni.or.jp,GFWLIST
 HOST-SUFFIX,yayabay.com,GFWLIST
