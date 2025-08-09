@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-08 01:14:02
-# Total domains: 5550
+# Updated: 2025-08-09 01:07:47
+# Total domains: 5552
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -539,6 +539,7 @@ HOST-SUFFIX,bitchute.com,GFWLIST
 HOST-SUFFIX,bitcointalk.org,GFWLIST
 HOST-SUFFIX,bitcoinworld.com,GFWLIST
 HOST-SUFFIX,bitfinex.com,GFWLIST
+HOST-SUFFIX,bitget.com,GFWLIST
 HOST-SUFFIX,bithumb.com,GFWLIST
 HOST-SUFFIX,bitmex.com,GFWLIST
 HOST-SUFFIX,bitshare.com,GFWLIST
@@ -971,6 +972,7 @@ HOST-SUFFIX,clipconverter.cc,GFWLIST
 HOST-SUFFIX,clipfish.de,GFWLIST
 HOST-SUFFIX,cloud.dify.ai,GFWLIST
 HOST-SUFFIX,cloud.mail.ru,GFWLIST
+HOST-SUFFIX,cloudflare-dns.com,GFWLIST
 HOST-SUFFIX,cloudflare-ipfs.com,GFWLIST
 HOST-SUFFIX,cloudfunctions.net,GFWLIST
 HOST-SUFFIX,club1069.com,GFWLIST
@@ -4891,6 +4893,7 @@ HOST-SUFFIX,unseen.is,GFWLIST
 HOST-SUFFIX,unstable.icu,GFWLIST
 HOST-SUFFIX,unwire.hk,GFWLIST
 HOST-SUFFIX,uocn.org,GFWLIST
+HOST-SUFFIX,upbit.com,GFWLIST
 HOST-SUFFIX,updates.tdesktop.com,GFWLIST
 HOST-SUFFIX,upghsbc.com,GFWLIST
 HOST-SUFFIX,upholdjustice.org,GFWLIST
@@ -5286,7 +5289,6 @@ HOST-SUFFIX,www.klip.me,GFWLIST
 HOST-SUFFIX,www.lorenzetti.com.br,GFWLIST
 HOST-SUFFIX,www.moztw.org,GFWLIST
 HOST-SUFFIX,www.msn.com,GFWLIST
-HOST-SUFFIX,www.nodeloc.com,GFWLIST
 HOST-SUFFIX,www.owind.com,GFWLIST
 HOST-SUFFIX,www.powerpointninja.com,GFWLIST
 HOST-SUFFIX,www.shadowsocks.com,GFWLIST
