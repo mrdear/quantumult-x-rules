@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-12 01:06:53
-# Total domains: 5553
+# Updated: 2025-08-13 01:08:21
+# Total domains: 5557
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -528,6 +528,7 @@ HOST-SUFFIX,bigsound.org,GFWLIST
 HOST-SUFFIX,bild.de,GFWLIST
 HOST-SUFFIX,biliworld.com,GFWLIST
 HOST-SUFFIX,binance.com,GFWLIST
+HOST-SUFFIX,binance.org,GFWLIST
 HOST-SUFFIX,binancezh.cc,GFWLIST
 HOST-SUFFIX,binux.me,GFWLIST
 HOST-SUFFIX,bird.so,GFWLIST
@@ -2429,6 +2430,7 @@ HOST-SUFFIX,indiatoday.in,GFWLIST
 HOST-SUFFIX,indiemerch.com,GFWLIST
 HOST-SUFFIX,inews-api.tvb.com,GFWLIST
 HOST-SUFFIX,info-graf.fr,GFWLIST
+HOST-SUFFIX,infura.io,GFWLIST
 HOST-SUFFIX,inherit.live,GFWLIST
 HOST-SUFFIX,initiativesforchina.org,GFWLIST
 HOST-SUFFIX,inkbunny.net,GFWLIST
@@ -2849,6 +2851,7 @@ HOST-SUFFIX,lsmwebcast.com,GFWLIST
 HOST-SUFFIX,lsxszzg.com,GFWLIST
 HOST-SUFFIX,ltn.com.tw,GFWLIST
 HOST-SUFFIX,luckydesigner.space,GFWLIST
+HOST-SUFFIX,luckymobile.ca,GFWLIST
 HOST-SUFFIX,ludepress.com,GFWLIST
 HOST-SUFFIX,luke54.com,GFWLIST
 HOST-SUFFIX,luke54.org,GFWLIST
@@ -2969,6 +2972,7 @@ HOST-SUFFIX,mesotw.com,GFWLIST
 HOST-SUFFIX,messenger.com,GFWLIST
 HOST-SUFFIX,meta.com,GFWLIST
 HOST-SUFFIX,metafilter.com,GFWLIST
+HOST-SUFFIX,metamask.io,GFWLIST
 HOST-SUFFIX,metart.com,GFWLIST
 HOST-SUFFIX,metarthunter.com,GFWLIST
 HOST-SUFFIX,meteorshowersonline.com,GFWLIST
