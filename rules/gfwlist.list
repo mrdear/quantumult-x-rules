@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-13 01:08:21
-# Total domains: 5557
+# Updated: 2025-08-14 01:09:07
+# Total domains: 5560
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -503,6 +503,7 @@ HOST-SUFFIX,bestvpnusa.com,GFWLIST
 HOST-SUFFIX,bet365.com,GFWLIST
 HOST-SUFFIX,betaclouds.net,GFWLIST
 HOST-SUFFIX,betfair.com,GFWLIST
+HOST-SUFFIX,betterhash.net,GFWLIST
 HOST-SUFFIX,betternet.co,GFWLIST
 HOST-SUFFIX,bettervpn.com,GFWLIST
 HOST-SUFFIX,bettween.com,GFWLIST
@@ -2143,6 +2144,7 @@ HOST-SUFFIX,hentaivideoworld.com,GFWLIST
 HOST-SUFFIX,heqinglian.net,GFWLIST
 HOST-SUFFIX,heritage.org,GFWLIST
 HOST-SUFFIX,herokuapp.com,GFWLIST
+HOST-SUFFIX,herominers.com,GFWLIST
 HOST-SUFFIX,hexieshe.com,GFWLIST
 HOST-SUFFIX,hexieshe.xyz,GFWLIST
 HOST-SUFFIX,hexxeh.net,GFWLIST
@@ -2504,6 +2506,7 @@ HOST-SUFFIX,isupportuyghurs.org,GFWLIST
 HOST-SUFFIX,itaiwan.gov.tw,GFWLIST
 HOST-SUFFIX,italiatibet.org,GFWLIST
 HOST-SUFFIX,itasoftware.com,GFWLIST
+HOST-SUFFIX,itch.io,GFWLIST
 HOST-SUFFIX,itemdb.com,GFWLIST
 HOST-SUFFIX,itemfix.com,GFWLIST
 HOST-SUFFIX,ithelp.ithome.com.tw,GFWLIST
