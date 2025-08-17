@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-16 01:05:39
-# Total domains: 5561
+# Updated: 2025-08-17 01:13:39
+# Total domains: 5564
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3512,6 +3512,7 @@ HOST-SUFFIX,palacemoon.com,GFWLIST
 HOST-SUFFIX,paljorpublications.com,GFWLIST
 HOST-SUFFIX,paltalk.com,GFWLIST
 HOST-SUFFIX,panamapapers.sueddeutsche.de,GFWLIST
+HOST-SUFFIX,pancakeswap.finance,GFWLIST
 HOST-SUFFIX,pandafan.pub,GFWLIST
 HOST-SUFFIX,pandapow.co,GFWLIST
 HOST-SUFFIX,pandapow.net,GFWLIST
@@ -3578,6 +3579,7 @@ HOST-SUFFIX,periscope.tv,GFWLIST
 HOST-SUFFIX,perplexity.ai,GFWLIST
 HOST-SUFFIX,persecutionblog.com,GFWLIST
 HOST-SUFFIX,persiankitty.com,GFWLIST
+HOST-SUFFIX,pewresearch.org,GFWLIST
 HOST-SUFFIX,phapluan.org,GFWLIST
 HOST-SUFFIX,phayul.com,GFWLIST
 HOST-SUFFIX,philborges.com,GFWLIST
@@ -3706,6 +3708,7 @@ HOST-SUFFIX,prism-break.org,GFWLIST
 HOST-SUFFIX,prisoneralert.com,GFWLIST
 HOST-SUFFIX,pritunl.com,GFWLIST
 HOST-SUFFIX,privacybox.de,GFWLIST
+HOST-SUFFIX,privacyguides.org,GFWLIST
 HOST-SUFFIX,private.com,GFWLIST
 HOST-SUFFIX,privateinternetaccess.com,GFWLIST
 HOST-SUFFIX,privatepaste.com,GFWLIST
