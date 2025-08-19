@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-18 01:13:01
-# Total domains: 5564
+# Updated: 2025-08-19 01:05:51
+# Total domains: 5568
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1196,6 +1196,7 @@ HOST-SUFFIX,delicious.com,GFWLIST
 HOST-SUFFIX,demo.unlock-music.dev,GFWLIST
 HOST-SUFFIX,democrats.org,GFWLIST
 HOST-SUFFIX,demosisto.hk,GFWLIST
+HOST-SUFFIX,deno.dev,GFWLIST
 HOST-SUFFIX,depositphotos.com,GFWLIST
 HOST-SUFFIX,desc.se,GFWLIST
 HOST-SUFFIX,desipro.de,GFWLIST
@@ -1263,6 +1264,7 @@ HOST-SUFFIX,dnvod.tv,GFWLIST
 HOST-SUFFIX,doc.new,GFWLIST
 HOST-SUFFIX,docker.com,GFWLIST
 HOST-SUFFIX,docker.io,GFWLIST
+HOST-SUFFIX,docs.deno.com,GFWLIST
 HOST-SUFFIX,docs.new,GFWLIST
 HOST-SUFFIX,doctorvoice.org,GFWLIST
 HOST-SUFFIX,documentingreality.com,GFWLIST
@@ -1775,6 +1777,7 @@ HOST-SUFFIX,fuq.com,GFWLIST
 HOST-SUFFIX,furbo.org,GFWLIST
 HOST-SUFFIX,furhhdl.org,GFWLIST
 HOST-SUFFIX,furinkan.com,GFWLIST
+HOST-SUFFIX,furrybar.com,GFWLIST
 HOST-SUFFIX,futurechinaforum.org,GFWLIST
 HOST-SUFFIX,futuremessage.org,GFWLIST
 HOST-SUFFIX,fux.com,GFWLIST
@@ -3194,6 +3197,7 @@ HOST-SUFFIX,nationalreview.com,GFWLIST
 HOST-SUFFIX,nationsonline.org,GFWLIST
 HOST-SUFFIX,nationwide.com,GFWLIST
 HOST-SUFFIX,naughtyamerica.com,GFWLIST
+HOST-SUFFIX,naver.com,GFWLIST
 HOST-SUFFIX,navyfamily.navy.mil,GFWLIST
 HOST-SUFFIX,navyreserve.navy.mil,GFWLIST
 HOST-SUFFIX,naweeklytimes.com,GFWLIST
