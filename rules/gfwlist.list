@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-20 01:03:52
-# Total domains: 5568
+# Updated: 2025-08-21 01:02:49
+# Total domains: 5569
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -4870,6 +4870,7 @@ HOST-SUFFIX,uderzo.it,GFWLIST
 HOST-SUFFIX,udn.com,GFWLIST
 HOST-SUFFIX,udn.com.tw,GFWLIST
 HOST-SUFFIX,udnbkk.com,GFWLIST
+HOST-SUFFIX,udomain.hk,GFWLIST
 HOST-SUFFIX,uforadio.com.tw,GFWLIST
 HOST-SUFFIX,ufreevpn.com,GFWLIST
 HOST-SUFFIX,ugo.com,GFWLIST
