@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-23 01:01:29
-# Total domains: 5571
+# Updated: 2025-08-24 01:10:54
+# Total domains: 5573
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1767,6 +1767,8 @@ HOST-SUFFIX,ftvnews.com.tw,GFWLIST
 HOST-SUFFIX,ftx.com,GFWLIST
 HOST-SUFFIX,fucd.com,GFWLIST
 HOST-SUFFIX,fuchsia.dev,GFWLIST
+HOST-SUFFIX,fuckccp.com,GFWLIST
+HOST-SUFFIX,fuckccp.xyz,GFWLIST
 HOST-SUFFIX,fuckgfw.org,GFWLIST
 HOST-SUFFIX,fulione.com,GFWLIST
 HOST-SUFFIX,fullerconsideration.com,GFWLIST
