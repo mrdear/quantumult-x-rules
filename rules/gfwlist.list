@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-08-26 01:04:48
-# Total domains: 5573
+# Updated: 2025-08-27 01:02:32
+# Total domains: 5575
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1600,6 +1600,7 @@ HOST-SUFFIX,fdc64.org,GFWLIST
 HOST-SUFFIX,fdc89.jp,GFWLIST
 HOST-SUFFIX,feedburner.com,GFWLIST
 HOST-SUFFIX,feeder.co,GFWLIST
+HOST-SUFFIX,feedly.com,GFWLIST
 HOST-SUFFIX,feedx.net,GFWLIST
 HOST-SUFFIX,feelssh.com,GFWLIST
 HOST-SUFFIX,feer.com,GFWLIST
@@ -3066,6 +3067,7 @@ HOST-SUFFIX,mofos.com,GFWLIST
 HOST-SUFFIX,mog.com,GFWLIST
 HOST-SUFFIX,mohu.club,GFWLIST
 HOST-SUFFIX,mohu.rocks,GFWLIST
+HOST-SUFFIX,moj.gov.tw,GFWLIST
 HOST-SUFFIX,mojim.com,GFWLIST
 HOST-SUFFIX,mol.gov.tw,GFWLIST
 HOST-SUFFIX,molihua.org,GFWLIST
