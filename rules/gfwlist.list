@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-09-05 01:00:31
-# Total domains: 5575
+# Updated: 2025-09-06 00:59:11
+# Total domains: 5578
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -664,6 +664,8 @@ HOST-SUFFIX,brutaltgp.com,GFWLIST
 HOST-SUFFIX,bsky.app,GFWLIST
 HOST-SUFFIX,bsky.network,GFWLIST
 HOST-SUFFIX,bsky.social,GFWLIST
+HOST-SUFFIX,bt4g.org,GFWLIST
+HOST-SUFFIX,bt4gprx.com,GFWLIST
 HOST-SUFFIX,bt95.com,GFWLIST
 HOST-SUFFIX,btaia.com,GFWLIST
 HOST-SUFFIX,btbit.net,GFWLIST
@@ -4417,6 +4419,7 @@ HOST-SUFFIX,talkcc.com,GFWLIST
 HOST-SUFFIX,talkonly.net,GFWLIST
 HOST-SUFFIX,tanc.org,GFWLIST
 HOST-SUFFIX,tangren.us,GFWLIST
+HOST-SUFFIX,tanks.gg,GFWLIST
 HOST-SUFFIX,taoism.net,GFWLIST
 HOST-SUFFIX,tapanwap.com,GFWLIST
 HOST-SUFFIX,tapatalk.com,GFWLIST
