@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-09-06 00:59:11
-# Total domains: 5578
+# Updated: 2025-09-07 01:05:29
+# Total domains: 5579
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -2473,6 +2473,7 @@ HOST-SUFFIX,iphone4hongkong.com,GFWLIST
 HOST-SUFFIX,iphonetaiwan.org,GFWLIST
 HOST-SUFFIX,iphonix.fr,GFWLIST
 HOST-SUFFIX,ipicture.ru,GFWLIST
+HOST-SUFFIX,ipify.org,GFWLIST
 HOST-SUFFIX,ipjetable.net,GFWLIST
 HOST-SUFFIX,ipobar.com,GFWLIST
 HOST-SUFFIX,ipoock.com,GFWLIST
