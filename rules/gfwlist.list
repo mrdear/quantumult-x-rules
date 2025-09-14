@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-09-13 00:56:36
-# Total domains: 5579
+# Updated: 2025-09-14 01:04:49
+# Total domains: 5582
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -2944,6 +2944,7 @@ HOST-SUFFIX,mcadforums.com,GFWLIST
 HOST-SUFFIX,mcaf.ee,GFWLIST
 HOST-SUFFIX,mcfog.com,GFWLIST
 HOST-SUFFIX,mcreasite.com,GFWLIST
+HOST-SUFFIX,mcusercontent.com,GFWLIST
 HOST-SUFFIX,md-t.org,GFWLIST
 HOST-SUFFIX,me.me,GFWLIST
 HOST-SUFFIX,me.ns.ci,GFWLIST
@@ -4119,6 +4120,7 @@ HOST-SUFFIX,simplecd.org,GFWLIST
 HOST-SUFFIX,simpleproductivityblog.com,GFWLIST
 HOST-SUFFIX,simpleswap.io,GFWLIST
 HOST-SUFFIX,simplex.chat,GFWLIST
+HOST-SUFFIX,sina.com.hk,GFWLIST
 HOST-SUFFIX,sinchew.com.my,GFWLIST
 HOST-SUFFIX,singaporepools.com.sg,GFWLIST
 HOST-SUFFIX,singfortibet.com,GFWLIST
@@ -4415,6 +4417,7 @@ HOST-SUFFIX,taiwantt.org.tw,GFWLIST
 HOST-SUFFIX,taiwanus.net,GFWLIST
 HOST-SUFFIX,taiwanyes.ning.com,GFWLIST
 HOST-SUFFIX,talk853.com,GFWLIST
+HOST-SUFFIX,talkatone.com,GFWLIST
 HOST-SUFFIX,talkboxapp.com,GFWLIST
 HOST-SUFFIX,talkcc.com,GFWLIST
 HOST-SUFFIX,talkonly.net,GFWLIST
