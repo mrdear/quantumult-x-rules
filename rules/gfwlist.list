@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-09-19 01:01:31
-# Total domains: 5582
+# Updated: 2025-09-20 00:58:37
+# Total domains: 5586
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1819,6 +1819,7 @@ HOST-SUFFIX,gaopi.net,GFWLIST
 HOST-SUFFIX,gardennetworks.com,GFWLIST
 HOST-SUFFIX,gardennetworks.org,GFWLIST
 HOST-SUFFIX,gartlive.com,GFWLIST
+HOST-SUFFIX,garudalinux.org,GFWLIST
 HOST-SUFFIX,gate.io,GFWLIST
 HOST-SUFFIX,gatecoin.com,GFWLIST
 HOST-SUFFIX,gather.com,GFWLIST
@@ -1895,6 +1896,7 @@ HOST-SUFFIX,github.io,GFWLIST
 HOST-SUFFIX,githubassets.com,GFWLIST
 HOST-SUFFIX,githubcopilot.com,GFWLIST
 HOST-SUFFIX,githubusercontent.com,GFWLIST
+HOST-SUFFIX,gitlab.com,GFWLIST
 HOST-SUFFIX,gitlab.net,GFWLIST
 HOST-SUFFIX,gizlen.net,GFWLIST
 HOST-SUFFIX,gjczz.com,GFWLIST
@@ -3315,6 +3317,7 @@ HOST-SUFFIX,ninecommentaries.com,GFWLIST
 HOST-SUFFIX,ninjacloak.com,GFWLIST
 HOST-SUFFIX,ninjaproxy.ninja,GFWLIST
 HOST-SUFFIX,nintendium.com,GFWLIST
+HOST-SUFFIX,nirsoft.net,GFWLIST
 HOST-SUFFIX,nitter.cc,GFWLIST
 HOST-SUFFIX,nitter.net,GFWLIST
 HOST-SUFFIX,niu.moe,GFWLIST
@@ -5108,6 +5111,7 @@ HOST-SUFFIX,vpnvip.com,GFWLIST
 HOST-SUFFIX,vpnworldwide.com,GFWLIST
 HOST-SUFFIX,vporn.com,GFWLIST
 HOST-SUFFIX,vpser.net,GFWLIST
+HOST-SUFFIX,vpsxb.net,GFWLIST
 HOST-SUFFIX,vraiesagesse.net,GFWLIST
 HOST-SUFFIX,vrchat.com,GFWLIST
 HOST-SUFFIX,vrmtr.com,GFWLIST
