@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-09-23 00:59:44
-# Total domains: 5585
+# Updated: 2025-09-24 01:00:52
+# Total domains: 5587
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -302,6 +302,7 @@ HOST-SUFFIX,apetube.com,GFWLIST
 HOST-SUFFIX,api-secure.recaptcha.net,GFWLIST
 HOST-SUFFIX,api-verify.recaptcha.net,GFWLIST
 HOST-SUFFIX,api.ai,GFWLIST
+HOST-SUFFIX,api.palworldgame.com,GFWLIST
 HOST-SUFFIX,api.pureapk.com,GFWLIST
 HOST-SUFFIX,api.recaptcha.net,GFWLIST
 HOST-SUFFIX,api.steampowered.com,GFWLIST
@@ -3415,6 +3416,7 @@ HOST-SUFFIX,occupytiananmen.com,GFWLIST
 HOST-SUFFIX,ocreampies.com,GFWLIST
 HOST-SUFFIX,ocry.com,GFWLIST
 HOST-SUFFIX,october-review.org,GFWLIST
+HOST-SUFFIX,octocaptcha.com,GFWLIST
 HOST-SUFFIX,oculus.com,GFWLIST
 HOST-SUFFIX,oculuscdn.com,GFWLIST
 HOST-SUFFIX,odysee.com,GFWLIST
