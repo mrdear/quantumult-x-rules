@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-09-24 01:00:52
-# Total domains: 5587
+# Updated: 2025-09-25 01:01:04
+# Total domains: 5589
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1094,6 +1094,7 @@ HOST-SUFFIX,csuchen.de,GFWLIST
 HOST-SUFFIX,csw.org.uk,GFWLIST
 HOST-SUFFIX,ct.org.tw,GFWLIST
 HOST-SUFFIX,ctao.org,GFWLIST
+HOST-SUFFIX,ctinets.com,GFWLIST
 HOST-SUFFIX,ctinews.com,GFWLIST
 HOST-SUFFIX,ctitv.com.tw,GFWLIST
 HOST-SUFFIX,ctowc.org,GFWLIST
@@ -2463,6 +2464,7 @@ HOST-SUFFIX,internet.org,GFWLIST
 HOST-SUFFIX,internetdefenseleague.org,GFWLIST
 HOST-SUFFIX,internetfreedom.org,GFWLIST
 HOST-SUFFIX,internetpopculture.com,GFWLIST
+HOST-SUFFIX,interseclab.org,GFWLIST
 HOST-SUFFIX,inthenameofconfuciusmovie.com,GFWLIST
 HOST-SUFFIX,investigating.wordpress.com,GFWLIST
 HOST-SUFFIX,invidio.us,GFWLIST
