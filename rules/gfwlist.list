@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-10-06 01:01:22
-# Total domains: 5593
+# Updated: 2025-10-07 01:00:43
+# Total domains: 5594
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -5035,6 +5035,7 @@ HOST-SUFFIX,vijayatemple.org,GFWLIST
 HOST-SUFFIX,vilanet.me,GFWLIST
 HOST-SUFFIX,vilavpn.com,GFWLIST
 HOST-SUFFIX,vimeo.com,GFWLIST
+HOST-SUFFIX,vimeocdn.com,GFWLIST
 HOST-SUFFIX,vimperator.org,GFWLIST
 HOST-SUFFIX,vincnd.com,GFWLIST
 HOST-SUFFIX,vine.co,GFWLIST
