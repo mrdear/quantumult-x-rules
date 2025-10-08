@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-10-07 01:00:43
-# Total domains: 5594
+# Updated: 2025-10-08 00:59:54
+# Total domains: 5595
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -4214,6 +4214,7 @@ HOST-SUFFIX,solana.com,GFWLIST
 HOST-SUFFIX,solarsystem.nasa.gov,GFWLIST
 HOST-SUFFIX,solidaritetibet.org,GFWLIST
 HOST-SUFFIX,solidfiles.com,GFWLIST
+HOST-SUFFIX,solscan.io,GFWLIST
 HOST-SUFFIX,solv.finance,GFWLIST
 HOST-SUFFIX,somee.com,GFWLIST
 HOST-SUFFIX,songjianjun.com,GFWLIST
