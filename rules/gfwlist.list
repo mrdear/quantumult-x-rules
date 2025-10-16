@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-10-15 01:02:13
-# Total domains: 5597
+# Updated: 2025-10-16 01:02:16
+# Total domains: 5600
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -360,6 +360,7 @@ HOST-SUFFIX,asia-gaming.com,GFWLIST
 HOST-SUFFIX,asiaharvest.org,GFWLIST
 HOST-SUFFIX,asianage.com,GFWLIST
 HOST-SUFFIX,asianews.it,GFWLIST
+HOST-SUFFIX,asianfanfics.com,GFWLIST
 HOST-SUFFIX,asiansexdiary.com,GFWLIST
 HOST-SUFFIX,asiaone.com,GFWLIST
 HOST-SUFFIX,asiatgp.com,GFWLIST
@@ -4741,6 +4742,7 @@ HOST-SUFFIX,trt.net.tr,GFWLIST
 HOST-SUFFIX,trtc.com.tw,GFWLIST
 HOST-SUFFIX,truebuddha-md.org,GFWLIST
 HOST-SUFFIX,trulyergonomic.com,GFWLIST
+HOST-SUFFIX,trustwallet.com,GFWLIST
 HOST-SUFFIX,truthsocial.com,GFWLIST
 HOST-SUFFIX,truveo.com,GFWLIST
 HOST-SUFFIX,tryheart.jp,GFWLIST
@@ -5526,6 +5528,7 @@ HOST-SUFFIX,z-lib.gd,GFWLIST
 HOST-SUFFIX,z-lib.gl,GFWLIST
 HOST-SUFFIX,z-lib.io,GFWLIST
 HOST-SUFFIX,z-lib.org,GFWLIST
+HOST-SUFFIX,z-library.ec,GFWLIST
 HOST-SUFFIX,z-library.sk,GFWLIST
 HOST-SUFFIX,zacebook.com,GFWLIST
 HOST-SUFFIX,zalmos.com,GFWLIST
