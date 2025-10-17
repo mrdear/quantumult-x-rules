@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-10-16 01:02:16
-# Total domains: 5600
+# Updated: 2025-10-17 01:01:57
+# Total domains: 5602
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -681,7 +681,6 @@ HOST-SUFFIX,btc98.com,GFWLIST
 HOST-SUFFIX,btcbank.bank,GFWLIST
 HOST-SUFFIX,btctrade.im,GFWLIST
 HOST-SUFFIX,btdig.com,GFWLIST
-HOST-SUFFIX,btdigg.org,GFWLIST
 HOST-SUFFIX,btguard.com,GFWLIST
 HOST-SUFFIX,btku.me,GFWLIST
 HOST-SUFFIX,btku.org,GFWLIST
@@ -1965,6 +1964,7 @@ HOST-SUFFIX,goodreads.com,GFWLIST
 HOST-SUFFIX,goodtv.com.tw,GFWLIST
 HOST-SUFFIX,goodtv.tv,GFWLIST
 HOST-SUFFIX,goofind.com,GFWLIST
+HOST-SUFFIX,goog,GFWLIST
 HOST-SUFFIX,google,GFWLIST
 HOST-SUFFIX,google.ae,GFWLIST
 HOST-SUFFIX,google.am,GFWLIST
@@ -5184,6 +5184,7 @@ HOST-SUFFIX,webpkgcache.com,GFWLIST
 HOST-SUFFIX,webrtc.org,GFWLIST
 HOST-SUFFIX,webrush.net,GFWLIST
 HOST-SUFFIX,webs-tv.net,GFWLIST
+HOST-SUFFIX,websdr.org,GFWLIST
 HOST-SUFFIX,website.informer.com,GFWLIST
 HOST-SUFFIX,website.new,GFWLIST
 HOST-SUFFIX,websitepulse.com,GFWLIST
@@ -5404,6 +5405,7 @@ HOST-SUFFIX,xn--ngstr-lra8j.com,GFWLIST
 HOST-SUFFIX,xn--noss43i.com,GFWLIST
 HOST-SUFFIX,xn--oiq.cc,GFWLIST
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,GFWLIST
+HOST-SUFFIX,xn--u2u927b.com,GFWLIST
 HOST-SUFFIX,xnpool.com,GFWLIST
 HOST-SUFFIX,xnxx.com,GFWLIST
 HOST-SUFFIX,xpdo.net,GFWLIST
