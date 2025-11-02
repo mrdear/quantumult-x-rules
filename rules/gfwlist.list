@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-01 01:07:51
-# Total domains: 5603
+# Updated: 2025-11-02 01:08:28
+# Total domains: 5604
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -4489,6 +4489,7 @@ HOST-SUFFIX,telegraph.co.uk,GFWLIST
 HOST-SUFFIX,telesco.pe,GFWLIST
 HOST-SUFFIX,tellapart.com,GFWLIST
 HOST-SUFFIX,tellme.pw,GFWLIST
+HOST-SUFFIX,temu.com,GFWLIST
 HOST-SUFFIX,tenacy.com,GFWLIST
 HOST-SUFFIX,tenor.com,GFWLIST
 HOST-SUFFIX,tensorflow.org,GFWLIST
