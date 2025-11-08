@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-07 01:05:03
-# Total domains: 5605
+# Updated: 2025-11-08 01:02:00
+# Total domains: 5606
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -2418,6 +2418,7 @@ HOST-SUFFIX,imagefap.com,GFWLIST
 HOST-SUFFIX,imageflea.com,GFWLIST
 HOST-SUFFIX,imageglass.org,GFWLIST
 HOST-SUFFIX,images-gaytube.com,GFWLIST
+HOST-SUFFIX,images.prismic.io,GFWLIST
 HOST-SUFFIX,imageshack.us,GFWLIST
 HOST-SUFFIX,imagevenue.com,GFWLIST
 HOST-SUFFIX,imagezilla.net,GFWLIST
