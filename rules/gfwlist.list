@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-08 01:02:00
-# Total domains: 5606
+# Updated: 2025-11-09 01:08:17
+# Total domains: 5604
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1199,9 +1199,7 @@ HOST-SUFFIX,deezer.com,GFWLIST
 HOST-SUFFIX,definebabe.com,GFWLIST
 HOST-SUFFIX,deja.com,GFWLIST
 HOST-SUFFIX,delcamp.net,GFWLIST
-HOST-SUFFIX,delicious.com,GFWLIST
 HOST-SUFFIX,demo.unlock-music.dev,GFWLIST
-HOST-SUFFIX,democrats.org,GFWLIST
 HOST-SUFFIX,demosisto.hk,GFWLIST
 HOST-SUFFIX,deno.dev,GFWLIST
 HOST-SUFFIX,depositphotos.com,GFWLIST
