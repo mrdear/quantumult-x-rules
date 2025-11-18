@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-17 01:06:35
-# Total domains: 5622
+# Updated: 2025-11-18 01:05:28
+# Total domains: 5626
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -168,6 +168,7 @@ HOST-SUFFIX,addictedtocoffee.de,GFWLIST
 HOST-SUFFIX,addons.mozilla.org,GFWLIST
 HOST-SUFFIX,addyoutube.com,GFWLIST
 HOST-SUFFIX,adelaidebbs.com,GFWLIST
+HOST-SUFFIX,adguard-vpn.com,GFWLIST
 HOST-SUFFIX,admin.recaptcha.net,GFWLIST
 HOST-SUFFIX,admob.com,GFWLIST
 HOST-SUFFIX,adpl.org.hk,GFWLIST
@@ -2148,6 +2149,7 @@ HOST-SUFFIX,hautelookcdn.com,GFWLIST
 HOST-SUFFIX,have8.com,GFWLIST
 HOST-SUFFIX,hbg.com,GFWLIST
 HOST-SUFFIX,hbo.com,GFWLIST
+HOST-SUFFIX,hbomax.com,GFWLIST
 HOST-SUFFIX,hclips.com,GFWLIST
 HOST-SUFFIX,hd.stheadline.com,GFWLIST
 HOST-SUFFIX,hdtvb.net,GFWLIST
@@ -3075,6 +3077,7 @@ HOST-SUFFIX,mixpod.com,GFWLIST
 HOST-SUFFIX,mixx.com,GFWLIST
 HOST-SUFFIX,mizzmona.com,GFWLIST
 HOST-SUFFIX,mjib.gov.tw,GFWLIST
+HOST-SUFFIX,mjj.rip,GFWLIST
 HOST-SUFFIX,mlc.ai,GFWLIST
 HOST-SUFFIX,mlcool.com,GFWLIST
 HOST-SUFFIX,mlzs.work,GFWLIST
@@ -3972,6 +3975,7 @@ HOST-SUFFIX,rule34video.com,GFWLIST
 HOST-SUFFIX,rumble.com,GFWLIST
 HOST-SUFFIX,runbtx.com,GFWLIST
 HOST-SUFFIX,rushbee.com,GFWLIST
+HOST-SUFFIX,rustdesk.com,GFWLIST
 HOST-SUFFIX,rusvpn.com,GFWLIST
 HOST-SUFFIX,ruten.com.tw,GFWLIST
 HOST-SUFFIX,rutracker.net,GFWLIST
