@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-18 01:05:28
-# Total domains: 5626
+# Updated: 2025-11-19 01:05:11
+# Total domains: 5627
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -191,6 +191,7 @@ HOST-SUFFIX,agnesb.fr,GFWLIST
 HOST-SUFFIX,agoogleaday.com,GFWLIST
 HOST-SUFFIX,agro.hk,GFWLIST
 HOST-SUFFIX,ai.binwang.me,GFWLIST
+HOST-SUFFIX,ai.dev,GFWLIST
 HOST-SUFFIX,aiosearch.com,GFWLIST
 HOST-SUFFIX,aiph.net,GFWLIST
 HOST-SUFFIX,airasia.com,GFWLIST
