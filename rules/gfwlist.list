@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-19 01:05:11
-# Total domains: 5627
+# Updated: 2025-11-20 01:03:55
+# Total domains: 5632
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -989,6 +989,7 @@ HOST-SUFFIX,cloud.dify.ai,GFWLIST
 HOST-SUFFIX,cloud.mail.ru,GFWLIST
 HOST-SUFFIX,cloudflare-dns.com,GFWLIST
 HOST-SUFFIX,cloudflare-ipfs.com,GFWLIST
+HOST-SUFFIX,cloudflarestatus.com,GFWLIST
 HOST-SUFFIX,cloudfunctions.net,GFWLIST
 HOST-SUFFIX,club1069.com,GFWLIST
 HOST-SUFFIX,clubhouseapi.com,GFWLIST
@@ -2811,6 +2812,7 @@ HOST-SUFFIX,liaowangxizang.net,GFWLIST
 HOST-SUFFIX,liberal.org.hk,GFWLIST
 HOST-SUFFIX,libertysculpturepark.com,GFWLIST
 HOST-SUFFIX,libertytimes.com.tw,GFWLIST
+HOST-SUFFIX,library-access.sk,GFWLIST
 HOST-SUFFIX,libredd.it,GFWLIST
 HOST-SUFFIX,lifemiles.com,GFWLIST
 HOST-SUFFIX,lighten.org.tw,GFWLIST
@@ -3033,6 +3035,7 @@ HOST-SUFFIX,microvpn.com,GFWLIST
 HOST-SUFFIX,middle-way.net,GFWLIST
 HOST-SUFFIX,mihr.com,GFWLIST
 HOST-SUFFIX,mihua.org,GFWLIST
+HOST-SUFFIX,mij.rip,GFWLIST
 HOST-SUFFIX,mikanani.me,GFWLIST
 HOST-SUFFIX,mike.cz.cc,GFWLIST
 HOST-SUFFIX,mikesoltys.com,GFWLIST
@@ -3077,6 +3080,7 @@ HOST-SUFFIX,mixi.jp,GFWLIST
 HOST-SUFFIX,mixpod.com,GFWLIST
 HOST-SUFFIX,mixx.com,GFWLIST
 HOST-SUFFIX,mizzmona.com,GFWLIST
+HOST-SUFFIX,mji.rip,GFWLIST
 HOST-SUFFIX,mjib.gov.tw,GFWLIST
 HOST-SUFFIX,mjj.rip,GFWLIST
 HOST-SUFFIX,mlc.ai,GFWLIST
@@ -5423,6 +5427,7 @@ HOST-SUFFIX,xml-training-guide.com,GFWLIST
 HOST-SUFFIX,xmovies.com,GFWLIST
 HOST-SUFFIX,xn--11xs86f.icu,GFWLIST
 HOST-SUFFIX,xn--4gq171p.com,GFWLIST
+HOST-SUFFIX,xn--9iqy04a7fi01l.com,GFWLIST
 HOST-SUFFIX,xn--9pr62r24a.com,GFWLIST
 HOST-SUFFIX,xn--czq75pvv1aj5c.org,GFWLIST
 HOST-SUFFIX,xn--i2ru8q2qg.com,GFWLIST
