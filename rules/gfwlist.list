@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-22 01:02:30
-# Total domains: 5633
+# Updated: 2025-11-23 01:14:27
+# Total domains: 5635
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3225,6 +3225,7 @@ HOST-SUFFIX,nalandabodhi.org,GFWLIST
 HOST-SUFFIX,nalandawest.org,GFWLIST
 HOST-SUFFIX,namgyal.org,GFWLIST
 HOST-SUFFIX,namgyalmonastery.org,GFWLIST
+HOST-SUFFIX,namu.wiki,GFWLIST
 HOST-SUFFIX,nanopool.org,GFWLIST
 HOST-SUFFIX,nanyang.com,GFWLIST
 HOST-SUFFIX,nanyangpost.com,GFWLIST
@@ -3643,6 +3644,7 @@ HOST-SUFFIX,picacomic.com,GFWLIST
 HOST-SUFFIX,picacomiccn.com,GFWLIST
 HOST-SUFFIX,picasaweb.com,GFWLIST
 HOST-SUFFIX,picidae.net,GFWLIST
+HOST-SUFFIX,picsart.com,GFWLIST
 HOST-SUFFIX,picturesocial.com,GFWLIST
 HOST-SUFFIX,picuki.com,GFWLIST
 HOST-SUFFIX,pigav.com,GFWLIST
