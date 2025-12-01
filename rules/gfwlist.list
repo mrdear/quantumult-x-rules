@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-11-30 01:14:00
-# Total domains: 5635
+# Updated: 2025-12-01 01:18:29
+# Total domains: 5636
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -5569,6 +5569,7 @@ HOST-SUFFIX,zacebook.com,GFWLIST
 HOST-SUFFIX,zalmos.com,GFWLIST
 HOST-SUFFIX,zamimg.com,GFWLIST
 HOST-SUFFIX,zaobao.com.sg,GFWLIST
+HOST-SUFFIX,zaochenbao.com,GFWLIST
 HOST-SUFFIX,zapto.org,GFWLIST
 HOST-SUFFIX,zattoo.com,GFWLIST
 HOST-SUFFIX,zb.com,GFWLIST
