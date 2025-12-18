@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-12-17 01:05:23
-# Total domains: 5641
+# Updated: 2025-12-18 01:06:31
+# Total domains: 5643
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -545,6 +545,7 @@ HOST-SUFFIX,bird.so,GFWLIST
 HOST-SUFFIX,bit-z.com,GFWLIST
 HOST-SUFFIX,bit.do,GFWLIST
 HOST-SUFFIX,bit.ly,GFWLIST
+HOST-SUFFIX,bitbaby.com,GFWLIST
 HOST-SUFFIX,bitbay.net,GFWLIST
 HOST-SUFFIX,bitchute.com,GFWLIST
 HOST-SUFFIX,bitcointalk.org,GFWLIST
@@ -2397,6 +2398,7 @@ HOST-SUFFIX,icoco.com,GFWLIST
 HOST-SUFFIX,iconpaper.org,GFWLIST
 HOST-SUFFIX,icu-project.org,GFWLIST
 HOST-SUFFIX,id.heroku.com,GFWLIST
+HOST-SUFFIX,idcflare.com,GFWLIST
 HOST-SUFFIX,idemocracy.asia,GFWLIST
 HOST-SUFFIX,identi.ca,GFWLIST
 HOST-SUFFIX,idiomconnection.com,GFWLIST
