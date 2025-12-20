@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-12-19 01:10:15
-# Total domains: 5643
+# Updated: 2025-12-20 01:05:41
+# Total domains: 5644
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3584,6 +3584,7 @@ HOST-SUFFIX,parkansky.com,GFWLIST
 HOST-SUFFIX,parler.com,GFWLIST
 HOST-SUFFIX,parse.com,GFWLIST
 HOST-SUFFIX,parsevideo.com,GFWLIST
+HOST-SUFFIX,partnerstack.xyz,GFWLIST
 HOST-SUFFIX,partycasino.com,GFWLIST
 HOST-SUFFIX,partypoker.com,GFWLIST
 HOST-SUFFIX,passion.com,GFWLIST
