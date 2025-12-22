@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-12-21 01:14:31
-# Total domains: 5644
+# Updated: 2025-12-22 01:13:12
+# Total domains: 5645
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -4337,6 +4337,7 @@ HOST-SUFFIX,startpage.com,GFWLIST
 HOST-SUFFIX,startuplivingchina.com,GFWLIST
 HOST-SUFFIX,stat.gov.tw,GFWLIST
 HOST-SUFFIX,static-economist.com,GFWLIST
+HOST-SUFFIX,static.pocketcasts.com,GFWLIST
 HOST-SUFFIX,static.shemalez.com,GFWLIST
 HOST-SUFFIX,static01.nyt.com,GFWLIST
 HOST-SUFFIX,staticflickr.com,GFWLIST
