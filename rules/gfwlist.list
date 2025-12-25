@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-12-24 01:08:41
-# Total domains: 5645
+# Updated: 2025-12-25 01:09:46
+# Total domains: 5646
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3264,6 +3264,7 @@ HOST-SUFFIX,nekoslovakia.net,GFWLIST
 HOST-SUFFIX,nemesis2.qx.net,GFWLIST
 HOST-SUFFIX,neo-miracle.com,GFWLIST
 HOST-SUFFIX,neowin.net,GFWLIST
+HOST-SUFFIX,nephobox.com,GFWLIST
 HOST-SUFFIX,netalert.me,GFWLIST
 HOST-SUFFIX,netbirds.com,GFWLIST
 HOST-SUFFIX,netcolony.com,GFWLIST
