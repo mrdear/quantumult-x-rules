@@ -1,5 +1,5 @@
 # GFW List for Quantumult X
-# Updated: 2025-12-26 01:10:08
+# Updated: 2025-12-27 01:08:12
 # Total domains: 5646
 
 HOST-SUFFIX,000webhost.com,GFWLIST
@@ -944,7 +944,6 @@ HOST-SUFFIX,chrome.com,GFWLIST
 HOST-SUFFIX,chromecast.com,GFWLIST
 HOST-SUFFIX,chromeexperiments.com,GFWLIST
 HOST-SUFFIX,chromestatus.com,GFWLIST
-HOST-SUFFIX,chromium.org,GFWLIST
 HOST-SUFFIX,chuang-yen.org,GFWLIST
 HOST-SUFFIX,chubold.com,GFWLIST
 HOST-SUFFIX,chubun.com,GFWLIST
@@ -2885,6 +2884,7 @@ HOST-SUFFIX,lookpic.com,GFWLIST
 HOST-SUFFIX,looktoronto.com,GFWLIST
 HOST-SUFFIX,lotsawahouse.org,GFWLIST
 HOST-SUFFIX,lotuslight.org.tw,GFWLIST
+HOST-SUFFIX,lovart.ai,GFWLIST
 HOST-SUFFIX,lovetvshow.com,GFWLIST
 HOST-SUFFIX,lpsg.com,GFWLIST
 HOST-SUFFIX,lrfz.com,GFWLIST
