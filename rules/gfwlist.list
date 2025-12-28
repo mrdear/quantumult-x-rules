@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2025-12-27 01:08:12
-# Total domains: 5646
+# Updated: 2025-12-28 01:17:52
+# Total domains: 5648
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -218,6 +218,7 @@ HOST-SUFFIX,alicejapan.co.jp,GFWLIST
 HOST-SUFFIX,aliengu.com,GFWLIST
 HOST-SUFFIX,alive.bar,GFWLIST
 HOST-SUFFIX,aljazeera.com,GFWLIST
+HOST-SUFFIX,aljazeera.net,GFWLIST
 HOST-SUFFIX,alkasir.com,GFWLIST
 HOST-SUFFIX,all4mom.org,GFWLIST
 HOST-SUFFIX,allcoin.com,GFWLIST
@@ -1212,7 +1213,6 @@ HOST-SUFFIX,deja.com,GFWLIST
 HOST-SUFFIX,delcamp.net,GFWLIST
 HOST-SUFFIX,demo.unlock-music.dev,GFWLIST
 HOST-SUFFIX,demosisto.hk,GFWLIST
-HOST-SUFFIX,deno.dev,GFWLIST
 HOST-SUFFIX,depositphotos.com,GFWLIST
 HOST-SUFFIX,desc.se,GFWLIST
 HOST-SUFFIX,desipro.de,GFWLIST
@@ -1281,7 +1281,6 @@ HOST-SUFFIX,doc.new,GFWLIST
 HOST-SUFFIX,docker.com,GFWLIST
 HOST-SUFFIX,docker.io,GFWLIST
 HOST-SUFFIX,dockerstatus.com,GFWLIST
-HOST-SUFFIX,docs.deno.com,GFWLIST
 HOST-SUFFIX,docs.new,GFWLIST
 HOST-SUFFIX,doctorvoice.org,GFWLIST
 HOST-SUFFIX,documentingreality.com,GFWLIST
@@ -1898,6 +1897,7 @@ HOST-SUFFIX,gfsale.com,GFWLIST
 HOST-SUFFIX,gfw.press,GFWLIST
 HOST-SUFFIX,gfw.report,GFWLIST
 HOST-SUFFIX,gfwatch.org,GFWLIST
+HOST-SUFFIX,gfwbao.com,GFWLIST
 HOST-SUFFIX,ggpht.com,GFWLIST
 HOST-SUFFIX,ggssl.com,GFWLIST
 HOST-SUFFIX,ghidra-sre.org,GFWLIST
@@ -2536,6 +2536,7 @@ HOST-SUFFIX,ismalltits.com,GFWLIST
 HOST-SUFFIX,ismprofessional.net,GFWLIST
 HOST-SUFFIX,isohunt.com,GFWLIST
 HOST-SUFFIX,israbox.com,GFWLIST
+HOST-SUFFIX,issues.chromium.org ,GFWLIST
 HOST-SUFFIX,issuu.com,GFWLIST
 HOST-SUFFIX,istars.co.nz,GFWLIST
 HOST-SUFFIX,istockphoto.com,GFWLIST
@@ -4345,6 +4346,7 @@ HOST-SUFFIX,staticflickr.com,GFWLIST
 HOST-SUFFIX,stboy.net,GFWLIST
 HOST-SUFFIX,stc.com.sa,GFWLIST
 HOST-SUFFIX,steamcommunity.com,GFWLIST
+HOST-SUFFIX,steamladder.com,GFWLIST
 HOST-SUFFIX,steamstatic.com,GFWLIST
 HOST-SUFFIX,steel-storm.com,GFWLIST
 HOST-SUFFIX,steemit.com,GFWLIST
