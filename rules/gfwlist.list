@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-01 01:17:37
-# Total domains: 5648
+# Updated: 2026-01-02 01:12:06
+# Total domains: 5650
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3615,6 +3615,7 @@ HOST-SUFFIX,pct.org.tw,GFWLIST
 HOST-SUFFIX,pdetails.com,GFWLIST
 HOST-SUFFIX,pdproxy.com,GFWLIST
 HOST-SUFFIX,pds.nasa.gov,GFWLIST
+HOST-SUFFIX,pdst.fm,GFWLIST
 HOST-SUFFIX,peace.ca,GFWLIST
 HOST-SUFFIX,peacefire.org,GFWLIST
 HOST-SUFFIX,peeasian.com,GFWLIST
@@ -4980,6 +4981,7 @@ HOST-SUFFIX,unseen.is,GFWLIST
 HOST-SUFFIX,unstable.icu,GFWLIST
 HOST-SUFFIX,unwire.hk,GFWLIST
 HOST-SUFFIX,uocn.org,GFWLIST
+HOST-SUFFIX,up.audio,GFWLIST
 HOST-SUFFIX,upbit.com,GFWLIST
 HOST-SUFFIX,updates.tdesktop.com,GFWLIST
 HOST-SUFFIX,upghsbc.com,GFWLIST
