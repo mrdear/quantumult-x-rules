@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-02 01:12:06
-# Total domains: 5650
+# Updated: 2026-01-03 01:07:08
+# Total domains: 5666
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3663,7 +3663,23 @@ HOST-SUFFIX,ping.fm,GFWLIST
 HOST-SUFFIX,pinimg.com,GFWLIST
 HOST-SUFFIX,pinkrod.com,GFWLIST
 HOST-SUFFIX,pinoy-n.com,GFWLIST
-HOST-SUFFIX,pinterest.*,GFWLIST
+HOST-SUFFIX,pinterest.at,GFWLIST
+HOST-SUFFIX,pinterest.ca,GFWLIST
+HOST-SUFFIX,pinterest.cl,GFWLIST
+HOST-SUFFIX,pinterest.co.uk,GFWLIST
+HOST-SUFFIX,pinterest.com,GFWLIST
+HOST-SUFFIX,pinterest.com.au,GFWLIST
+HOST-SUFFIX,pinterest.com.mx,GFWLIST
+HOST-SUFFIX,pinterest.de,GFWLIST
+HOST-SUFFIX,pinterest.es,GFWLIST
+HOST-SUFFIX,pinterest.fr,GFWLIST
+HOST-SUFFIX,pinterest.ie,GFWLIST
+HOST-SUFFIX,pinterest.it,GFWLIST
+HOST-SUFFIX,pinterest.jp,GFWLIST
+HOST-SUFFIX,pinterest.nz,GFWLIST
+HOST-SUFFIX,pinterest.ph,GFWLIST
+HOST-SUFFIX,pinterest.pt,GFWLIST
+HOST-SUFFIX,pinterest.se,GFWLIST
 HOST-SUFFIX,pioneer-worker.forums-free.com,GFWLIST
 HOST-SUFFIX,pipii.tv,GFWLIST
 HOST-SUFFIX,piraattilahti.org,GFWLIST
