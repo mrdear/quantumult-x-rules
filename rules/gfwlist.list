@@ -1,5 +1,5 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-16 01:12:53
+# Updated: 2026-01-17 01:09:28
 # Total domains: 5671
 
 HOST-SUFFIX,000webhost.com,GFWLIST
@@ -142,6 +142,7 @@ HOST-SUFFIX,abematv.akamaized.net,GFWLIST
 HOST-SUFFIX,abitno.linpie.com,GFWLIST
 HOST-SUFFIX,ablwang.com,GFWLIST
 HOST-SUFFIX,aboluowang.com,GFWLIST
+HOST-SUFFIX,about.gitlab.com,GFWLIST
 HOST-SUFFIX,about.me,GFWLIST
 HOST-SUFFIX,abplive.com,GFWLIST
 HOST-SUFFIX,abs.edu,GFWLIST
@@ -1918,7 +1919,6 @@ HOST-SUFFIX,github.io,GFWLIST
 HOST-SUFFIX,githubassets.com,GFWLIST
 HOST-SUFFIX,githubcopilot.com,GFWLIST
 HOST-SUFFIX,githubusercontent.com,GFWLIST
-HOST-SUFFIX,gitlab.com,GFWLIST
 HOST-SUFFIX,gitlab.net,GFWLIST
 HOST-SUFFIX,gizlen.net,GFWLIST
 HOST-SUFFIX,gjczz.com,GFWLIST
