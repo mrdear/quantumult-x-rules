@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-17 01:09:28
-# Total domains: 5671
+# Updated: 2026-01-18 01:17:54
+# Total domains: 5676
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -204,6 +204,7 @@ HOST-SUFFIX,ait.org.tw,GFWLIST
 HOST-SUFFIX,aiweiwei.com,GFWLIST
 HOST-SUFFIX,aiweiweiblog.com,GFWLIST
 HOST-SUFFIX,akademiye.org,GFWLIST
+HOST-SUFFIX,akamai.tvb.com,GFWLIST
 HOST-SUFFIX,akiba-online.com,GFWLIST
 HOST-SUFFIX,akiba-web.com,GFWLIST
 HOST-SUFFIX,akinator.com,GFWLIST
@@ -276,7 +277,10 @@ HOST-SUFFIX,angola.org,GFWLIST
 HOST-SUFFIX,angularjs.org,GFWLIST
 HOST-SUFFIX,animecrazy.net,GFWLIST
 HOST-SUFFIX,aniscartujo.com,GFWLIST
+HOST-SUFFIX,annas-archive.in,GFWLIST
+HOST-SUFFIX,annas-archive.li,GFWLIST
 HOST-SUFFIX,annas-archive.org,GFWLIST
+HOST-SUFFIX,annas-archive.pm,GFWLIST
 HOST-SUFFIX,annas-archive.se,GFWLIST
 HOST-SUFFIX,annatam.com,GFWLIST
 HOST-SUFFIX,anobii.com,GFWLIST
@@ -1697,7 +1701,6 @@ HOST-SUFFIX,forum.baby-kingdom.com,GFWLIST
 HOST-SUFFIX,forum.mymaji.com,GFWLIST
 HOST-SUFFIX,forum.palmislife.com,GFWLIST
 HOST-SUFFIX,forum.slime.com.tw,GFWLIST
-HOST-SUFFIX,forum.tvb.com,GFWLIST
 HOST-SUFFIX,forum.xinbao.de,GFWLIST
 HOST-SUFFIX,forum4hk.com,GFWLIST
 HOST-SUFFIX,fountmedia.io,GFWLIST
@@ -3220,6 +3223,7 @@ HOST-SUFFIX,myspace.com,GFWLIST
 HOST-SUFFIX,myspacecdn.com,GFWLIST
 HOST-SUFFIX,mytalkbox.com,GFWLIST
 HOST-SUFFIX,mytizi.com,GFWLIST
+HOST-SUFFIX,mytvsuper.com,GFWLIST
 HOST-SUFFIX,mywife.cc,GFWLIST
 HOST-SUFFIX,mywww.biz,GFWLIST
 HOST-SUFFIX,myz.info,GFWLIST
@@ -4855,6 +4859,7 @@ HOST-SUFFIX,tuvpn.com,GFWLIST
 HOST-SUFFIX,tv.com,GFWLIST
 HOST-SUFFIX,tv.jtbc.joins.com,GFWLIST
 HOST-SUFFIX,tvants.com,GFWLIST
+HOST-SUFFIX,tvbanywhere.com,GFWLIST
 HOST-SUFFIX,tvboxnow.com,GFWLIST
 HOST-SUFFIX,tvider.com,GFWLIST
 HOST-SUFFIX,tvmost.com.hk,GFWLIST
