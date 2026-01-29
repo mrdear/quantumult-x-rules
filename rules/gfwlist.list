@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-28 01:13:35
-# Total domains: 5678
+# Updated: 2026-01-29 01:23:21
+# Total domains: 5679
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -423,6 +423,7 @@ HOST-SUFFIX,b0ne.com,GFWLIST
 HOST-SUFFIX,babylonbee.com,GFWLIST
 HOST-SUFFIX,babynet.com.hk,GFWLIST
 HOST-SUFFIX,backchina.com,GFWLIST
+HOST-SUFFIX,backend-v2.crixet.com,GFWLIST
 HOST-SUFFIX,backpackers.com.tw,GFWLIST
 HOST-SUFFIX,backtotiananmen.com,GFWLIST
 HOST-SUFFIX,bad.news,GFWLIST
