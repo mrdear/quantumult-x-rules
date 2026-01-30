@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-29 01:23:21
-# Total domains: 5679
+# Updated: 2026-01-30 01:22:50
+# Total domains: 5680
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -1756,6 +1756,7 @@ HOST-SUFFIX,freeoz.org,GFWLIST
 HOST-SUFFIX,freess.org,GFWLIST
 HOST-SUFFIX,freessh.us,GFWLIST
 HOST-SUFFIX,freetcp.com,GFWLIST
+HOST-SUFFIX,freeterabox.com,GFWLIST
 HOST-SUFFIX,freetibet.net,GFWLIST
 HOST-SUFFIX,freetibet.org,GFWLIST
 HOST-SUFFIX,freetibetanheroes.org,GFWLIST
