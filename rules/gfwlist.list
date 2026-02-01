@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-01-31 01:20:21
-# Total domains: 5682
+# Updated: 2026-02-01 01:46:43
+# Total domains: 5685
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -458,6 +458,7 @@ HOST-SUFFIX,bayvoice.net,GFWLIST
 HOST-SUFFIX,bb-chat.tv,GFWLIST
 HOST-SUFFIX,bbc.co.uk,GFWLIST
 HOST-SUFFIX,bbc.com,GFWLIST
+HOST-SUFFIX,bbc.pdn.tritondigital.com,GFWLIST
 HOST-SUFFIX,bbcchinese.com,GFWLIST
 HOST-SUFFIX,bbchat.tv,GFWLIST
 HOST-SUFFIX,bbci.co.uk,GFWLIST
@@ -1198,6 +1199,7 @@ HOST-SUFFIX,db.tt,GFWLIST
 HOST-SUFFIX,dbgjd.com,GFWLIST
 HOST-SUFFIX,dcard.tw,GFWLIST
 HOST-SUFFIX,dcmilitary.com,GFWLIST
+HOST-SUFFIX,dcs-spotify.megaphone.fm,GFWLIST
 HOST-SUFFIX,ddc.com.tw,GFWLIST
 HOST-SUFFIX,ddex.io,GFWLIST
 HOST-SUFFIX,ddns.info,GFWLIST
@@ -2176,6 +2178,7 @@ HOST-SUFFIX,hegre-art.com,GFWLIST
 HOST-SUFFIX,helloandroid.com,GFWLIST
 HOST-SUFFIX,helloqueer.com,GFWLIST
 HOST-SUFFIX,hellouk.org,GFWLIST
+HOST-SUFFIX,help.byspotify.com,GFWLIST
 HOST-SUFFIX,helpeachpeople.com,GFWLIST
 HOST-SUFFIX,helpster.de,GFWLIST
 HOST-SUFFIX,helpzhuling.org,GFWLIST
