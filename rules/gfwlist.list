@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-01 01:46:43
-# Total domains: 5685
+# Updated: 2026-02-02 01:27:22
+# Total domains: 5686
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -4479,6 +4479,7 @@ HOST-SUFFIX,taedp.org.tw,GFWLIST
 HOST-SUFFIX,tafm.org,GFWLIST
 HOST-SUFFIX,tagwalk.com,GFWLIST
 HOST-SUFFIX,tahr.org.tw,GFWLIST
+HOST-SUFFIX,tails.net,GFWLIST
 HOST-SUFFIX,taipei.gov.tw,GFWLIST
 HOST-SUFFIX,taipeisociety.org,GFWLIST
 HOST-SUFFIX,taipeitimes.com,GFWLIST
