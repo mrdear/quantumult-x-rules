@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-04 01:23:14
-# Total domains: 5686
+# Updated: 2026-02-05 01:23:10
+# Total domains: 5689
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -3576,6 +3576,7 @@ HOST-SUFFIX,pacopacomama.com,GFWLIST
 HOST-SUFFIX,padmanet.com,GFWLIST
 HOST-SUFFIX,page.link,GFWLIST
 HOST-SUFFIX,page2rss.com,GFWLIST
+HOST-SUFFIX,pages.dev,GFWLIST
 HOST-SUFFIX,paimon.moe,GFWLIST
 HOST-SUFFIX,palacemoon.com,GFWLIST
 HOST-SUFFIX,paljorpublications.com,GFWLIST
@@ -4105,6 +4106,7 @@ HOST-SUFFIX,seed4.me,GFWLIST
 HOST-SUFFIX,seesmic.com,GFWLIST
 HOST-SUFFIX,seevpn.com,GFWLIST
 HOST-SUFFIX,seezone.net,GFWLIST
+HOST-SUFFIX,sef.org.tw,GFWLIST
 HOST-SUFFIX,sehuatang.net,GFWLIST
 HOST-SUFFIX,sehuatang.org,GFWLIST
 HOST-SUFFIX,sejie.com,GFWLIST
@@ -5412,6 +5414,7 @@ HOST-SUFFIX,www.ajsands.com,GFWLIST
 HOST-SUFFIX,www.aolnews.com,GFWLIST
 HOST-SUFFIX,www.bing.com,GFWLIST
 HOST-SUFFIX,www.dwheeler.com,GFWLIST
+HOST-SUFFIX,www.hoyolab.com,GFWLIST
 HOST-SUFFIX,www.klip.me,GFWLIST
 HOST-SUFFIX,www.lorenzetti.com.br,GFWLIST
 HOST-SUFFIX,www.moztw.org,GFWLIST
