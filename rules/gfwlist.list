@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-05 01:23:10
-# Total domains: 5689
+# Updated: 2026-02-06 01:24:16
+# Total domains: 5690
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -2108,6 +2108,7 @@ HOST-SUFFIX,greenvpn.net,GFWLIST
 HOST-SUFFIX,greenvpn.org,GFWLIST
 HOST-SUFFIX,grindr.com,GFWLIST
 HOST-SUFFIX,grok.com,GFWLIST
+HOST-SUFFIX,grokipedia.com,GFWLIST
 HOST-SUFFIX,ground.news,GFWLIST
 HOST-SUFFIX,gs-discuss.com,GFWLIST
 HOST-SUFFIX,gsearch.media,GFWLIST
