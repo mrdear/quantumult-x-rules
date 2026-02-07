@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-06 01:24:16
-# Total domains: 5690
+# Updated: 2026-02-07 01:22:21
+# Total domains: 5693
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,030buy.com,GFWLIST
@@ -565,6 +565,7 @@ HOST-SUFFIX,bitmex.com,GFWLIST
 HOST-SUFFIX,bitshare.com,GFWLIST
 HOST-SUFFIX,bitsnoop.com,GFWLIST
 HOST-SUFFIX,bitterwinter.org,GFWLIST
+HOST-SUFFIX,bittorrent.com,GFWLIST
 HOST-SUFFIX,bitvise.com,GFWLIST
 HOST-SUFFIX,bitz.ai,GFWLIST
 HOST-SUFFIX,bizhat.com,GFWLIST
@@ -2183,6 +2184,7 @@ HOST-SUFFIX,help.byspotify.com,GFWLIST
 HOST-SUFFIX,helpeachpeople.com,GFWLIST
 HOST-SUFFIX,helpster.de,GFWLIST
 HOST-SUFFIX,helpzhuling.org,GFWLIST
+HOST-SUFFIX,hembed.com,GFWLIST
 HOST-SUFFIX,hentai.to,GFWLIST
 HOST-SUFFIX,hentaitube.tv,GFWLIST
 HOST-SUFFIX,hentaivideoworld.com,GFWLIST
@@ -5069,6 +5071,7 @@ HOST-SUFFIX,uyghurstudies.org,GFWLIST
 HOST-SUFFIX,uyghurtribunal.com,GFWLIST
 HOST-SUFFIX,uygur.org,GFWLIST
 HOST-SUFFIX,v2.help,GFWLIST
+HOST-SUFFIX,v2.hysteria.network,GFWLIST
 HOST-SUFFIX,v2ex.com,GFWLIST
 HOST-SUFFIX,v2fly.org,GFWLIST
 HOST-SUFFIX,v2ray.com,GFWLIST
