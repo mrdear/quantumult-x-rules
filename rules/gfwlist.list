@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-14 01:23:54
-# Total domains: 3872
+# Updated: 2026-02-15 01:43:58
+# Total domains: 3874
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2321,6 +2321,7 @@ HOST-SUFFIX,nflxso.net,GFWLIST
 HOST-SUFFIX,nflxvideo.net,GFWLIST
 HOST-SUFFIX,nftstorage.link,GFWLIST
 HOST-SUFFIX,nga.mil,GFWLIST
+HOST-SUFFIX,nhentai.net,GFWLIST
 HOST-SUFFIX,nhi.gov.tw,GFWLIST
 HOST-SUFFIX,nic.cz.cc,GFWLIST
 HOST-SUFFIX,nic.gov,GFWLIST
@@ -3543,6 +3544,7 @@ HOST-SUFFIX,walletconnect.com,GFWLIST
 HOST-SUFFIX,wallmama.com,GFWLIST
 HOST-SUFFIX,wallpapercasa.com,GFWLIST
 HOST-SUFFIX,wallsttv.com,GFWLIST
+HOST-SUFFIX,wallzhihu.com,GFWLIST
 HOST-SUFFIX,waltermartin.com,GFWLIST
 HOST-SUFFIX,waltermartin.org,GFWLIST
 HOST-SUFFIX,wanderinghorse.net,GFWLIST
