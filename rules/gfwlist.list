@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-18 01:29:28
-# Total domains: 3844
+# Updated: 2026-02-19 01:29:10
+# Total domains: 3845
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -1551,7 +1551,7 @@ HOST-SUFFIX,gumroad.com,GFWLIST
 HOST-SUFFIX,gunsamerica.com,GFWLIST
 HOST-SUFFIX,gutteruncensored.com,GFWLIST
 HOST-SUFFIX,gvm.com.tw,GFWLIST
-HOST-SUFFIX,gvt1.com],GFWLIST
+HOST-SUFFIX,gvt1.com,GFWLIST
 HOST-SUFFIX,gvt3.com,GFWLIST
 HOST-SUFFIX,gwins.org,GFWLIST
 HOST-SUFFIX,gwtproject.org,GFWLIST
@@ -2199,6 +2199,7 @@ HOST-SUFFIX,moptt.tw,GFWLIST
 HOST-SUFFIX,moresci.sale,GFWLIST
 HOST-SUFFIX,morningsun.org,GFWLIST
 HOST-SUFFIX,mos.ru,GFWLIST
+HOST-SUFFIX,mosavi.io,GFWLIST
 HOST-SUFFIX,movements.org,GFWLIST
 HOST-SUFFIX,moviefap.com,GFWLIST
 HOST-SUFFIX,mpettis.com,GFWLIST
