@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-02-22 01:28:32
-# Total domains: 3850
+# Updated: 2026-02-23 01:27:25
+# Total domains: 3852
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -3240,6 +3240,7 @@ HOST-SUFFIX,topbtc.com,GFWLIST
 HOST-SUFFIX,topsy.com,GFWLIST
 HOST-SUFFIX,toptip.ca,GFWLIST
 HOST-SUFFIX,toptoon.net,GFWLIST
+HOST-SUFFIX,tor.eff.org,GFWLIST
 HOST-SUFFIX,torguard.net,GFWLIST
 HOST-SUFFIX,torlock.com,GFWLIST
 HOST-SUFFIX,torproject.org,GFWLIST
@@ -3370,6 +3371,7 @@ HOST-SUFFIX,unblocksit.es,GFWLIST
 HOST-SUFFIX,underwoodammo.com,GFWLIST
 HOST-SUFFIX,unholyknight.com,GFWLIST
 HOST-SUFFIX,unirule.cloud,GFWLIST
+HOST-SUFFIX,uniswap.org,GFWLIST
 HOST-SUFFIX,unknownspace.org,GFWLIST
 HOST-SUFFIX,unmineable.com,GFWLIST
 HOST-SUFFIX,unseen.is,GFWLIST
