@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-03-03 01:27:58
-# Total domains: 3855
+# Updated: 2026-03-04 01:23:09
+# Total domains: 3858
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -232,12 +232,14 @@ HOST-SUFFIX,archiveofourown.org,GFWLIST
 HOST-SUFFIX,archives.gov,GFWLIST
 HOST-SUFFIX,arctosia.com,GFWLIST
 HOST-SUFFIX,areca-backup.org,GFWLIST
+HOST-SUFFIX,arena.ai,GFWLIST
 HOST-SUFFIX,arena.taipei,GFWLIST
 HOST-SUFFIX,arethusa.su,GFWLIST
 HOST-SUFFIX,arlingtoncemetery.mil,GFWLIST
 HOST-SUFFIX,arte.tv,GFWLIST
 HOST-SUFFIX,artstation.com,GFWLIST
 HOST-SUFFIX,arvanstorage.ir,GFWLIST
+HOST-SUFFIX,arweave.org,GFWLIST
 HOST-SUFFIX,asacp.org,GFWLIST
 HOST-SUFFIX,asiaharvest.org,GFWLIST
 HOST-SUFFIX,asianage.com,GFWLIST
@@ -3622,6 +3624,7 @@ HOST-SUFFIX,wiredbytes.com,GFWLIST
 HOST-SUFFIX,wiredpen.com,GFWLIST
 HOST-SUFFIX,wireguard.com,GFWLIST
 HOST-SUFFIX,wisevid.com,GFWLIST
+HOST-SUFFIX,wispbyte.com,GFWLIST
 HOST-SUFFIX,withgoogle.com,GFWLIST
 HOST-SUFFIX,withyoutube.com,GFWLIST
 HOST-SUFFIX,witopia.net,GFWLIST
