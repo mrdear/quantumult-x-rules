@@ -1,5 +1,5 @@
 # GFW List for Quantumult X
-# Updated: 2026-03-04 01:23:09
+# Updated: 2026-03-05 01:25:28
 # Total domains: 3858
 
 HOST-SUFFIX,000webhost.com,GFWLIST
@@ -924,6 +924,7 @@ HOST-SUFFIX,ebook.hyread.com.tw,GFWLIST
 HOST-SUFFIX,ebtcbank.com,GFWLIST
 HOST-SUFFIX,ecfa.org.tw,GFWLIST
 HOST-SUFFIX,ecimg.tw,GFWLIST
+HOST-SUFFIX,economist.com,GFWLIST
 HOST-SUFFIX,edgecastcdn.net,GFWLIST
 HOST-SUFFIX,edubridge.com,GFWLIST
 HOST-SUFFIX,edx-cdn.org,GFWLIST
@@ -3811,7 +3812,6 @@ HOST-SUFFIX,z-library.ec,GFWLIST
 HOST-SUFFIX,z-library.sk,GFWLIST
 HOST-SUFFIX,zalmos.com,GFWLIST
 HOST-SUFFIX,zamimg.com,GFWLIST
-HOST-SUFFIX,zaobao.com.sg,GFWLIST
 HOST-SUFFIX,zaochenbao.com,GFWLIST
 HOST-SUFFIX,zattoo.com,GFWLIST
 HOST-SUFFIX,zb.com,GFWLIST
