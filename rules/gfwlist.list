@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-03-06 01:27:58
-# Total domains: 3859
+# Updated: 2026-03-07 01:20:49
+# Total domains: 3862
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -854,6 +854,7 @@ HOST-SUFFIX,dmc.nico,GFWLIST
 HOST-SUFFIX,dmcdn.net,GFWLIST
 HOST-SUFFIX,dmhy.org,GFWLIST
 HOST-SUFFIX,dmm.co.jp,GFWLIST
+HOST-SUFFIX,dns.cloudflare.com,GFWLIST
 HOST-SUFFIX,dns2go.com,GFWLIST
 HOST-SUFFIX,dnscrypt.org,GFWLIST
 HOST-SUFFIX,dnssec.net,GFWLIST
@@ -1406,6 +1407,7 @@ HOST-SUFFIX,google.com.vn,GFWLIST
 HOST-SUFFIX,google.cv,GFWLIST
 HOST-SUFFIX,google.cz,GFWLIST
 HOST-SUFFIX,google.de,GFWLIST
+HOST-SUFFIX,google.dev,GFWLIST
 HOST-SUFFIX,google.dk,GFWLIST
 HOST-SUFFIX,google.dm,GFWLIST
 HOST-SUFFIX,google.dz,GFWLIST
@@ -1801,6 +1803,7 @@ HOST-SUFFIX,internetpopculture.com,GFWLIST
 HOST-SUFFIX,interseclab.org,GFWLIST
 HOST-SUFFIX,inthenameofconfuciusmovie.com,GFWLIST
 HOST-SUFFIX,investigating.wordpress.com,GFWLIST
+HOST-SUFFIX,investing.com,GFWLIST
 HOST-SUFFIX,invidio.us,GFWLIST
 HOST-SUFFIX,inxian.com,GFWLIST
 HOST-SUFFIX,ipdefenseforum.com,GFWLIST
