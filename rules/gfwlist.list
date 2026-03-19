@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-03-18 01:43:28
-# Total domains: 3864
+# Updated: 2026-03-19 01:44:00
+# Total domains: 3865
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -72,6 +72,7 @@ HOST-SUFFIX,9gag.com,GFWLIST
 HOST-SUFFIX,9news.com.au,GFWLIST
 HOST-SUFFIX,a-normal-day.com,GFWLIST
 HOST-SUFFIX,a248.e.akamai.net,GFWLIST
+HOST-SUFFIX,aave.com,GFWLIST
 HOST-SUFFIX,abc.net.au,GFWLIST
 HOST-SUFFIX,abc.xyz,GFWLIST
 HOST-SUFFIX,abebooks.co.uk,GFWLIST
