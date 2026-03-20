@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-03-19 01:44:00
-# Total domains: 3865
+# Updated: 2026-03-20 01:26:12
+# Total domains: 3867
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2393,8 +2393,10 @@ HOST-SUFFIX,ogate.org,GFWLIST
 HOST-SUFFIX,ohmyrss.com,GFWLIST
 HOST-SUFFIX,ok.ru,GFWLIST
 HOST-SUFFIX,okayfreedom.com,GFWLIST
+HOST-SUFFIX,okcoin.com,GFWLIST
 HOST-SUFFIX,okex.com,GFWLIST
 HOST-SUFFIX,okk.tw,GFWLIST
+HOST-SUFFIX,oklink.com,GFWLIST
 HOST-SUFFIX,okpool.me,GFWLIST
 HOST-SUFFIX,okx.com,GFWLIST
 HOST-SUFFIX,olehdtv.com,GFWLIST
