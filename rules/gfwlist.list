@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-03-24 01:24:34
-# Total domains: 3869
+# Updated: 2026-03-25 01:42:30
+# Total domains: 3870
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -3721,6 +3721,7 @@ HOST-SUFFIX,xjtravelguide.com,GFWLIST
 HOST-SUFFIX,xm.com,GFWLIST
 HOST-SUFFIX,xml-training-guide.com,GFWLIST
 HOST-SUFFIX,xn--11xs86f.icu,GFWLIST
+HOST-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com,GFWLIST
 HOST-SUFFIX,xn--4gq171p.com,GFWLIST
 HOST-SUFFIX,xn--9iqy04a7fi01l.com,GFWLIST
 HOST-SUFFIX,xn--9pr62r24a.com,GFWLIST
