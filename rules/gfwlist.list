@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-04-03 01:47:47
-# Total domains: 3870
+# Updated: 2026-04-04 01:29:26
+# Total domains: 3871
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2443,6 +2443,7 @@ HOST-SUFFIX,orient-doll.com,GFWLIST
 HOST-SUFFIX,orientaldaily.com.my,GFWLIST
 HOST-SUFFIX,orn.jp,GFWLIST
 HOST-SUFFIX,osfoora.com,GFWLIST
+HOST-SUFFIX,osmand.net,GFWLIST
 HOST-SUFFIX,otcbtc.com,GFWLIST
 HOST-SUFFIX,otto.de,GFWLIST
 HOST-SUFFIX,ourdearamy.com,GFWLIST
