@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-04-05 01:52:13
-# Total domains: 3871
+# Updated: 2026-04-06 01:53:29
+# Total domains: 3875
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -220,6 +220,7 @@ HOST-SUFFIX,appsocks.net,GFWLIST
 HOST-SUFFIX,appspot.com,GFWLIST
 HOST-SUFFIX,appsto.re,GFWLIST
 HOST-SUFFIX,aptoide.com,GFWLIST
+HOST-SUFFIX,archive-it.org,GFWLIST
 HOST-SUFFIX,archive.fo,GFWLIST
 HOST-SUFFIX,archive.is,GFWLIST
 HOST-SUFFIX,archive.li,GFWLIST
@@ -857,6 +858,7 @@ HOST-SUFFIX,dmcdn.net,GFWLIST
 HOST-SUFFIX,dmhy.org,GFWLIST
 HOST-SUFFIX,dmm.co.jp,GFWLIST
 HOST-SUFFIX,dns.cloudflare.com,GFWLIST
+HOST-SUFFIX,dns.sb,GFWLIST
 HOST-SUFFIX,dns2go.com,GFWLIST
 HOST-SUFFIX,dnscrypt.org,GFWLIST
 HOST-SUFFIX,dnssec.net,GFWLIST
@@ -867,6 +869,7 @@ HOST-SUFFIX,docker.io,GFWLIST
 HOST-SUFFIX,dockerstatus.com,GFWLIST
 HOST-SUFFIX,docs.new,GFWLIST
 HOST-SUFFIX,documentingreality.com,GFWLIST
+HOST-SUFFIX,doh.sb,GFWLIST
 HOST-SUFFIX,dolc.de,GFWLIST
 HOST-SUFFIX,dolf.org.hk,GFWLIST
 HOST-SUFFIX,dongtaiwang.com,GFWLIST
@@ -874,6 +877,7 @@ HOST-SUFFIX,dongtaiwang.net,GFWLIST
 HOST-SUFFIX,doom9.org,GFWLIST
 HOST-SUFFIX,doosho.com,GFWLIST
 HOST-SUFFIX,doourbest.org,GFWLIST
+HOST-SUFFIX,dot.sb,GFWLIST
 HOST-SUFFIX,dotplane.com,GFWLIST
 HOST-SUFFIX,dotsub.com,GFWLIST
 HOST-SUFFIX,dotvpn.com,GFWLIST
