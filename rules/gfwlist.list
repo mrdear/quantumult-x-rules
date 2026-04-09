@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-04-08 01:50:48
-# Total domains: 3876
+# Updated: 2026-04-09 01:43:16
+# Total domains: 3875
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2116,7 +2116,6 @@ HOST-SUFFIX,mediafreakcity.com,GFWLIST
 HOST-SUFFIX,mediawiki.org,GFWLIST
 HOST-SUFFIX,medium.com,GFWLIST
 HOST-SUFFIX,meee.com.tw,GFWLIST
-HOST-SUFFIX,meetup.com,GFWLIST
 HOST-SUFFIX,mega.co.nz,GFWLIST
 HOST-SUFFIX,mega.io,GFWLIST
 HOST-SUFFIX,mega.nz,GFWLIST
@@ -2181,6 +2180,7 @@ HOST-SUFFIX,mirrorbooks.com,GFWLIST
 HOST-SUFFIX,mirrormedia.mg,GFWLIST
 HOST-SUFFIX,missav.com,GFWLIST
 HOST-SUFFIX,missav.ws,GFWLIST
+HOST-SUFFIX,mistral.ai,GFWLIST
 HOST-SUFFIX,mitbbs.com,GFWLIST
 HOST-SUFFIX,miuipolska.pl,GFWLIST
 HOST-SUFFIX,mixero.com,GFWLIST
@@ -2663,7 +2663,6 @@ HOST-SUFFIX,pursuestar.com,GFWLIST
 HOST-SUFFIX,putty.org,GFWLIST
 HOST-SUFFIX,pximg.net,GFWLIST
 HOST-SUFFIX,python.com.tw,GFWLIST
-HOST-SUFFIX,pytorch.org,GFWLIST
 HOST-SUFFIX,qbittorrent.org,GFWLIST
 HOST-SUFFIX,qgirl.com.tw,GFWLIST
 HOST-SUFFIX,qi-gong.me,GFWLIST
