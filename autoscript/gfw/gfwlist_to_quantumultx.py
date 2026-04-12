@@ -2,18 +2,24 @@
 # -*- coding: utf-8 -*-
 
 import base64
-import requests
 import re
 import os
+import ssl
 from datetime import datetime
 import socket
+from urllib.error import HTTPError, URLError
+from urllib.request import urlopen
 
 # GFW list URL
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
-# Output directory
-OUTPUT_DIR = "rules"
-# Output file name
-OUTPUT_FILE = "gfwlist.list"
+# Output paths
+OUTPUT_PATHS = {
+    "qx": os.path.join("rules", "qx", "gfwlist.list"),
+    "clash": os.path.join("rules", "clash", "gfwlist.yaml"),
+}
+
+# Policy name used by both rule sets
+POLICY_NAME = "GFWLIST"
 
 def is_ip_address(domain):
     """Check if a domain is actually an IP address (with or without port)"""
@@ -40,10 +46,29 @@ def is_ip_address(domain):
 def fetch_gfwlist():
     """Fetch the GFW list from GitHub"""
     print("Fetching GFW list...")
-    response = requests.get(GFWLIST_URL)
-    if response.status_code != 200:
-        raise Exception(f"Failed to fetch GFW list, status code: {response.status_code}")
-    return response.text
+
+    def download(context):
+        with urlopen(GFWLIST_URL, timeout=30, context=context) as response:
+            return response.read().decode("utf-8")
+
+    try:
+        return download(ssl.create_default_context())
+    except HTTPError as error:
+        raise Exception(f"Failed to fetch GFW list, status code: {error.code}") from error
+    except URLError as error:
+        reason = getattr(error, "reason", error)
+        if "CERTIFICATE_VERIFY_FAILED" in str(reason):
+            print("Retrying without certificate verification...")
+            try:
+                return download(ssl._create_unverified_context())
+            except HTTPError as retry_error:
+                raise Exception(
+                    f"Failed to fetch GFW list, status code: {retry_error.code}"
+                ) from retry_error
+            except URLError as retry_error:
+                raise Exception(f"Failed to fetch GFW list: {retry_error.reason}") from retry_error
+
+        raise Exception(f"Failed to fetch GFW list: {reason}") from error
 
 def decode_gfwlist(content):
     """Decode the base64 encoded GFW list"""
@@ -91,36 +116,51 @@ def parse_gfwlist(content):
 
     return sorted(list(domains))
 
-def convert_to_quantumultx(domains):
-    """Convert domains to Quantumult X rule format"""
-    print("Converting to Quantumult X format...")
+def convert_to_rule_format(domains, rule_prefix, title):
+    """Convert domains to a rule format."""
+    print(f"Converting to {title} format...")
     rules = []
 
     # Add header with metadata
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    rules.append(f"# GFW List for Quantumult X")
+    rules.append(f"# GFW List for {title}")
     rules.append(f"# Updated: {now}")
     rules.append(f"# Total domains: {len(domains)}")
     rules.append("")
 
     for domain in domains:
-        # Use HOST-SUFFIX for domain rules
-        rules.append(f"HOST-SUFFIX,{domain},GFWLIST")
+        rules.append(f"{rule_prefix},{domain},{POLICY_NAME}")
 
     return "\n".join(rules)
 
-def save_rules(content):
+def convert_to_clash_rule_provider(domains):
+    """Convert domains to a Clash rule-provider YAML file."""
+    print("Converting to Clash rule-provider format...")
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    rules = [
+        "# GFW List for Clash rule-provider",
+        f"# Updated: {now}",
+        f"# Total domains: {len(domains)}",
+        "payload:",
+    ]
+
+    for domain in domains:
+        # Clash domain providers use wildcard-style suffix matching.
+        rules.append(f"  - '+.{domain}'")
+
+    return "\n".join(rules)
+
+def save_rules(output_path, content):
     """Save the rules to a file"""
     print("Saving rules...")
     # Create output directory if it doesn't exist
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     # Write the rules to the output file
-    with open(os.path.join(OUTPUT_DIR, OUTPUT_FILE), 'w') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         f.write(content)
 
-    print(f"Rules saved to {os.path.join(OUTPUT_DIR, OUTPUT_FILE)}")
+    print(f"Rules saved to {output_path}")
 
 def main():
     """Main function"""
@@ -134,11 +174,13 @@ def main():
         # Parse the GFW list
         domains = parse_gfwlist(decoded_content)
 
-        # Convert to Quantumult X format
-        rules = convert_to_quantumultx(domains)
+        outputs = {
+            OUTPUT_PATHS["qx"]: convert_to_rule_format(domains, "HOST-SUFFIX", "Quantumult X"),
+            OUTPUT_PATHS["clash"]: convert_to_clash_rule_provider(domains),
+        }
 
-        # Save the rules
-        save_rules(rules)
+        for output_path, rules in outputs.items():
+            save_rules(output_path, rules)
 
         print("Conversion completed successfully!")
     except Exception as e:

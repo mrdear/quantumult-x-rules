@@ -1,4 +1,4 @@
-name: Update GFW List
+name: Update Rules
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  update-gfwlist:
+  update-rules:
     runs-on: ubuntu-latest
 
     # Add this permissions block
@@ -26,11 +26,18 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
 
     - name: Run GFW list converter
       run: |
-        python gfw/gfwlist_to_quantumultx.py
+        python autoscript/gfw/gfwlist_to_quantumultx.py
+
+    - name: Run proxy list converter
+      run: |
+        python autoscript/proxy/proxy_to_quantumultx.py
+
+    - name: Run local CIDR converter
+      run: |
+        python autoscript/local/local_to_quantumultx.py
 
     - name: Check for changes
       id: git-check
@@ -49,5 +56,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "Update GFW list for Quantumult X"
+        git commit -m "Update GFW, proxy, and local lists for Quantumult X and Clash"
         git push
