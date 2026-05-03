@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-02 02:05:22
-# Total domains: 3870
+# Updated: 2026-05-03 02:11:17
+# Total domains: 3871
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -2927,6 +2927,7 @@ payload:
   - '+.socks-proxy.net'
   - '+.sockslist.net'
   - '+.softether-download.com'
+  - '+.softether.co.jp'
   - '+.softether.org'
   - '+.softfamous.com'
   - '+.softwarebychuck.com'
