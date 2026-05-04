@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-05-03 02:11:17
-# Total domains: 3871
+# Updated: 2026-05-04 02:10:13
+# Total domains: 3867
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2810,9 +2810,6 @@ HOST-SUFFIX,savetibet.org,GFWLIST
 HOST-SUFFIX,savetibetstore.org,GFWLIST
 HOST-SUFFIX,saveuighur.org,GFWLIST
 HOST-SUFFIX,sbti.unun.dev,GFWLIST
-HOST-SUFFIX,scache.vzw.com,GFWLIST
-HOST-SUFFIX,scache1.vzw.com,GFWLIST
-HOST-SUFFIX,scache2.vzw.com,GFWLIST
 HOST-SUFFIX,schema.org,GFWLIST
 HOST-SUFFIX,scmp.com,GFWLIST
 HOST-SUFFIX,scramble.io,GFWLIST
@@ -2984,7 +2981,6 @@ HOST-SUFFIX,springwood.me,GFWLIST
 HOST-SUFFIX,sproutcore.com,GFWLIST
 HOST-SUFFIX,squirrelvpn.com,GFWLIST
 HOST-SUFFIX,ss-link.com,GFWLIST
-HOST-SUFFIX,ss7.vzw.com,GFWLIST
 HOST-SUFFIX,ssl.webpack.de,GFWLIST
 HOST-SUFFIX,sspanel.net,GFWLIST
 HOST-SUFFIX,ssr.tools,GFWLIST
