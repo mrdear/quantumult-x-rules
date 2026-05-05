@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-05-04 02:10:14
-# Total domains: 25944
+# Updated: 2026-05-05 02:08:46
+# Total domains: 25945
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -6631,6 +6631,7 @@ HOST-SUFFIX,digitalcertvalidation.com,PROXY
 HOST-SUFFIX,digitaldesire.com,PROXY
 HOST-SUFFIX,digitalhub.com,PROXY
 HOST-SUFFIX,digitalid.ch,PROXY
+HOST-SUFFIX,digitalocean-ui.com,PROXY
 HOST-SUFFIX,digitalocean.com,PROXY
 HOST-SUFFIX,digitaloceanspaces.com,PROXY
 HOST-SUFFIX,digitalpack.com,PROXY

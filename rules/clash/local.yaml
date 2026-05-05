@@ -1,5 +1,5 @@
 # Local CIDR List for Clash rule-provider
-# Updated: 2026-05-04 02:10:14
+# Updated: 2026-05-05 02:08:46
 # Total cidrs: 18
 payload:
   - '0.0.0.0/8'
