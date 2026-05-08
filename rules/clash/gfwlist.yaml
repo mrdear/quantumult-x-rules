@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-07 02:11:21
-# Total domains: 3895
+# Updated: 2026-05-08 02:28:00
+# Total domains: 3896
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -3404,6 +3404,7 @@ payload:
   - '+.ultrasurf.us'
   - '+.ultravpn.com'
   - '+.ultravpn.fr'
+  - '+.umap.openstreetmap.fr'
   - '+.unblock-us.com'
   - '+.unblock.cn.com'
   - '+.unblocksit.es'
