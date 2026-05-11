@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-10 02:14:22
-# Total domains: 3896
+# Updated: 2026-05-11 02:32:37
+# Total domains: 3898
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -800,6 +800,7 @@ payload:
   - '+.darrenliuwei.com'
   - '+.dashlane.com'
   - '+.data-vocabulary.org'
+  - '+.data18.com'
   - '+.daum.net'
   - '+.dawangidc.com'
   - '+.daxa.cn'
@@ -906,6 +907,7 @@ payload:
   - '+.dropbox.com'
   - '+.dropboxapi.com'
   - '+.dropboxusercontent.com'
+  - '+.dt18.com'
   - '+.dtiblog.com'
   - '+.dtic.mil'
   - '+.dubox.com'

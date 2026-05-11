@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-05-10 02:14:22
-# Total domains: 3896
+# Updated: 2026-05-11 02:32:37
+# Total domains: 3898
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -800,6 +800,7 @@ HOST-SUFFIX,darpa.mil,GFWLIST
 HOST-SUFFIX,darrenliuwei.com,GFWLIST
 HOST-SUFFIX,dashlane.com,GFWLIST
 HOST-SUFFIX,data-vocabulary.org,GFWLIST
+HOST-SUFFIX,data18.com,GFWLIST
 HOST-SUFFIX,daum.net,GFWLIST
 HOST-SUFFIX,dawangidc.com,GFWLIST
 HOST-SUFFIX,daxa.cn,GFWLIST
@@ -906,6 +907,7 @@ HOST-SUFFIX,dropbooks.tv,GFWLIST
 HOST-SUFFIX,dropbox.com,GFWLIST
 HOST-SUFFIX,dropboxapi.com,GFWLIST
 HOST-SUFFIX,dropboxusercontent.com,GFWLIST
+HOST-SUFFIX,dt18.com,GFWLIST
 HOST-SUFFIX,dtiblog.com,GFWLIST
 HOST-SUFFIX,dtic.mil,GFWLIST
 HOST-SUFFIX,dubox.com,GFWLIST
