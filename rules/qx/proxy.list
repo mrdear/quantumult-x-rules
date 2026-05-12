@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-05-11 02:32:37
-# Total domains: 26103
+# Updated: 2026-05-12 02:25:46
+# Total domains: 26107
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -6219,6 +6219,7 @@ HOST-SUFFIX,dat.foundation,PROXY
 HOST-SUFFIX,data-tscbank.ru,PROXY
 HOST-SUFFIX,data-vocabulary.org,PROXY
 HOST-SUFFIX,data.com,PROXY
+HOST-SUFFIX,data18.com,PROXY
 HOST-SUFFIX,databank.worldbank.org,PROXY
 HOST-SUFFIX,database.asahi.com,PROXY
 HOST-SUFFIX,datacloudmy.com,PROXY
@@ -7176,6 +7177,7 @@ HOST-SUFFIX,dssott.com,PROXY
 HOST-SUFFIX,dstk.dk,PROXY
 HOST-SUFFIX,dswz88.xyz,PROXY
 HOST-SUFFIX,dsyiren.com,PROXY
+HOST-SUFFIX,dt18.com,PROXY
 HOST-SUFFIX,dtci.co,PROXY
 HOST-SUFFIX,dtci.technology,PROXY
 HOST-SUFFIX,dtiblog.com,PROXY
@@ -9733,6 +9735,7 @@ HOST-SUFFIX,gettyimages.se,PROXY
 HOST-SUFFIX,gettyimages.us,PROXY
 HOST-SUFFIX,getuploader.com,PROXY
 HOST-SUFFIX,getws1.com,PROXY
+HOST-SUFFIX,getwsj.com,PROXY
 HOST-SUFFIX,getwsone.com,PROXY
 HOST-SUFFIX,getzola.org,PROXY
 HOST-SUFFIX,gfacecbook.com,PROXY
@@ -12882,6 +12885,7 @@ HOST-SUFFIX,javdoe.to,PROXY
 HOST-SUFFIX,javdove.com,PROXY
 HOST-SUFFIX,javdove8.xyz,PROXY
 HOST-SUFFIX,javextreme.net,PROXY
+HOST-SUFFIX,javfc2.xyz,PROXY
 HOST-SUFFIX,javfilms.com,PROXY
 HOST-SUFFIX,javfinder.ai,PROXY
 HOST-SUFFIX,javfor.me,PROXY
