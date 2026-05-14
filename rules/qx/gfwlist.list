@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-05-13 02:32:29
-# Total domains: 3898
+# Updated: 2026-05-14 02:33:33
+# Total domains: 3899
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -635,6 +635,7 @@ HOST-SUFFIX,chineseradioseattle.com,GFWLIST
 HOST-SUFFIX,chineseupress.com,GFWLIST
 HOST-SUFFIX,chingcheong.com,GFWLIST
 HOST-SUFFIX,chobit.cc,GFWLIST
+HOST-SUFFIX,chonglangtv.org,GFWLIST
 HOST-SUFFIX,christianfreedom.org,GFWLIST
 HOST-SUFFIX,christianstudy.com,GFWLIST
 HOST-SUFFIX,christiantimes.org.hk,GFWLIST
