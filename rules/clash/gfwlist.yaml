@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-17 02:30:23
-# Total domains: 3899
+# Updated: 2026-05-18 02:40:41
+# Total domains: 3901
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -2897,6 +2897,7 @@ payload:
   - '+.shutterstock.com'
   - '+.shwchurch.org'
   - '+.sidelinesnews.com'
+  - '+.sider.ai'
   - '+.signal.org'
   - '+.silvergatebank.com'
   - '+.simbolostwitter.com'
@@ -3867,6 +3868,7 @@ payload:
   - '+.zh.pokerstrategy.com'
   - '+.zh.wikiquote.org'
   - '+.zhangtianliang.com'
+  - '+.zhangzhehan.net'
   - '+.zhanlve.org'
   - '+.zhao.1984.city'
   - '+.zhengjian.org'

@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-05-17 02:30:23
-# Total domains: 3899
+# Updated: 2026-05-18 02:40:41
+# Total domains: 3901
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2897,6 +2897,7 @@ HOST-SUFFIX,showwe.tw,GFWLIST
 HOST-SUFFIX,shutterstock.com,GFWLIST
 HOST-SUFFIX,shwchurch.org,GFWLIST
 HOST-SUFFIX,sidelinesnews.com,GFWLIST
+HOST-SUFFIX,sider.ai,GFWLIST
 HOST-SUFFIX,signal.org,GFWLIST
 HOST-SUFFIX,silvergatebank.com,GFWLIST
 HOST-SUFFIX,simbolostwitter.com,GFWLIST
@@ -3867,6 +3868,7 @@ HOST-SUFFIX,zh.ecdm.wikia.com,GFWLIST
 HOST-SUFFIX,zh.pokerstrategy.com,GFWLIST
 HOST-SUFFIX,zh.wikiquote.org,GFWLIST
 HOST-SUFFIX,zhangtianliang.com,GFWLIST
+HOST-SUFFIX,zhangzhehan.net,GFWLIST
 HOST-SUFFIX,zhanlve.org,GFWLIST
 HOST-SUFFIX,zhao.1984.city,GFWLIST
 HOST-SUFFIX,zhengjian.org,GFWLIST
