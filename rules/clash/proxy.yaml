@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-05-20 02:39:00
-# Total domains: 26219
+# Updated: 2026-05-21 02:41:32
+# Total domains: 26228
 payload:
   - '000webhost.com'
   - '01.org'
@@ -1313,6 +1313,7 @@ payload:
   - 'alefbank.com'
   - 'alexa.com'
   - 'alexanderstreet.com'
+  - 'alfa.me'
   - 'alfabank.oavdo.amc'
   - 'alfabank.ru'
   - 'alfabank.st'
@@ -8583,6 +8584,7 @@ payload:
   - 'favepornmovs.com'
   - 'favepornvids.com'
   - 'favjapaneseporn.com'
+  - 'favoritescc-hamivideo2.cdn.hinet.net'
   - 'favstar.fm'
   - 'fawanghuihui.org'
   - 'faycbok.com'
@@ -13817,6 +13819,7 @@ payload:
   - 'lg.com'
   - 'lgappstv.com'
   - 'lgbtq.games'
+  - 'lgcscc-hamivideo2.cdn.hinet.net'
   - 'lge.co.kr'
   - 'lge.com'
   - 'lgecareers.com'
@@ -15943,6 +15946,7 @@ payload:
   - 'myspacecdn.com'
   - 'mysql.com'
   - 'mystrikingly.com'
+  - 'myteamspeak.com'
   - 'myteenwebcam.com'
   - 'mythicentertainment.com'
   - 'mythicentertainment.net'
@@ -21660,6 +21664,8 @@ payload:
   - 'teachparentstech.org'
   - 'teamneedforspeed.com'
   - 'teamskeet.com'
+  - 'teamspeak-services.com'
+  - 'teamspeak.com'
   - 'teamviewer.com'
   - 'teamviewer.com.cdn.cloudflare.net'
   - 'teamviewer.us'
@@ -22052,6 +22058,7 @@ payload:
   - 'throughnightsfire.com'
   - 'thtmod1.com'
   - 'thuhole.com'
+  - 'thumbnail-hamivideo.cdn.hinet.net'
   - 'thumbnailseries.com'
   - 'thumbzilla.com'
   - 'thunderbird.net'
@@ -22241,6 +22248,7 @@ payload:
   - 'tksex.com'
   - 'tktube.com'
   - 'tl.gd'
+  - 'tlmr-hamivideo2.cdn.hinet.net'
   - 'tma.co.jp'
   - 'tmagazine.com'
   - 'tmdb-image-prod.b-cdn.net'
@@ -24242,6 +24250,7 @@ payload:
   - 'webtoons.com'
   - 'webtoonscorp.com'
   - 'webtype.com'
+  - 'webvodad-hamivideo.cdn.hinet.net'
   - 'webwarper.net'
   - 'wechatlawsuit.com'
   - 'weebly.com'

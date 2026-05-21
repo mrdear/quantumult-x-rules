@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-20 02:39:00
-# Total domains: 3901
+# Updated: 2026-05-21 02:41:32
+# Total domains: 3907
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -1019,6 +1019,7 @@ payload:
   - '+.f-droid.org'
   - '+.f2pool.com'
   - '+.f8.com'
+  - '+.f95zone.to'
   - '+.facebook.com'
   - '+.facebook.de'
   - '+.facebook.design'
@@ -1190,6 +1191,7 @@ payload:
   - '+.fxnetworks.com'
   - '+.g-area.org'
   - '+.g-queen.com'
+  - '+.g.ai'
   - '+.g.co'
   - '+.g0v.social'
   - '+.gab.com'
@@ -2005,6 +2007,7 @@ payload:
   - '+.lematin.ch'
   - '+.lemonde.fr'
   - '+.lenwhite.com'
+  - '+.leonardo.ai'
   - '+.lesoir.be'
   - '+.letscorp.net'
   - '+.lexica.art'
@@ -2727,6 +2730,7 @@ payload:
   - '+.raidcall.com.tw'
   - '+.rakuten.co.jp'
   - '+.ramcity.com.au'
+  - '+.raphael.app'
   - '+.rapidmoviez.com'
   - '+.rapidvpn.com'
   - '+.rarbgprx.org'
@@ -2803,6 +2807,7 @@ payload:
   - '+.rti.tw'
   - '+.rtm.tnt-ea.com'
   - '+.rts.ch'
+  - '+.rule34.us'
   - '+.rule34.xxx'
   - '+.rule34video.com'
   - '+.rumble.com'
@@ -2970,6 +2975,7 @@ payload:
   - '+.sos.org'
   - '+.sosad.fun'
   - '+.sosreader.com'
+  - '+.sotwe.com'
   - '+.soulcaliburhentai.net'
   - '+.soundcloud.com'
   - '+.soundofhope.org'

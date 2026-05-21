@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-05-20 02:39:00
-# Total domains: 3901
+# Updated: 2026-05-21 02:41:32
+# Total domains: 3907
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -1019,6 +1019,7 @@ HOST-SUFFIX,eyny.com,GFWLIST
 HOST-SUFFIX,f-droid.org,GFWLIST
 HOST-SUFFIX,f2pool.com,GFWLIST
 HOST-SUFFIX,f8.com,GFWLIST
+HOST-SUFFIX,f95zone.to,GFWLIST
 HOST-SUFFIX,facebook.com,GFWLIST
 HOST-SUFFIX,facebook.de,GFWLIST
 HOST-SUFFIX,facebook.design,GFWLIST
@@ -1190,6 +1191,7 @@ HOST-SUFFIX,fxcm-chinese.com,GFWLIST
 HOST-SUFFIX,fxnetworks.com,GFWLIST
 HOST-SUFFIX,g-area.org,GFWLIST
 HOST-SUFFIX,g-queen.com,GFWLIST
+HOST-SUFFIX,g.ai,GFWLIST
 HOST-SUFFIX,g.co,GFWLIST
 HOST-SUFFIX,g0v.social,GFWLIST
 HOST-SUFFIX,gab.com,GFWLIST
@@ -2005,6 +2007,7 @@ HOST-SUFFIX,leisurepro.com,GFWLIST
 HOST-SUFFIX,lematin.ch,GFWLIST
 HOST-SUFFIX,lemonde.fr,GFWLIST
 HOST-SUFFIX,lenwhite.com,GFWLIST
+HOST-SUFFIX,leonardo.ai,GFWLIST
 HOST-SUFFIX,lesoir.be,GFWLIST
 HOST-SUFFIX,letscorp.net,GFWLIST
 HOST-SUFFIX,lexica.art,GFWLIST
@@ -2727,6 +2730,7 @@ HOST-SUFFIX,raggedbanner.com,GFWLIST
 HOST-SUFFIX,raidcall.com.tw,GFWLIST
 HOST-SUFFIX,rakuten.co.jp,GFWLIST
 HOST-SUFFIX,ramcity.com.au,GFWLIST
+HOST-SUFFIX,raphael.app,GFWLIST
 HOST-SUFFIX,rapidmoviez.com,GFWLIST
 HOST-SUFFIX,rapidvpn.com,GFWLIST
 HOST-SUFFIX,rarbgprx.org,GFWLIST
@@ -2803,6 +2807,7 @@ HOST-SUFFIX,rti.org.tw,GFWLIST
 HOST-SUFFIX,rti.tw,GFWLIST
 HOST-SUFFIX,rtm.tnt-ea.com,GFWLIST
 HOST-SUFFIX,rts.ch,GFWLIST
+HOST-SUFFIX,rule34.us,GFWLIST
 HOST-SUFFIX,rule34.xxx,GFWLIST
 HOST-SUFFIX,rule34video.com,GFWLIST
 HOST-SUFFIX,rumble.com,GFWLIST
@@ -2970,6 +2975,7 @@ HOST-SUFFIX,sorting-algorithms.com,GFWLIST
 HOST-SUFFIX,sos.org,GFWLIST
 HOST-SUFFIX,sosad.fun,GFWLIST
 HOST-SUFFIX,sosreader.com,GFWLIST
+HOST-SUFFIX,sotwe.com,GFWLIST
 HOST-SUFFIX,soulcaliburhentai.net,GFWLIST
 HOST-SUFFIX,soundcloud.com,GFWLIST
 HOST-SUFFIX,soundofhope.org,GFWLIST
