@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-05-21 02:41:32
-# Total domains: 26228
+# Updated: 2026-05-22 02:42:23
+# Total domains: 26237
 payload:
   - '000webhost.com'
   - '01.org'
@@ -9471,6 +9471,7 @@ payload:
   - 'g-tun.com'
   - 'g-tvapp.com'
   - 'g-xxxhub.com'
+  - 'g.ai'
   - 'g.co'
   - 'g.dev'
   - 'g.page'
@@ -13784,6 +13785,7 @@ payload:
   - 'lenporno.net'
   - 'lenporno.red'
   - 'lenwhite.com'
+  - 'leonardo.ai'
   - 'leporno.org'
   - 'lepornochaud.com'
   - 'lepornofrais.com'
@@ -15609,10 +15611,12 @@ payload:
   - 'moxing.news'
   - 'moystoys.com'
   - 'mozgcp.net'
+  - 'mozilla.ai'
   - 'mozilla.com'
   - 'mozilla.community'
   - 'mozilla.net'
   - 'mozilla.org'
+  - 'mozillafoundation.org'
   - 'mp.world'
   - 'mpettis.com'
   - 'mpfinance.com'
@@ -15969,6 +15973,7 @@ payload:
   - 'myyoungmomisnude.com'
   - 'myyoungwifeisnude.com'
   - 'mzed.com'
+  - 'mzl.la'
   - 'mzstatic.com'
   - 'n0vadesktop.com'
   - 'n26.com'
@@ -19030,6 +19035,7 @@ payload:
   - 'randyblue.com'
   - 'rapefilms.net'
   - 'rapetube.me'
+  - 'raphael.app'
   - 'rapidmoviez.com'
   - 'rapidprototyping-cadcam.com'
   - 'rapidssl.com'
@@ -19517,6 +19523,7 @@ payload:
   - 'ruinedking.com'
   - 'rukoebxx.com'
   - 'rulaisc-tv.buzz'
+  - 'rule34.us'
   - 'rule34.xxx'
   - 'rule34h.com'
   - 'rule34pornvids.com'
@@ -20849,6 +20856,7 @@ payload:
   - 'sosad.fun'
   - 'soso7778.com'
   - 'sosreader.com'
+  - 'sotwe.com'
   - 'soubory.com'
   - 'souka.xyz'
   - 'soulcaliburhentai.net'
@@ -21617,6 +21625,7 @@ payload:
   - 'tap.io'
   - 'tapanwap.com'
   - 'tapatalk.com'
+  - 'tapnow.ai'
   - 'taptap.io'
   - 'taptotokyo.com'
   - 'taqunuhai.vip'
