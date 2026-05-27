@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-05-26 02:35:07
-# Total domains: 26240
+# Updated: 2026-05-27 02:45:27
+# Total domains: 26241
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -14952,6 +14952,7 @@ HOST-SUFFIX,microvpn.com,PROXY
 HOST-SUFFIX,micstl.com,PROXY
 HOST-SUFFIX,midatlanticbmwmotorcycles.com,PROXY
 HOST-SUFFIX,midentsolutions.com,PROXY
+HOST-SUFFIX,midjourney.com,PROXY
 HOST-SUFFIX,midoushe.com,PROXY
 HOST-SUFFIX,mie.co.jp,PROXY
 HOST-SUFFIX,miexnoviadesnuda.com,PROXY
