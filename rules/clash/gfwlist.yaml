@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-27 02:45:27
-# Total domains: 3911
+# Updated: 2026-05-28 02:32:29
+# Total domains: 3912
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -898,6 +898,7 @@ payload:
   - '+.douchi.space'
   - '+.dougscripts.com'
   - '+.doujincafe.com'
+  - '+.dowjones.io'
   - '+.download.dappcdn.com'
   - '+.dpool.top'
   - '+.dpp.org.tw'
