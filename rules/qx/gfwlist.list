@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-05-29 02:36:35
-# Total domains: 3912
+# Updated: 2026-05-30 02:30:43
+# Total domains: 3916
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -243,6 +243,7 @@ HOST-SUFFIX,arte.tv,GFWLIST
 HOST-SUFFIX,artstation.com,GFWLIST
 HOST-SUFFIX,arvanstorage.ir,GFWLIST
 HOST-SUFFIX,arweave.org,GFWLIST
+HOST-SUFFIX,as.mr,GFWLIST
 HOST-SUFFIX,asacp.org,GFWLIST
 HOST-SUFFIX,asiaharvest.org,GFWLIST
 HOST-SUFFIX,asianage.com,GFWLIST
@@ -303,6 +304,7 @@ HOST-SUFFIX,bandwagonhost.com,GFWLIST
 HOST-SUFFIX,bangdream.space,GFWLIST
 HOST-SUFFIX,bangkokpost.com,GFWLIST
 HOST-SUFFIX,bangumi.moe,GFWLIST
+HOST-SUFFIX,bangumi.tv,GFWLIST
 HOST-SUFFIX,bangyoulater.com,GFWLIST
 HOST-SUFFIX,bankmobilevibe.com,GFWLIST
 HOST-SUFFIX,bannedbook.org,GFWLIST
@@ -353,6 +355,7 @@ HOST-SUFFIX,bettween.com,GFWLIST
 HOST-SUFFIX,betvictor.com,GFWLIST
 HOST-SUFFIX,bfnn.org,GFWLIST
 HOST-SUFFIX,bfsh.hk,GFWLIST
+HOST-SUFFIX,bgm.tv,GFWLIST
 HOST-SUFFIX,bgme.me,GFWLIST
 HOST-SUFFIX,bgvpn.com,GFWLIST
 HOST-SUFFIX,biblesforamerica.org,GFWLIST
@@ -596,6 +599,7 @@ HOST-SUFFIX,chenpokongvip.com,GFWLIST
 HOST-SUFFIX,chenshan20042005.wordpress.com,GFWLIST
 HOST-SUFFIX,cherrysave.com,GFWLIST
 HOST-SUFFIX,chhongbi.org,GFWLIST
+HOST-SUFFIX,chii.in,GFWLIST
 HOST-SUFFIX,china-mmm.net,GFWLIST
 HOST-SUFFIX,china-week.com,GFWLIST
 HOST-SUFFIX,china101.com,GFWLIST
@@ -688,7 +692,6 @@ HOST-SUFFIX,cn.theaustralian.com.au,GFWLIST
 HOST-SUFFIX,cn.uptodown.com,GFWLIST
 HOST-SUFFIX,cna.com.tw,GFWLIST
 HOST-SUFFIX,cnbbnews.wordpress.com,GFWLIST
-HOST-SUFFIX,cnbc.com,GFWLIST
 HOST-SUFFIX,cnbeta.com.tw,GFWLIST
 HOST-SUFFIX,cnd.org,GFWLIST
 HOST-SUFFIX,cnnews.chosun.com,GFWLIST
@@ -1220,6 +1223,7 @@ HOST-SUFFIX,gcr.io,GFWLIST
 HOST-SUFFIX,gdaily.org,GFWLIST
 HOST-SUFFIX,geek-art.net,GFWLIST
 HOST-SUFFIX,gekikame.com,GFWLIST
+HOST-SUFFIX,gencraft.com,GFWLIST
 HOST-SUFFIX,generated.photos,GFWLIST
 HOST-SUFFIX,genius.com,GFWLIST
 HOST-SUFFIX,geph.io,GFWLIST
@@ -1625,6 +1629,7 @@ HOST-SUFFIX,heyuedi.com,GFWLIST
 HOST-SUFFIX,hicairo.com,GFWLIST
 HOST-SUFFIX,hiccears.com,GFWLIST
 HOST-SUFFIX,hidden-advent.org,GFWLIST
+HOST-SUFFIX,hiddify.com,GFWLIST
 HOST-SUFFIX,hide.me,GFWLIST
 HOST-SUFFIX,hideipvpn.com,GFWLIST
 HOST-SUFFIX,hideman.net,GFWLIST
@@ -2959,7 +2964,6 @@ HOST-SUFFIX,social.edu.ci,GFWLIST
 HOST-SUFFIX,socialblade.com,GFWLIST
 HOST-SUFFIX,socks-proxy.net,GFWLIST
 HOST-SUFFIX,sockslist.net,GFWLIST
-HOST-SUFFIX,softether-download.com,GFWLIST
 HOST-SUFFIX,softether.co.jp,GFWLIST
 HOST-SUFFIX,softether.org,GFWLIST
 HOST-SUFFIX,softfamous.com,GFWLIST
@@ -3485,6 +3489,7 @@ HOST-SUFFIX,vaticannews.va,GFWLIST
 HOST-SUFFIX,vatn.org,GFWLIST
 HOST-SUFFIX,vcf-online.org,GFWLIST
 HOST-SUFFIX,vcfbuilder.org,GFWLIST
+HOST-SUFFIX,veed.io,GFWLIST
 HOST-SUFFIX,vegas.williamhill.com,GFWLIST
 HOST-SUFFIX,vegasred.com,GFWLIST
 HOST-SUFFIX,venetianmacao.com,GFWLIST
@@ -3816,7 +3821,6 @@ HOST-SUFFIX,yespornplease.com,GFWLIST
 HOST-SUFFIX,yfsp.tv,GFWLIST
 HOST-SUFFIX,yhcw.net,GFWLIST
 HOST-SUFFIX,yibaochina.com,GFWLIST
-HOST-SUFFIX,yidio.com,GFWLIST
 HOST-SUFFIX,yigeni.com,GFWLIST
 HOST-SUFFIX,yipub.com,GFWLIST
 HOST-SUFFIX,yizhihongxing.com,GFWLIST

@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-05-29 02:36:35
-# Total domains: 3912
+# Updated: 2026-05-30 02:30:43
+# Total domains: 3916
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -243,6 +243,7 @@ payload:
   - '+.artstation.com'
   - '+.arvanstorage.ir'
   - '+.arweave.org'
+  - '+.as.mr'
   - '+.asacp.org'
   - '+.asiaharvest.org'
   - '+.asianage.com'
@@ -303,6 +304,7 @@ payload:
   - '+.bangdream.space'
   - '+.bangkokpost.com'
   - '+.bangumi.moe'
+  - '+.bangumi.tv'
   - '+.bangyoulater.com'
   - '+.bankmobilevibe.com'
   - '+.bannedbook.org'
@@ -353,6 +355,7 @@ payload:
   - '+.betvictor.com'
   - '+.bfnn.org'
   - '+.bfsh.hk'
+  - '+.bgm.tv'
   - '+.bgme.me'
   - '+.bgvpn.com'
   - '+.biblesforamerica.org'
@@ -596,6 +599,7 @@ payload:
   - '+.chenshan20042005.wordpress.com'
   - '+.cherrysave.com'
   - '+.chhongbi.org'
+  - '+.chii.in'
   - '+.china-mmm.net'
   - '+.china-week.com'
   - '+.china101.com'
@@ -688,7 +692,6 @@ payload:
   - '+.cn.uptodown.com'
   - '+.cna.com.tw'
   - '+.cnbbnews.wordpress.com'
-  - '+.cnbc.com'
   - '+.cnbeta.com.tw'
   - '+.cnd.org'
   - '+.cnnews.chosun.com'
@@ -1220,6 +1223,7 @@ payload:
   - '+.gdaily.org'
   - '+.geek-art.net'
   - '+.gekikame.com'
+  - '+.gencraft.com'
   - '+.generated.photos'
   - '+.genius.com'
   - '+.geph.io'
@@ -1625,6 +1629,7 @@ payload:
   - '+.hicairo.com'
   - '+.hiccears.com'
   - '+.hidden-advent.org'
+  - '+.hiddify.com'
   - '+.hide.me'
   - '+.hideipvpn.com'
   - '+.hideman.net'
@@ -2959,7 +2964,6 @@ payload:
   - '+.socialblade.com'
   - '+.socks-proxy.net'
   - '+.sockslist.net'
-  - '+.softether-download.com'
   - '+.softether.co.jp'
   - '+.softether.org'
   - '+.softfamous.com'
@@ -3485,6 +3489,7 @@ payload:
   - '+.vatn.org'
   - '+.vcf-online.org'
   - '+.vcfbuilder.org'
+  - '+.veed.io'
   - '+.vegas.williamhill.com'
   - '+.vegasred.com'
   - '+.venetianmacao.com'
@@ -3816,7 +3821,6 @@ payload:
   - '+.yfsp.tv'
   - '+.yhcw.net'
   - '+.yibaochina.com'
-  - '+.yidio.com'
   - '+.yigeni.com'
   - '+.yipub.com'
   - '+.yizhihongxing.com'

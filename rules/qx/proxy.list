@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-05-29 02:36:35
-# Total domains: 26274
+# Updated: 2026-05-30 02:30:44
+# Total domains: 26276
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -2309,6 +2309,7 @@ HOST-SUFFIX,arzon.jp,PROXY
 HOST-SUFFIX,as-dash-uk-live.akamaized.net,PROXY
 HOST-SUFFIX,as-hls-uk-live.akamaized.net,PROXY
 HOST-SUFFIX,as-hp.ca,PROXY
+HOST-SUFFIX,as.mr,PROXY
 HOST-SUFFIX,asacp.org,PROXY
 HOST-SUFFIX,asagaku.com,PROXY
 HOST-SUFFIX,asahi.com,PROXY
@@ -9674,6 +9675,7 @@ HOST-SUFFIX,gemfire.net,PROXY
 HOST-SUFFIX,gemfury.com,PROXY
 HOST-SUFFIX,gemini.com,PROXY
 HOST-SUFFIX,gen.lib.rus.ec,PROXY
+HOST-SUFFIX,gencraft.com,PROXY
 HOST-SUFFIX,gendai.net,PROXY
 HOST-SUFFIX,generated.photos,PROXY
 HOST-SUFFIX,genetic-technologies.am,PROXY
@@ -23218,6 +23220,7 @@ HOST-SUFFIX,ve-dash-uk-live.akamaized.net,PROXY
 HOST-SUFFIX,ve-uhd-push-uk-live.akamaized.net,PROXY
 HOST-SUFFIX,vecchiescopate.casa,PROXY
 HOST-SUFFIX,vector.im,PROXY
+HOST-SUFFIX,veed.io,PROXY
 HOST-SUFFIX,veet.at,PROXY
 HOST-SUFFIX,veet.be,PROXY
 HOST-SUFFIX,veet.ca,PROXY
@@ -25717,7 +25720,6 @@ HOST-SUFFIX,yho.com,PROXY
 HOST-SUFFIX,yhy.cool,PROXY
 HOST-SUFFIX,yibaochina.com,PROXY
 HOST-SUFFIX,yibei.org,PROXY
-HOST-SUFFIX,yidio.com,PROXY
 HOST-SUFFIX,yigeni.com,PROXY
 HOST-SUFFIX,yimg.com,PROXY
 HOST-SUFFIX,yimg.jp,PROXY
