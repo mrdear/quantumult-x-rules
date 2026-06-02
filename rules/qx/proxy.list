@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-06-01 02:56:06
-# Total domains: 26278
+# Updated: 2026-06-02 02:53:16
+# Total domains: 26284
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -6885,6 +6885,7 @@ HOST-SUFFIX,disneyturkiye.com.tr,PROXY
 HOST-SUFFIX,disneytvajobs.com,PROXY
 HOST-SUFFIX,disneyworld-go.com,PROXY
 HOST-SUFFIX,disp.cc,PROXY
+HOST-SUFFIX,disq.us,PROXY
 HOST-SUFFIX,disqus.com,PROXY
 HOST-SUFFIX,disquscdn.com,PROXY
 HOST-SUFFIX,disqusservice.com,PROXY
@@ -15647,6 +15648,7 @@ HOST-SUFFIX,moxing.mobi,PROXY
 HOST-SUFFIX,moxing.news,PROXY
 HOST-SUFFIX,moystoys.com,PROXY
 HOST-SUFFIX,mozgcp.net,PROXY
+HOST-SUFFIX,mozilla-ohttp.fastly-edge.com,PROXY
 HOST-SUFFIX,mozilla.ai,PROXY
 HOST-SUFFIX,mozilla.com,PROXY
 HOST-SUFFIX,mozilla.community,PROXY
@@ -24997,11 +24999,15 @@ HOST-SUFFIX,xhamster.xxx,PROXY
 HOST-SUFFIX,xhamster18.com,PROXY
 HOST-SUFFIX,xhamster18.desi,PROXY
 HOST-SUFFIX,xhamster19.com,PROXY
+HOST-SUFFIX,xhamster2.com,PROXY
 HOST-SUFFIX,xhamster3.com,PROXY
 HOST-SUFFIX,xhamsterlive.com,PROXY
 HOST-SUFFIX,xhcdn.com,PROXY
+HOST-SUFFIX,xhnews.live,PROXY
 HOST-SUFFIX,xhot.pro,PROXY
+HOST-SUFFIX,xhpingcdn.com,PROXY
 HOST-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
+HOST-SUFFIX,xhreal5.com,PROXY
 HOST-SUFFIX,xhub.tv,PROXY
 HOST-SUFFIX,xiangrikui-app.com,PROXY
 HOST-SUFFIX,xianir.xyz,PROXY
