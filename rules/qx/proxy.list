@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-06-03 03:28:43
-# Total domains: 26286
+# Updated: 2026-06-04 02:57:02
+# Total domains: 26287
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -22344,6 +22344,7 @@ HOST-SUFFIX,tomonews.net,PROXY
 HOST-SUFFIX,tomp3.cc,PROXY
 HOST-SUFFIX,tomsguide.com,PROXY
 HOST-SUFFIX,ton.org,PROXY
+HOST-SUFFIX,toncenter.com,PROXY
 HOST-SUFFIX,tonec.com,PROXY
 HOST-SUFFIX,tonicmovies.com,PROXY
 HOST-SUFFIX,toolforge.org,PROXY
