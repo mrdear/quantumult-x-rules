@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-06-05 02:45:17
-# Total domains: 3916
+# Updated: 2026-06-06 02:32:23
+# Total domains: 3917
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -2503,7 +2503,6 @@ payload:
   - '+.pacom.mil'
   - '+.pacopacomama.com'
   - '+.page.link'
-  - '+.pages.dev'
   - '+.paimon.moe'
   - '+.pancakeswap.finance'
   - '+.pandafan.pub'
@@ -3086,6 +3085,7 @@ payload:
   - '+.surfeasy.com'
   - '+.surfshark.com'
   - '+.surrenderat20.net'
+  - '+.suyingtv.com'
   - '+.swagbucks.com'
   - '+.swapspace.co'
   - '+.swissinfo.ch'
@@ -3710,6 +3710,7 @@ payload:
   - '+.wowhead.com'
   - '+.wowporn.com'
   - '+.wp.com'
+  - '+.wplace.live'
   - '+.wpoforum.com'
   - '+.writesonic.com'
   - '+.wsj.com'

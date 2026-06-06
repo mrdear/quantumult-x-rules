@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-06-05 02:45:17
-# Total domains: 3916
+# Updated: 2026-06-06 02:32:23
+# Total domains: 3917
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2503,7 +2503,6 @@ HOST-SUFFIX,pachosting.com,GFWLIST
 HOST-SUFFIX,pacom.mil,GFWLIST
 HOST-SUFFIX,pacopacomama.com,GFWLIST
 HOST-SUFFIX,page.link,GFWLIST
-HOST-SUFFIX,pages.dev,GFWLIST
 HOST-SUFFIX,paimon.moe,GFWLIST
 HOST-SUFFIX,pancakeswap.finance,GFWLIST
 HOST-SUFFIX,pandafan.pub,GFWLIST
@@ -3086,6 +3085,7 @@ HOST-SUFFIX,supervpn.net,GFWLIST
 HOST-SUFFIX,surfeasy.com,GFWLIST
 HOST-SUFFIX,surfshark.com,GFWLIST
 HOST-SUFFIX,surrenderat20.net,GFWLIST
+HOST-SUFFIX,suyingtv.com,GFWLIST
 HOST-SUFFIX,swagbucks.com,GFWLIST
 HOST-SUFFIX,swapspace.co,GFWLIST
 HOST-SUFFIX,swissinfo.ch,GFWLIST
@@ -3710,6 +3710,7 @@ HOST-SUFFIX,wowgirls.com,GFWLIST
 HOST-SUFFIX,wowhead.com,GFWLIST
 HOST-SUFFIX,wowporn.com,GFWLIST
 HOST-SUFFIX,wp.com,GFWLIST
+HOST-SUFFIX,wplace.live,GFWLIST
 HOST-SUFFIX,wpoforum.com,GFWLIST
 HOST-SUFFIX,writesonic.com,GFWLIST
 HOST-SUFFIX,wsj.com,GFWLIST
