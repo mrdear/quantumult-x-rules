@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-06-08 02:54:10
-# Total domains: 26509
+# Updated: 2026-06-09 02:31:42
+# Total domains: 26510
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -16784,6 +16784,7 @@ HOST-SUFFIX,noticias-rt.com,PROXY
 HOST-SUFFIX,notify.ppy.sh,PROXY
 HOST-SUFFIX,notimundo.press,PROXY
 HOST-SUFFIX,notion-static.com,PROXY
+HOST-SUFFIX,notion-status.com,PROXY
 HOST-SUFFIX,notion.com,PROXY
 HOST-SUFFIX,notion.new,PROXY
 HOST-SUFFIX,notion.site,PROXY
