@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-06-10 02:45:14
-# Total domains: 26510
+# Updated: 2026-06-11 02:54:45
+# Total domains: 26515
 payload:
   - '000webhost.com'
   - '01.org'
@@ -12260,6 +12260,7 @@ payload:
   - 'infocert.it'
   - 'infoglobo.com.br'
   - 'infolinker.com.tw'
+  - 'infoq.com'
   - 'infoq.jp'
   - 'informs.org'
   - 'infosec.exchange'
@@ -17057,6 +17058,7 @@ payload:
   - 'nxta.org'
   - 'nxtdig.com.hk'
   - 'nxtdig.com.tw'
+  - 'nxtv.jp'
   - 'nyaa.eu'
   - 'nyaa.net'
   - 'nyaa.si'
@@ -23167,6 +23169,9 @@ payload:
   - 'underhentai.net'
   - 'underlords.com'
   - 'underwoodammo.com'
+  - 'unext-info.jp'
+  - 'unext.co.jp'
+  - 'unext.jp'
   - 'unfiltered.news'
   - 'unholyknight.com'
   - 'unidraw.io'
