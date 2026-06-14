@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-06-13 02:44:06
-# Total domains: 26570
+# Updated: 2026-06-14 02:55:28
+# Total domains: 26571
 payload:
   - '000webhost.com'
   - '01.org'
@@ -16862,6 +16862,7 @@ payload:
   - 'nsfw247.to'
   - 'nsfwmemes.com'
   - 'nsimg.net'
+  - 'nspk.ru'
   - 'ntc.party'
   - 'ntd.com'
   - 'ntd.tv'
