@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-06-18 02:52:42
-# Total domains: 3918
+# Updated: 2026-06-19 03:39:01
+# Total domains: 3921
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -84,6 +84,7 @@ payload:
   - '+.about.me'
   - '+.abplive.com'
   - '+.acast.com'
+  - '+.accountboy.com'
   - '+.accountkit.com'
   - '+.acevpn.com'
   - '+.acg.mn'
@@ -2240,6 +2241,7 @@ payload:
   - '+.monocloud.me'
   - '+.monster.com'
   - '+.moodyz.com'
+  - '+.moomoo.com'
   - '+.moon.fm'
   - '+.moonbbs.com'
   - '+.moonbingo.com'
@@ -3780,6 +3782,7 @@ payload:
   - '+.xn--oiq.cc'
   - '+.xn--p8j9a0d9c9a.xn--q9jyb4c'
   - '+.xn--u2u927b.com'
+  - '+.xn--vuqv2cf7wzyig79c.com'
   - '+.xnpool.com'
   - '+.xnxx.com'
   - '+.xpud.org'

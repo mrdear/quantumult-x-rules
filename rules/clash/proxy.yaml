@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-06-18 02:52:42
-# Total domains: 26654
+# Updated: 2026-06-19 03:39:02
+# Total domains: 26662
 payload:
   - '000webhost.com'
   - '01.org'
@@ -692,6 +692,7 @@ payload:
   - 'account-paypal.info'
   - 'account-paypal.net'
   - 'account-paypal.org'
+  - 'accountboy.com'
   - 'accountkit.com'
   - 'accountpaypal.com'
   - 'accountpaypal.net'
@@ -6688,6 +6689,7 @@ payload:
   - 'dexterhorn.com'
   - 'dezyred.com'
   - 'dfp6rglgjqszk.cloudfront.net'
+  - 'dfvpn.com'
   - 'dgaqp.com'
   - 'dgeft87wbj63p.cloudfront.net'
   - 'dgg.gg'
@@ -9642,6 +9644,7 @@ payload:
   - 'gamesstack.com'
   - 'gametap.com'
   - 'gameuxmasterguide.com'
+  - 'gamewtb.com'
   - 'gamez.com.tw'
   - 'gaming-notebooks.com'
   - 'gandhara.ru'
@@ -10138,6 +10141,7 @@ payload:
   - 'gobuyonlinestore.net'
   - 'gockhuatviet.com'
   - 'godaddy.com'
+  - 'godaddy.net'
   - 'godbolt.org'
   - 'godfootsteps.org'
   - 'godoc.org'
@@ -22001,6 +22005,7 @@ payload:
   - 'taylorandfrancis.com'
   - 'taylorfrancis.com'
   - 'tb-esim.ru'
+  - 'tb.pro'
   - 'tbank-online.com'
   - 'tbank.ru'
   - 'tbcollege.org'
@@ -22419,6 +22424,7 @@ payload:
   - 'thumbzilla.com'
   - 'thunderbird.net'
   - 'thunderbolttechnology.net'
+  - 'thundermail.com'
   - 'thywords.com'
   - 'thz7.net'
   - 'thzu.cc'
@@ -25030,6 +25036,7 @@ payload:
   - 'ws-blau.com'
   - 'ws-tcg.com'
   - 'ws.audioscrobbler.com'
+  - 'wsimg.com'
   - 'wsj.com'
   - 'wsj.jobs'
   - 'wsj.net'
@@ -25511,6 +25518,7 @@ payload:
   - 'xn--uis17aj9kmuf.com'
   - 'xn--uis44a.xn--j6w193g'
   - 'xn--urs05q.jp'
+  - 'xn--vuqv2cf7wzyig79c.com'
   - 'xn--wcv22d.hk'
   - 'xn--wcv22d.xn--j6w193g'
   - 'xn--wcvs22d.xn--j6w193g'
