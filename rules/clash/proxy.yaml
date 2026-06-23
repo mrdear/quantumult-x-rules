@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-06-22 03:29:54
-# Total domains: 26693
+# Updated: 2026-06-23 02:36:54
+# Total domains: 26696
 payload:
   - '000webhost.com'
   - '01.org'
@@ -10170,8 +10170,10 @@ payload:
   - 'gofundme.com'
   - 'gog-cdn-lumen.secure2.footprint.net'
   - 'gog-cdn.akamaized.net'
+  - 'gog-services.com'
   - 'gog-statics.com'
   - 'gog.com'
+  - 'gogalaxy.com'
   - 'gogettaxi.org'
   - 'gogle.com'
   - 'gogo-load.com'
@@ -25208,6 +25210,7 @@ payload:
   - 'www.idlcoyote.com'
   - 'www.lorenzetti.com.br'
   - 'www.m-sport.co.uk'
+  - 'www.microsoft.com'
   - 'www.monlamit.org'
   - 'www.moztw.org'
   - 'www.oxid.it'
