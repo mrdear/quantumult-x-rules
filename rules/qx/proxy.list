@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-06-23 02:36:54
-# Total domains: 26696
+# Updated: 2026-06-24 02:37:28
+# Total domains: 26707
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -1432,6 +1432,7 @@ HOST-SUFFIX,allpornsitespass.com,PROXY
 HOST-SUFFIX,allspyclips.com,PROXY
 HOST-SUFFIX,allswingersclubs.org,PROXY
 HOST-SUFFIX,allthefallen.moe,PROXY
+HOST-SUFFIX,almalinux.org,PROXY
 HOST-SUFFIX,alohatube.com,PROXY
 HOST-SUFFIX,alotporn.com,PROXY
 HOST-SUFFIX,alphabet.asia,PROXY
@@ -4712,6 +4713,7 @@ HOST-SUFFIX,bustynudebabes.com,PROXY
 HOST-SUFFIX,bustyoldsluts.com,PROXY
 HOST-SUFFIX,bustysammieblack.com,PROXY
 HOST-SUFFIX,busu.org,PROXY
+HOST-SUFFIX,busybox.net,PROXY
 HOST-SUFFIX,buy-from-shanghai.com,PROXY
 HOST-SUFFIX,buyaapl.com,PROXY
 HOST-SUFFIX,buyaapl.net,PROXY
@@ -8199,6 +8201,7 @@ HOST-SUFFIX,exmormon.org,PROXY
 HOST-SUFFIX,exoav.com,PROXY
 HOST-SUFFIX,exotic-ghana.com,PROXY
 HOST-SUFFIX,exoticuganda.com,PROXY
+HOST-SUFFIX,exp-tas.com,PROXY
 HOST-SUFFIX,expatshield.com,PROXY
 HOST-SUFFIX,expecthim.com,PROXY
 HOST-SUFFIX,expekt.com,PROXY
@@ -10022,6 +10025,7 @@ HOST-SUFFIX,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com,PROXY
 HOST-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com,PROXY
 HOST-SUFFIX,github.ai,PROXY
 HOST-SUFFIX,github.blog,PROXY
+HOST-SUFFIX,github.career,PROXY
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,github.community,PROXY
 HOST-SUFFIX,github.dev,PROXY
@@ -14044,6 +14048,7 @@ HOST-SUFFIX,licdn.com,PROXY
 HOST-SUFFIX,licensebuttons.net,PROXY
 HOST-SUFFIX,licenseparser.com,PROXY
 HOST-SUFFIX,life-global.org,PROXY
+HOST-SUFFIX,lifeatspotify.com,PROXY
 HOST-SUFFIX,lifemiles.com,PROXY
 HOST-SUFFIX,lifeselector.com,PROXY
 HOST-SUFFIX,lifestyle-tec.ru,PROXY
@@ -14558,6 +14563,7 @@ HOST-SUFFIX,manhuntdaily.com,PROXY
 HOST-SUFFIX,manhwa24h.com,PROXY
 HOST-SUFFIX,manhwahentai.me,PROXY
 HOST-SUFFIX,maniakey.homes,PROXY
+HOST-SUFFIX,manjaro.org,PROXY
 HOST-SUFFIX,manorama.com,PROXY
 HOST-SUFFIX,manoramanews.com,PROXY
 HOST-SUFFIX,manoramaonline.com,PROXY
@@ -19711,6 +19717,7 @@ HOST-SUFFIX,rocksdb.org,PROXY
 HOST-SUFFIX,rocksextube.com,PROXY
 HOST-SUFFIX,rockstargames.com,PROXY
 HOST-SUFFIX,rockstarnorth.com,PROXY
+HOST-SUFFIX,rockylinux.org,PROXY
 HOST-SUFFIX,rojo.com,PROXY
 HOST-SUFFIX,roku.com,PROXY
 HOST-SUFFIX,rokutime.com,PROXY
@@ -21333,6 +21340,7 @@ HOST-SUFFIX,spotifycdn.net,PROXY
 HOST-SUFFIX,spotifycharts.com,PROXY
 HOST-SUFFIX,spotifycodes.com,PROXY
 HOST-SUFFIX,spotifyforbrands.com,PROXY
+HOST-SUFFIX,spotifyforvendors.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
 HOST-SUFFIX,spraynwash.com,PROXY
 HOST-SUFFIX,spreadprivacy.com,PROXY
@@ -24433,9 +24441,12 @@ HOST-SUFFIX,vscode-cdn.net,PROXY
 HOST-SUFFIX,vscode-sync-insiders.trafficmanager.net,PROXY
 HOST-SUFFIX,vscode-sync.trafficmanager.net,PROXY
 HOST-SUFFIX,vscode-unpkg.net,PROXY
+HOST-SUFFIX,vscode-webview.net,PROXY
 HOST-SUFFIX,vscode.blob.core.windows.net,PROXY
 HOST-SUFFIX,vscode.dev,PROXY
 HOST-SUFFIX,vscode.search.windows.net,PROXY
+HOST-SUFFIX,vscodeedu.app,PROXY
+HOST-SUFFIX,vscodeedu.com,PROXY
 HOST-SUFFIX,vsemrabota.ru,PROXY
 HOST-SUFFIX,vsex.in,PROXY
 HOST-SUFFIX,vsezoo.com,PROXY
