@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-06-24 02:37:27
-# Total domains: 4006
+# Updated: 2026-06-25 02:38:47
+# Total domains: 4007
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -1269,6 +1269,7 @@ HOST-SUFFIX,generated.photos,GFWLIST
 HOST-SUFFIX,genius.com,GFWLIST
 HOST-SUFFIX,geph.io,GFWLIST
 HOST-SUFFIX,get.app,GFWLIST
+HOST-SUFFIX,get.dappcdn.com,GFWLIST
 HOST-SUFFIX,get.dev,GFWLIST
 HOST-SUFFIX,get.how,GFWLIST
 HOST-SUFFIX,get.page,GFWLIST
