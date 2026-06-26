@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-06-25 02:38:47
-# Total domains: 26707
+# Updated: 2026-06-26 02:41:52
+# Total domains: 26708
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -9847,6 +9847,7 @@ HOST-SUFFIX,geraldoatlarge.com,PROXY
 HOST-SUFFIX,gerritcodereview.com,PROXY
 HOST-SUFFIX,gesoten.com,PROXY
 HOST-SUFFIX,get.app,PROXY
+HOST-SUFFIX,get.dappcdn.com,PROXY
 HOST-SUFFIX,get.dev,PROXY
 HOST-SUFFIX,get.how,PROXY
 HOST-SUFFIX,get.new,PROXY
