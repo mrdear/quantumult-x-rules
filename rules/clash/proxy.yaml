@@ -1,5 +1,5 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-06-26 02:41:52
+# Updated: 2026-06-27 02:33:53
 # Total domains: 26708
 payload:
   - '000webhost.com'
@@ -5985,6 +5985,7 @@ payload:
   - 'crazyxxxworld.com'
   - 'crbug.com'
   - 'crchina.org'
+  - 'creader.com'
   - 'creaders.net'
   - 'creamasia.com'
   - 'creamlemon.info'
@@ -7139,7 +7140,6 @@ payload:
   - 'dowjoneson.com'
   - 'download.com'
   - 'download.dappcdn.com'
-  - 'download.visualstudio.microsoft.com'
   - 'downloadpass.com'
   - 'downloadsforipod.com'
   - 'dpool.top'
