@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-06-27 02:33:53
-# Total domains: 4008
+# Updated: 2026-06-28 02:47:26
+# Total domains: 4025
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -124,6 +124,7 @@ HOST-SUFFIX,aiosearch.com,GFWLIST
 HOST-SUFFIX,aiph.net,GFWLIST
 HOST-SUFFIX,airconsole.com,GFWLIST
 HOST-SUFFIX,airitilibrary.com,GFWLIST
+HOST-SUFFIX,airuniversity.af.edu,GFWLIST
 HOST-SUFFIX,airvpn.org,GFWLIST
 HOST-SUFFIX,ait.org.tw,GFWLIST
 HOST-SUFFIX,aiweiweiblog.com,GFWLIST
@@ -1253,6 +1254,7 @@ HOST-SUFFIX,ganjingworld.com,GFWLIST
 HOST-SUFFIX,gaoming.net,GFWLIST
 HOST-SUFFIX,gartlive.com,GFWLIST
 HOST-SUFFIX,garudalinux.org,GFWLIST
+HOST-SUFFIX,gate.com,GFWLIST
 HOST-SUFFIX,gate.io,GFWLIST
 HOST-SUFFIX,gatecoin.com,GFWLIST
 HOST-SUFFIX,gather.com,GFWLIST
@@ -1624,6 +1626,7 @@ HOST-SUFFIX,gstatic.com,GFWLIST
 HOST-SUFFIX,gtricks.com,GFWLIST
 HOST-SUFFIX,gtv.org,GFWLIST
 HOST-SUFFIX,gtv1.org,GFWLIST
+HOST-SUFFIX,guangming.com.my,GFWLIST
 HOST-SUFFIX,guishan.org,GFWLIST
 HOST-SUFFIX,gumroad.com,GFWLIST
 HOST-SUFFIX,gunsamerica.com,GFWLIST
@@ -1705,6 +1708,7 @@ HOST-SUFFIX,hkgolden.com,GFWLIST
 HOST-SUFFIX,hkgpao.com,GFWLIST
 HOST-SUFFIX,hklts.org.hk,GFWLIST
 HOST-SUFFIX,hkmap.live,GFWLIST
+HOST-SUFFIX,hkong.hk,GFWLIST
 HOST-SUFFIX,hkopentv.com,GFWLIST
 HOST-SUFFIX,hkpeanut.com,GFWLIST
 HOST-SUFFIX,hkreporter.com,GFWLIST
@@ -1994,6 +1998,7 @@ HOST-SUFFIX,kenengba.com,GFWLIST
 HOST-SUFFIX,kepard.com,GFWLIST
 HOST-SUFFIX,kex.com,GFWLIST
 HOST-SUFFIX,keycdn.com,GFWLIST
+HOST-SUFFIX,kfor.com,GFWLIST
 HOST-SUFFIX,khatrimaza.org,GFWLIST
 HOST-SUFFIX,kichiku-doujinko.com,GFWLIST
 HOST-SUFFIX,kik.com,GFWLIST
@@ -2233,6 +2238,7 @@ HOST-SUFFIX,mfxmedia.com,GFWLIST
 HOST-SUFFIX,mgoon.com,GFWLIST
 HOST-SUFFIX,mgstage.com,GFWLIST
 HOST-SUFFIX,mh4u.org,GFWLIST
+HOST-SUFFIX,mhwindow.org,GFWLIST
 HOST-SUFFIX,microvpn.com,GFWLIST
 HOST-SUFFIX,mihua.org,GFWLIST
 HOST-SUFFIX,mij.rip,GFWLIST
@@ -2595,6 +2601,7 @@ HOST-SUFFIX,pbs.org,GFWLIST
 HOST-SUFFIX,pbworks.com,GFWLIST
 HOST-SUFFIX,pbxes.com,GFWLIST
 HOST-SUFFIX,pbxes.org,GFWLIST
+HOST-SUFFIX,pcgamesn.com,GFWLIST
 HOST-SUFFIX,pcgamestorrents.com,GFWLIST
 HOST-SUFFIX,pcij.org,GFWLIST
 HOST-SUFFIX,pct.org.tw,GFWLIST
@@ -2612,6 +2619,7 @@ HOST-SUFFIX,peoplenews.tw,GFWLIST
 HOST-SUFFIX,peopo.org,GFWLIST
 HOST-SUFFIX,perfect-privacy.com,GFWLIST
 HOST-SUFFIX,periscope.tv,GFWLIST
+HOST-SUFFIX,perma.cc,GFWLIST
 HOST-SUFFIX,perplexity.ai,GFWLIST
 HOST-SUFFIX,pewresearch.org,GFWLIST
 HOST-SUFFIX,phayul.com,GFWLIST
@@ -2849,6 +2857,7 @@ HOST-SUFFIX,rentry.co,GFWLIST
 HOST-SUFFIX,renyurenquan.org,GFWLIST
 HOST-SUFFIX,resilio.com,GFWLIST
 HOST-SUFFIX,resistchina.org,GFWLIST
+HOST-SUFFIX,restofworld.org,GFWLIST
 HOST-SUFFIX,retweetrank.com,GFWLIST
 HOST-SUFFIX,reuters.com,GFWLIST
 HOST-SUFFIX,reutersmedia.net,GFWLIST
@@ -3071,6 +3080,7 @@ HOST-SUFFIX,southmongolia.org,GFWLIST
 HOST-SUFFIX,southnews.com.tw,GFWLIST
 HOST-SUFFIX,southpark.cc.com,GFWLIST
 HOST-SUFFIX,sowers.org.hk,GFWLIST
+HOST-SUFFIX,spaceforce.mil,GFWLIST
 HOST-SUFFIX,spaces.hightail.com,GFWLIST
 HOST-SUFFIX,spacex.com,GFWLIST
 HOST-SUFFIX,spankbang.com,GFWLIST
@@ -3159,6 +3169,7 @@ HOST-SUFFIX,supchina.com,GFWLIST
 HOST-SUFFIX,superpages.com,GFWLIST
 HOST-SUFFIX,supervpn.net,GFWLIST
 HOST-SUFFIX,support.futunn.com,GFWLIST
+HOST-SUFFIX,supremecourt.gov,GFWLIST
 HOST-SUFFIX,surfeasy.com,GFWLIST
 HOST-SUFFIX,surfshark.com,GFWLIST
 HOST-SUFFIX,surrenderat20.net,GFWLIST
@@ -3262,6 +3273,7 @@ HOST-SUFFIX,thehansindia.com,GFWLIST
 HOST-SUFFIX,thehindu.com,GFWLIST
 HOST-SUFFIX,thehun.net,GFWLIST
 HOST-SUFFIX,theinitium.com,GFWLIST
+HOST-SUFFIX,theintercept.com,GFWLIST
 HOST-SUFFIX,thenewslens.com,GFWLIST
 HOST-SUFFIX,thepiratebay.org,GFWLIST
 HOST-SUFFIX,theporndude.com,GFWLIST
@@ -3349,6 +3361,7 @@ HOST-SUFFIX,tiktokcdn.com,GFWLIST
 HOST-SUFFIX,tiktokv.com,GFWLIST
 HOST-SUFFIX,tiktokv.us,GFWLIST
 HOST-SUFFIX,tiltbrush.com,GFWLIST
+HOST-SUFFIX,time.com,GFWLIST
 HOST-SUFFIX,timesnownews.com,GFWLIST
 HOST-SUFFIX,timesofindia.indiatimes.com,GFWLIST
 HOST-SUFFIX,timtales.com,GFWLIST
@@ -3405,6 +3418,7 @@ HOST-SUFFIX,trendsmap.com,GFWLIST
 HOST-SUFFIX,tronscan.org,GFWLIST
 HOST-SUFFIX,trouw.nl,GFWLIST
 HOST-SUFFIX,trt.net.tr,GFWLIST
+HOST-SUFFIX,trtworld.com,GFWLIST
 HOST-SUFFIX,truebuddha-md.org,GFWLIST
 HOST-SUFFIX,trustwallet.com,GFWLIST
 HOST-SUFFIX,truthsocial.com,GFWLIST
@@ -3486,6 +3500,7 @@ HOST-SUFFIX,twitturk.com,GFWLIST
 HOST-SUFFIX,twitturly.com,GFWLIST
 HOST-SUFFIX,twkan.com,GFWLIST
 HOST-SUFFIX,twreporter.org,GFWLIST
+HOST-SUFFIX,twstalker.com,GFWLIST
 HOST-SUFFIX,twttr.com,GFWLIST
 HOST-SUFFIX,tx.me,GFWLIST
 HOST-SUFFIX,tycool.com,GFWLIST
@@ -3681,6 +3696,7 @@ HOST-SUFFIX,wanz-factory.com,GFWLIST
 HOST-SUFFIX,warroom.org,GFWLIST
 HOST-SUFFIX,waselpro.com,GFWLIST
 HOST-SUFFIX,washingtonpost.com,GFWLIST
+HOST-SUFFIX,washingtontimes.com,GFWLIST
 HOST-SUFFIX,watchinese.com,GFWLIST
 HOST-SUFFIX,watchmygf.net,GFWLIST
 HOST-SUFFIX,watchout.tw,GFWLIST
@@ -3876,6 +3892,7 @@ HOST-SUFFIX,xskywalker.com,GFWLIST
 HOST-SUFFIX,xt.com,GFWLIST
 HOST-SUFFIX,xt.pub,GFWLIST
 HOST-SUFFIX,xtube.com,GFWLIST
+HOST-SUFFIX,xuan.com.my,GFWLIST
 HOST-SUFFIX,xuchao.net,GFWLIST
 HOST-SUFFIX,xuchao.org,GFWLIST
 HOST-SUFFIX,xuehua.us,GFWLIST
