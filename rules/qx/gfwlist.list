@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-06-29 02:47:43
-# Total domains: 4025
+# Updated: 2026-06-30 02:42:14
+# Total domains: 4026
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -1030,6 +1030,7 @@ HOST-SUFFIX,expatshield.com,GFWLIST
 HOST-SUFFIX,expecthim.com,GFWLIST
 HOST-SUFFIX,expekt.com,GFWLIST
 HOST-SUFFIX,exploader.net,GFWLIST
+HOST-SUFFIX,expressnews.com,GFWLIST
 HOST-SUFFIX,expressvpn.com,GFWLIST
 HOST-SUFFIX,exrates.me,GFWLIST
 HOST-SUFFIX,extmatrix.com,GFWLIST
