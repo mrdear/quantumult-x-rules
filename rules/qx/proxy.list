@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-01 02:48:09
-# Total domains: 26730
+# Updated: 2026-07-02 02:37:46
+# Total domains: 26742
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -700,6 +700,7 @@ HOST-SUFFIX,accountpaypal.net,PROXY
 HOST-SUFFIX,accountpaypal.org,PROXY
 HOST-SUFFIX,accuweather.com,PROXY
 HOST-SUFFIX,accv.es,PROXY
+HOST-SUFFIX,acd89244c803f7181.awsglobalaccelerator.com,PROXY
 HOST-SUFFIX,acdocs.com,PROXY
 HOST-SUFFIX,acebooik.com,PROXY
 HOST-SUFFIX,acebook.com,PROXY
@@ -1013,6 +1014,7 @@ HOST-SUFFIX,aerospace-design.com,PROXY
 HOST-SUFFIX,aesworkshops.com,PROXY
 HOST-SUFFIX,aex.com,PROXY
 HOST-SUFFIX,af.mil,PROXY
+HOST-SUFFIX,afa7f374f51cc8991.awsglobalaccelerator.com,PROXY
 HOST-SUFFIX,afantibbs.com,PROXY
 HOST-SUFFIX,afappyending.com,PROXY
 HOST-SUFFIX,afewmomentswith.com,PROXY
@@ -3740,6 +3742,7 @@ HOST-SUFFIX,blacksonblondes.com,PROXY
 HOST-SUFFIX,blackstonespoliceservice.com,PROXY
 HOST-SUFFIX,blacktowhite.net,PROXY
 HOST-SUFFIX,blackvpn.com,PROXY
+HOST-SUFFIX,blanc.ru,PROXY
 HOST-SUFFIX,blaoshi.cc,PROXY
 HOST-SUFFIX,blast.io,PROXY
 HOST-SUFFIX,blazor.net,PROXY
@@ -4433,6 +4436,7 @@ HOST-SUFFIX,bossagency.co.uk,PROXY
 HOST-SUFFIX,boswp.com,PROXY
 HOST-SUFFIX,botanwang.com,PROXY
 HOST-SUFFIX,botframework.com,PROXY
+HOST-SUFFIX,botim.me,PROXY
 HOST-SUFFIX,botmechanic.io,PROXY
 HOST-SUFFIX,botorch.org,PROXY
 HOST-SUFFIX,botstop.com,PROXY
@@ -11387,6 +11391,9 @@ HOST-SUFFIX,horizontal-llc.com,PROXY
 HOST-SUFFIX,horizontal-systems.com,PROXY
 HOST-SUFFIX,horizontalglue.com,PROXY
 HOST-SUFFIX,horizontalsystems.com,PROXY
+HOST-SUFFIX,hornet.com,PROXY
+HOST-SUFFIX,hornetapp.com,PROXY
+HOST-SUFFIX,hornetx.com,PROXY
 HOST-SUFFIX,hornyasianmilfs.com,PROXY
 HOST-SUFFIX,hornybitches.org,PROXY
 HOST-SUFFIX,hornybutt.com,PROXY
@@ -14143,6 +14150,7 @@ HOST-SUFFIX,listennotes.com,PROXY
 HOST-SUFFIX,listentoyoutube.com,PROXY
 HOST-SUFFIX,listinganalytics.net,PROXY
 HOST-SUFFIX,litbus-anime.com,PROXY
+HOST-SUFFIX,litecoin.org,PROXY
 HOST-SUFFIX,litenews.hk,PROXY
 HOST-SUFFIX,literatumonline.com,PROXY
 HOST-SUFFIX,literotica.com,PROXY
@@ -16434,7 +16442,9 @@ HOST-SUFFIX,netflixinvestor.com,PROXY
 HOST-SUFFIX,netflixtechblog.com,PROXY
 HOST-SUFFIX,netlify.app,PROXY
 HOST-SUFFIX,netlify.com,PROXY
+HOST-SUFFIX,netlifydns.com,PROXY
 HOST-SUFFIX,netlifystatus.com,PROXY
+HOST-SUFFIX,netlifyusercontent.com,PROXY
 HOST-SUFFIX,netlock.hu,PROXY
 HOST-SUFFIX,netme.cc,PROXY
 HOST-SUFFIX,netname.com.br,PROXY
@@ -16987,6 +16997,7 @@ HOST-SUFFIX,ntdtv.se,PROXY
 HOST-SUFFIX,ntdtvla.com,PROXY
 HOST-SUFFIX,ntdvideo.tw,PROXY
 HOST-SUFFIX,ntdvn.com,PROXY
+HOST-SUFFIX,ntl.fyi,PROXY
 HOST-SUFFIX,ntnews.com.au,PROXY
 HOST-SUFFIX,ntp-b.nist.gov,PROXY
 HOST-SUFFIX,ntp-c.colorado.edu,PROXY
@@ -22097,6 +22108,7 @@ HOST-SUFFIX,technogym.ru,PROXY
 HOST-SUFFIX,technogym.su,PROXY
 HOST-SUFFIX,technologyandsociety.org,PROXY
 HOST-SUFFIX,techradar.com,PROXY
+HOST-SUFFIX,techspot.com,PROXY
 HOST-SUFFIX,techstreet.com,PROXY
 HOST-SUFFIX,techtimes.com,PROXY
 HOST-SUFFIX,techtudo.com,PROXY
