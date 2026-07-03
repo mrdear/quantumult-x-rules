@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-02 02:37:46
-# Total domains: 26742
+# Updated: 2026-07-03 02:13:00
+# Total domains: 26745
 payload:
   - '000webhost.com'
   - '01.org'
@@ -5906,6 +5906,7 @@ payload:
   - 'coova.org'
   - 'copilot-proxy.githubusercontent.com'
   - 'copilot-workspace.githubnext.com'
+  - 'copilot.com'
   - 'copilotprodattachments.blob.core.windows.net'
   - 'copro.pw'
   - 'copy-manga.com'
@@ -17487,6 +17488,7 @@ payload:
   - 'open.firstory.me'
   - 'openai.com'
   - 'openaiapi-site.azureedge.net'
+  - 'openaiassets.blob.core.windows.net'
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
   - 'openaicom.imgix.net'
   - 'openaicomproductionae4b.blob.core.windows.net'
@@ -24703,6 +24705,7 @@ payload:
   - 'webpkgcache.com'
   - 'webrtc.org'
   - 'websdr.org'
+  - 'webshare.io'
   - 'website.new'
   - 'webtoons.com'
   - 'webtoonscorp.com'
