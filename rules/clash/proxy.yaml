@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-04 02:11:31
-# Total domains: 26745
+# Updated: 2026-07-05 02:27:13
+# Total domains: 26748
 payload:
   - '000webhost.com'
   - '01.org'
@@ -1932,6 +1932,7 @@ payload:
   - 'apple-pay.wang'
   - 'apple-store.net'
   - 'apple-store.wang'
+  - 'apple-studies.com'
   - 'apple-tv-plus-press.apple.com'
   - 'apple-usa.net'
   - 'apple-watch.com.ru'
@@ -2442,6 +2443,7 @@ payload:
   - 'atlassian-dev.net'
   - 'atlassian.com'
   - 'atlassian.net'
+  - 'atmeta.com'
   - 'atnext.com'
   - 'atokara.jp'
   - 'atom.io'
@@ -2823,6 +2825,7 @@ payload:
   - 'aziani.com'
   - 'azirevpn.com'
   - 'aznude.com'
+  - 'azure-api.net'
   - 'azure-devices-int.net'
   - 'azure-devices.net'
   - 'azure-dns.com'
@@ -2862,6 +2865,7 @@ payload:
   - 'azureserviceprofiler.com'
   - 'azuresmartspaces.net'
   - 'azurestackvalidation.com'
+  - 'azurestaticapps.net'
   - 'azurewebsites.net'
   - 'b-cdn.net'
   - 'b-eroland.net'
@@ -12383,7 +12387,6 @@ payload:
   - 'infraworks.com'
   - 'infura.io'
   - 'ingads.com'
-  - 'ingest.apple-studies.com'
   - 'ingka.com'
   - 'ingka.dev'
   - 'ingkacentres.com'

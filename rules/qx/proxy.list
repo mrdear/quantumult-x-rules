@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-04 02:11:31
-# Total domains: 26745
+# Updated: 2026-07-05 02:27:13
+# Total domains: 26748
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -1932,6 +1932,7 @@ HOST-SUFFIX,apple-pay.rs,PROXY
 HOST-SUFFIX,apple-pay.wang,PROXY
 HOST-SUFFIX,apple-store.net,PROXY
 HOST-SUFFIX,apple-store.wang,PROXY
+HOST-SUFFIX,apple-studies.com,PROXY
 HOST-SUFFIX,apple-tv-plus-press.apple.com,PROXY
 HOST-SUFFIX,apple-usa.net,PROXY
 HOST-SUFFIX,apple-watch.com.ru,PROXY
@@ -2442,6 +2443,7 @@ HOST-SUFFIX,atlasonepoint.com,PROXY
 HOST-SUFFIX,atlassian-dev.net,PROXY
 HOST-SUFFIX,atlassian.com,PROXY
 HOST-SUFFIX,atlassian.net,PROXY
+HOST-SUFFIX,atmeta.com,PROXY
 HOST-SUFFIX,atnext.com,PROXY
 HOST-SUFFIX,atokara.jp,PROXY
 HOST-SUFFIX,atom.io,PROXY
@@ -2823,6 +2825,7 @@ HOST-SUFFIX,azbukainterneta.ru,PROXY
 HOST-SUFFIX,aziani.com,PROXY
 HOST-SUFFIX,azirevpn.com,PROXY
 HOST-SUFFIX,aznude.com,PROXY
+HOST-SUFFIX,azure-api.net,PROXY
 HOST-SUFFIX,azure-devices-int.net,PROXY
 HOST-SUFFIX,azure-devices.net,PROXY
 HOST-SUFFIX,azure-dns.com,PROXY
@@ -2862,6 +2865,7 @@ HOST-SUFFIX,azureplanetscale.net,PROXY
 HOST-SUFFIX,azureserviceprofiler.com,PROXY
 HOST-SUFFIX,azuresmartspaces.net,PROXY
 HOST-SUFFIX,azurestackvalidation.com,PROXY
+HOST-SUFFIX,azurestaticapps.net,PROXY
 HOST-SUFFIX,azurewebsites.net,PROXY
 HOST-SUFFIX,b-cdn.net,PROXY
 HOST-SUFFIX,b-eroland.net,PROXY
@@ -12383,7 +12387,6 @@ HOST-SUFFIX,infrapedia.com,PROXY
 HOST-SUFFIX,infraworks.com,PROXY
 HOST-SUFFIX,infura.io,PROXY
 HOST-SUFFIX,ingads.com,PROXY
-HOST-SUFFIX,ingest.apple-studies.com,PROXY
 HOST-SUFFIX,ingka.com,PROXY
 HOST-SUFFIX,ingka.dev,PROXY
 HOST-SUFFIX,ingkacentres.com,PROXY
