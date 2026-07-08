@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-07 02:27:21
-# Total domains: 26748
+# Updated: 2026-07-08 02:01:27
+# Total domains: 26756
 payload:
   - '000webhost.com'
   - '01.org'
@@ -9042,6 +9042,8 @@ payload:
   - 'flowgpt.com'
   - 'flowhongkong.net'
   - 'flowtype.org'
+  - 'flowwow-images.com'
+  - 'flowwow.com'
   - 'fluffychat.im'
   - 'fluidfxapp.com'
   - 'fluidpreview.com'
@@ -9544,6 +9546,8 @@ payload:
   - 'funkyimg.com'
   - 'funnyfacebook.org'
   - 'funnyordie.com'
+  - 'funpay.com'
+  - 'funpay.ru'
   - 'funshemale.com'
   - 'fuq.com'
   - 'fuqqt.com'
@@ -17813,6 +17817,8 @@ payload:
   - 'patreonusercontent.com'
   - 'paulsimon-music.com'
   - 'pavpal.com'
+  - 'pawchive.pw'
+  - 'pawchive.st'
   - 'pawoo.net'
   - 'paxful.com'
   - 'paxlicense.org'
@@ -20626,6 +20632,7 @@ payload:
   - 'sforce.com'
   - 'sfshibao.com'
   - 'sftuk.org'
+  - 'sfunpay.com'
   - 'sfx.ms'
   - 'sg120.me'
   - 'sg1lib.org'
@@ -22591,6 +22598,7 @@ payload:
   - 'tilda.ws'
   - 'tildaapi.com'
   - 'tildacdn.com'
+  - 'tildacdn.net'
   - 'tiltbrush.com'
   - 'timdir.com'
   - 'time-a-b.nist.gov'
