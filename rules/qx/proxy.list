@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-14 01:50:34
-# Total domains: 26773
+# Updated: 2026-07-15 01:46:56
+# Total domains: 26805
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -1034,6 +1034,7 @@ HOST-SUFFIX,afreecatv.com,PROXY
 HOST-SUFFIX,afriboyz.com,PROXY
 HOST-SUFFIX,aga-expo.com,PROXY
 HOST-SUFFIX,agag.tw,PROXY
+HOST-SUFFIX,agb9r0ad.qllfkl.com,PROXY
 HOST-SUFFIX,agdbank.com,PROXY
 HOST-SUFFIX,age.tv,PROXY
 HOST-SUFFIX,agedm.app,PROXY
@@ -1324,7 +1325,6 @@ HOST-SUFFIX,alefbank.com,PROXY
 HOST-SUFFIX,alexa.com,PROXY
 HOST-SUFFIX,alexanderstreet.com,PROXY
 HOST-SUFFIX,alfa.me,PROXY
-HOST-SUFFIX,alfabank.oavdo.amc,PROXY
 HOST-SUFFIX,alfabank.ru,PROXY
 HOST-SUFFIX,alfabank.st,PROXY
 HOST-SUFFIX,alfadirect.ru,PROXY
@@ -4355,6 +4355,7 @@ HOST-SUFFIX,bnext.com.tw,PROXY
 HOST-SUFFIX,bnn.co,PROXY
 HOST-SUFFIX,bnrmetal.com,PROXY
 HOST-SUFFIX,bntrace.com,PROXY
+HOST-SUFFIX,bnxz.net,PROXY
 HOST-SUFFIX,boardreader.com,PROXY
 HOST-SUFFIX,boboporn.com,PROXY
 HOST-SUFFIX,boboporn.net,PROXY
@@ -4800,6 +4801,7 @@ HOST-SUFFIX,bynet.co.il,PROXY
 HOST-SUFFIX,bypasscensorship.org,PROXY
 HOST-SUFFIX,byrut.org,PROXY
 HOST-SUFFIX,byspotify.com,PROXY
+HOST-SUFFIX,bystys.tech,PROXY
 HOST-SUFFIX,bytedapm.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,bytick.com,PROXY
@@ -5267,6 +5269,7 @@ HOST-SUFFIX,chat.lmsys.org,PROXY
 HOST-SUFFIX,chatango.com,PROXY
 HOST-SUFFIX,chatgpt.com,PROXY
 HOST-SUFFIX,chatgpt.livekit.cloud,PROXY
+HOST-SUFFIX,chatgpt.site,PROXY
 HOST-SUFFIX,chatgptvideo.xyz,PROXY
 HOST-SUFFIX,chatgptvideob.buzz,PROXY
 HOST-SUFFIX,chatpdf.com,PROXY
@@ -6194,41 +6197,57 @@ HOST-SUFFIX,d-trust.net,PROXY
 HOST-SUFFIX,d-upp.com,PROXY
 HOST-SUFFIX,d.cash,PROXY
 HOST-SUFFIX,d100.net,PROXY
+HOST-SUFFIX,d1d0w7op819ely.cloudfront.net,PROXY
+HOST-SUFFIX,d1fijc56o1fzod.cloudfront.net,PROXY
 HOST-SUFFIX,d1g1f25tn8m2e6.cloudfront.net,PROXY
 HOST-SUFFIX,d1k2us671qcoau.cloudfront.net,PROXY
 HOST-SUFFIX,d1m7jfoe9zdc1j.cloudfront.net,PROXY
 HOST-SUFFIX,d1mhjrowxxagfy.cloudfront.net,PROXY
 HOST-SUFFIX,d1ndex63qxojbr.cloudfront.net,PROXY
+HOST-SUFFIX,d1nu566dreq9vj.cloudfront.net,PROXY
 HOST-SUFFIX,d1oca24q5dwo6d.cloudfront.net,PROXY
+HOST-SUFFIX,d1ugi9qonif2a2.cloudfront.net,PROXY
 HOST-SUFFIX,d1unuk07s6td74.cloudfront.net,PROXY
 HOST-SUFFIX,d1v5ir2lpwr8os.cloudfront.net,PROXY
 HOST-SUFFIX,d1w2poirtb3as9.cloudfront.net,PROXY
 HOST-SUFFIX,d1xhnb4ptk05mw.cloudfront.net,PROXY
 HOST-SUFFIX,d1ymi26ma8va5x.cloudfront.net,PROXY
+HOST-SUFFIX,d20g4xwarzxagx.cloudfront.net,PROXY
 HOST-SUFFIX,d22qjgkvxw22r6.cloudfront.net,PROXY
 HOST-SUFFIX,d25xi40x97liuc.cloudfront.net,PROXY
+HOST-SUFFIX,d26rnz3bwp7rlk.cloudfront.net,PROXY
 HOST-SUFFIX,d27xxe7juh1us6.cloudfront.net,PROXY
+HOST-SUFFIX,d28odxiw1asdj8.cloudfront.net,PROXY
 HOST-SUFFIX,d29vzk4ow07wi7.cloudfront.net,PROXY
 HOST-SUFFIX,d2aba1wr3818hz.cloudfront.net,PROXY
 HOST-SUFFIX,d2anahhhmp1ffz.cloudfront.net,PROXY
 HOST-SUFFIX,d2bay.com,PROXY
+HOST-SUFFIX,d2be40xdoc0in8.cloudfront.net,PROXY
 HOST-SUFFIX,d2dylwb3shzel1.cloudfront.net,PROXY
 HOST-SUFFIX,d2e2de1etea730.cloudfront.net,PROXY
+HOST-SUFFIX,d2fg91fzjsrcv1.cloudfront.net,PROXY
+HOST-SUFFIX,d2j7e8uopcv07.cloudfront.net,PROXY
 HOST-SUFFIX,d2mrry2to5rg.com,PROXY
 HOST-SUFFIX,d2nvs31859zcd8.cloudfront.net,PROXY
 HOST-SUFFIX,d2pass.com,PROXY
 HOST-SUFFIX,d2um2qdswy1tb0.cloudfront.net,PROXY
+HOST-SUFFIX,d2v9yioq9zuuq2.cloudfront.net,PROXY
 HOST-SUFFIX,d2vjef5jvl6bfs.cloudfront.net,PROXY
 HOST-SUFFIX,d2xmjdvx03ij56.cloudfront.net,PROXY
+HOST-SUFFIX,d31dormfno8pk4.cloudfront.net,PROXY
 HOST-SUFFIX,d33wubrfki0l68.cloudfront.net,PROXY
 HOST-SUFFIX,d36nr0u3xmc4mm.cloudfront.net,PROXY
 HOST-SUFFIX,d3aqoihi2n8ty8.cloudfront.net,PROXY
 HOST-SUFFIX,d3c27h4odz752x.cloudfront.net,PROXY
+HOST-SUFFIX,d3lh5kkip965lj.cloudfront.net,PROXY
+HOST-SUFFIX,d3nwj80emtnjeo.cloudfront.net,PROXY
 HOST-SUFFIX,d3r7nsslvs6aaf.cloudfront.net,PROXY
+HOST-SUFFIX,d3ucl0eqgl80l5.cloudfront.net,PROXY
 HOST-SUFFIX,d3vd9lfkzbru3h.cloudfront.net,PROXY
 HOST-SUFFIX,d4dj-pj.com,PROXY
 HOST-SUFFIX,d6d4ismr40iw.cloudfront.net,PROXY
 HOST-SUFFIX,d6tizftlrpuof.cloudfront.net,PROXY
+HOST-SUFFIX,d96jfp62lg3kj.cloudfront.net,PROXY
 HOST-SUFFIX,da-files.com,PROXY
 HOST-SUFFIX,da3dsoul.dev,PROXY
 HOST-SUFFIX,daboja18.com,PROXY
@@ -6360,6 +6379,7 @@ HOST-SUFFIX,dcard.cc,PROXY
 HOST-SUFFIX,dcard.io,PROXY
 HOST-SUFFIX,dcard.link,PROXY
 HOST-SUFFIX,dcard.tw,PROXY
+HOST-SUFFIX,dcb0z5ovq92mz.cloudfront.net,PROXY
 HOST-SUFFIX,dctbeatsbydre.com,PROXY
 HOST-SUFFIX,ddacn6pr5v0tl.cloudfront.net,PROXY
 HOST-SUFFIX,ddc.com.tw,PROXY
@@ -6372,6 +6392,7 @@ HOST-SUFFIX,ddg.gg,PROXY
 HOST-SUFFIX,ddh.gg,PROXY
 HOST-SUFFIX,dditsadn.com,PROXY
 HOST-SUFFIX,dditscdn.com,PROXY
+HOST-SUFFIX,ddpjwstwtpszg.cloudfront.net,PROXY
 HOST-SUFFIX,de-rt.com,PROXY
 HOST-SUFFIX,de-rt.org,PROXY
 HOST-SUFFIX,de-rtnews.com,PROXY
@@ -7295,6 +7316,7 @@ HOST-SUFFIX,dsmynas.net,PROXY
 HOST-SUFFIX,dsmynas.org,PROXY
 HOST-SUFFIX,dssott.com,PROXY
 HOST-SUFFIX,dstk.dk,PROXY
+HOST-SUFFIX,dstnzhnatv9pz.cloudfront.net,PROXY
 HOST-SUFFIX,dswz88.xyz,PROXY
 HOST-SUFFIX,dsyiren.com,PROXY
 HOST-SUFFIX,dt18.com,PROXY
@@ -10851,6 +10873,7 @@ HOST-SUFFIX,hayday.com,PROXY
 HOST-SUFFIX,haydaygame.com,PROXY
 HOST-SUFFIX,hayya.ae,PROXY
 HOST-SUFFIX,hb.imgix.net,PROXY
+HOST-SUFFIX,hb4bbbbb.pmhcjk.com,PROXY
 HOST-SUFFIX,hbabit.com,PROXY
 HOST-SUFFIX,hbfile.net,PROXY
 HOST-SUFFIX,hbg.com,PROXY
@@ -13670,6 +13693,7 @@ HOST-SUFFIX,khatrimaza.org,PROXY
 HOST-SUFFIX,khotruyentranhx.com,PROXY
 HOST-SUFFIX,kichiku-doujinko.com,PROXY
 HOST-SUFFIX,kichikuou.com,PROXY
+HOST-SUFFIX,kick.com,PROXY
 HOST-SUFFIX,kickporn.com,PROXY
 HOST-SUFFIX,kickshatchannel.com,PROXY
 HOST-SUFFIX,kicksnike1.com,PROXY
@@ -14098,7 +14122,14 @@ HOST-SUFFIX,lightyearvpn.com,PROXY
 HOST-SUFFIX,lih.kg,PROXY
 HOST-SUFFIX,lihkg.com,PROXY
 HOST-SUFFIX,lihksnap.com,PROXY
+HOST-SUFFIX,like-video.com,PROXY
 HOST-SUFFIX,like.com,PROXY
+HOST-SUFFIX,like.video,PROXY
+HOST-SUFFIX,likee.com,PROXY
+HOST-SUFFIX,likee.video,PROXY
+HOST-SUFFIX,likeeapp.ru,PROXY
+HOST-SUFFIX,likeevideo.com,PROXY
+HOST-SUFFIX,likeevideo.ru,PROXY
 HOST-SUFFIX,likeseiyu.com,PROXY
 HOST-SUFFIX,liketruyen.net,PROXY
 HOST-SUFFIX,liketwice.com,PROXY
@@ -16356,6 +16387,7 @@ HOST-SUFFIX,navyfamily.navy.mil,PROXY
 HOST-SUFFIX,navyreserve.navy.mil,PROXY
 HOST-SUFFIX,naydex.net,PROXY
 HOST-SUFFIX,nbabot.net,PROXY
+HOST-SUFFIX,nbbb1bb7.pmhcjk.com,PROXY
 HOST-SUFFIX,nbc.co,PROXY
 HOST-SUFFIX,nbc.com,PROXY
 HOST-SUFFIX,nbcnews.com,PROXY
@@ -17664,6 +17696,7 @@ HOST-SUFFIX,ovpn.com,PROXY
 HOST-SUFFIX,ow.ly,PROXY
 HOST-SUFFIX,owl.li,PROXY
 HOST-SUFFIX,owltail.com,PROXY
+HOST-SUFFIX,owxd.xyz,PROXY
 HOST-SUFFIX,oxfordaasc.com,PROXY
 HOST-SUFFIX,oxfordartonline.com,PROXY
 HOST-SUFFIX,oxfordbibliographies.com,PROXY
@@ -18882,11 +18915,7 @@ HOST-SUFFIX,ppy.sh,PROXY
 HOST-SUFFIX,practicalbusinessskills.com,PROXY
 HOST-SUFFIX,practicalmoneyskills.ca,PROXY
 HOST-SUFFIX,practicalmoneyskills.jp,PROXY
-HOST-SUFFIX,practivate.adobe,PROXY
 HOST-SUFFIX,practivate.adobe.com,PROXY
-HOST-SUFFIX,practivate.adobe.ipp,PROXY
-HOST-SUFFIX,practivate.adobe.newoa,PROXY
-HOST-SUFFIX,practivate.adobe.ntp,PROXY
 HOST-SUFFIX,prastitutki.ru,PROXY
 HOST-SUFFIX,prayforchina.net,PROXY
 HOST-SUFFIX,prcleader.org,PROXY
@@ -19171,6 +19200,7 @@ HOST-SUFFIX,pzhanfor.today,PROXY
 HOST-SUFFIX,q10.jp,PROXY
 HOST-SUFFIX,q13.com,PROXY
 HOST-SUFFIX,q13fox.com,PROXY
+HOST-SUFFIX,q676790b.pmhcjk.com,PROXY
 HOST-SUFFIX,qatarescortsvip.com,PROXY
 HOST-SUFFIX,qattdh.cc,PROXY
 HOST-SUFFIX,qattdh.top,PROXY
@@ -23531,6 +23561,7 @@ HOST-SUFFIX,uwants.com,PROXY
 HOST-SUFFIX,uweb.ru,PROXY
 HOST-SUFFIX,uwpcommunitytoolkit.com,PROXY
 HOST-SUFFIX,uxthemes.com,PROXY
+HOST-SUFFIX,uxzw.club,PROXY
 HOST-SUFFIX,uyghur-j.org,PROXY
 HOST-SUFFIX,uyghuraa.org,PROXY
 HOST-SUFFIX,uyghuramerican.org,PROXY
@@ -26518,6 +26549,7 @@ HOST-SUFFIX,yt3.googleusercontent.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,ytn.co.kr,PROXY
 HOST-SUFFIX,yuanming.net,PROXY
+HOST-SUFFIX,yucf.top,PROXY
 HOST-SUFFIX,yuenuge113.xyz,PROXY
 HOST-SUFFIX,yuenuge18.cc,PROXY
 HOST-SUFFIX,yugioh-card.com,PROXY
