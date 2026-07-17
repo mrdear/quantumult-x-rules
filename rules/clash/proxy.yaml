@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-16 01:57:24
-# Total domains: 26805
+# Updated: 2026-07-17 02:01:16
+# Total domains: 26808
 payload:
   - '000webhost.com'
   - '01.org'
@@ -2855,6 +2855,7 @@ payload:
   - 'azuredns-prd.org'
   - 'azureedge-test.net'
   - 'azureedge.net'
+  - 'azureedge.us'
   - 'azurefd.net'
   - 'azureiotcentral.com'
   - 'azureiotsolutions.com'
@@ -5915,6 +5916,7 @@ payload:
   - 'coova.net'
   - 'coova.org'
   - 'copilot-proxy.githubusercontent.com'
+  - 'copilot-stg.com'
   - 'copilot-workspace.githubnext.com'
   - 'copilot.com'
   - 'copilotprodattachments.blob.core.windows.net'
@@ -15089,6 +15091,7 @@ payload:
   - 'mh4u.org'
   - 'mhcb.ru'
   - 'mhcbr.ru'
+  - 'mhgui.com'
   - 'mhhanman.xyz'
   - 'mhqwe.xyz'
   - 'mhradio.org'
@@ -21601,6 +21604,7 @@ payload:
   - 'starfox.com'
   - 'stargazer-games.com'
   - 'stark-verlag.ch'
+  - 'starlink.com'
   - 'starott.com'
   - 'starp2p.com'
   - 'starplus.com'
@@ -22262,7 +22266,6 @@ payload:
   - 'terraform.io'
   - 'terragraph.com'
   - 'terrapeak.com'
-  - 'tesla-cdn.thron.com'
   - 'tesla.com'
   - 'tesla.services'
   - 'teslaenergy.services'

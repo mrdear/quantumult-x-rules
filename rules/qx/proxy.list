@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-16 01:57:24
-# Total domains: 26805
+# Updated: 2026-07-17 02:01:15
+# Total domains: 26808
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -2855,6 +2855,7 @@ HOST-SUFFIX,azuredns-prd.info,PROXY
 HOST-SUFFIX,azuredns-prd.org,PROXY
 HOST-SUFFIX,azureedge-test.net,PROXY
 HOST-SUFFIX,azureedge.net,PROXY
+HOST-SUFFIX,azureedge.us,PROXY
 HOST-SUFFIX,azurefd.net,PROXY
 HOST-SUFFIX,azureiotcentral.com,PROXY
 HOST-SUFFIX,azureiotsolutions.com,PROXY
@@ -5915,6 +5916,7 @@ HOST-SUFFIX,coova.com,PROXY
 HOST-SUFFIX,coova.net,PROXY
 HOST-SUFFIX,coova.org,PROXY
 HOST-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
+HOST-SUFFIX,copilot-stg.com,PROXY
 HOST-SUFFIX,copilot-workspace.githubnext.com,PROXY
 HOST-SUFFIX,copilot.com,PROXY
 HOST-SUFFIX,copilotprodattachments.blob.core.windows.net,PROXY
@@ -15089,6 +15091,7 @@ HOST-SUFFIX,mgstage.com,PROXY
 HOST-SUFFIX,mh4u.org,PROXY
 HOST-SUFFIX,mhcb.ru,PROXY
 HOST-SUFFIX,mhcbr.ru,PROXY
+HOST-SUFFIX,mhgui.com,PROXY
 HOST-SUFFIX,mhhanman.xyz,PROXY
 HOST-SUFFIX,mhqwe.xyz,PROXY
 HOST-SUFFIX,mhradio.org,PROXY
@@ -21601,6 +21604,7 @@ HOST-SUFFIX,starfieldtech.com,PROXY
 HOST-SUFFIX,starfox.com,PROXY
 HOST-SUFFIX,stargazer-games.com,PROXY
 HOST-SUFFIX,stark-verlag.ch,PROXY
+HOST-SUFFIX,starlink.com,PROXY
 HOST-SUFFIX,starott.com,PROXY
 HOST-SUFFIX,starp2p.com,PROXY
 HOST-SUFFIX,starplus.com,PROXY
@@ -22262,7 +22266,6 @@ HOST-SUFFIX,terobox.com,PROXY
 HOST-SUFFIX,terraform.io,PROXY
 HOST-SUFFIX,terragraph.com,PROXY
 HOST-SUFFIX,terrapeak.com,PROXY
-HOST-SUFFIX,tesla-cdn.thron.com,PROXY
 HOST-SUFFIX,tesla.com,PROXY
 HOST-SUFFIX,tesla.services,PROXY
 HOST-SUFFIX,teslaenergy.services,PROXY
