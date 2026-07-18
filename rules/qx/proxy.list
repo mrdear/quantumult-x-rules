@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-17 02:01:15
-# Total domains: 26808
+# Updated: 2026-07-18 01:50:07
+# Total domains: 26809
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -16508,6 +16508,7 @@ HOST-SUFFIX,netsurf-browser.org,PROXY
 HOST-SUFFIX,nettyinternet.com,PROXY
 HOST-SUFFIX,netvideogirls.com,PROXY
 HOST-SUFFIX,netvigator.com,PROXY
+HOST-SUFFIX,netxh.blog,PROXY
 HOST-SUFFIX,netzerobuildings.com,PROXY
 HOST-SUFFIX,netzerobuildingstudio.com,PROXY
 HOST-SUFFIX,neuerporno.com,PROXY
