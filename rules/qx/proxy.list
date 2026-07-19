@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-18 01:50:07
-# Total domains: 26809
+# Updated: 2026-07-19 02:01:52
+# Total domains: 26810
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -19238,6 +19238,7 @@ HOST-SUFFIX,qmov.net,PROXY
 HOST-SUFFIX,qmp4.com,PROXY
 HOST-SUFFIX,qmttqg3k.me,PROXY
 HOST-SUFFIX,qnap.com,PROXY
+HOST-SUFFIX,qnapsupport.net,PROXY
 HOST-SUFFIX,qobuz.com,PROXY
 HOST-SUFFIX,qoder.com,PROXY
 HOST-SUFFIX,qombol.com,PROXY

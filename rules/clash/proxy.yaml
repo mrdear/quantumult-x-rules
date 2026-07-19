@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-18 01:50:07
-# Total domains: 26809
+# Updated: 2026-07-19 02:01:52
+# Total domains: 26810
 payload:
   - '000webhost.com'
   - '01.org'
@@ -19238,6 +19238,7 @@ payload:
   - 'qmp4.com'
   - 'qmttqg3k.me'
   - 'qnap.com'
+  - 'qnapsupport.net'
   - 'qobuz.com'
   - 'qoder.com'
   - 'qombol.com'
