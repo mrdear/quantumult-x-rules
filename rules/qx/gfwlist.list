@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-07-20 03:04:28
-# Total domains: 4028
+# Updated: 2026-07-21 01:59:45
+# Total domains: 4030
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -677,6 +677,7 @@ HOST-SUFFIX,civilmedia.tw,GFWLIST
 HOST-SUFFIX,civitai.com,GFWLIST
 HOST-SUFFIX,cixiaoya.club,GFWLIST
 HOST-SUFFIX,ck101.com,GFWLIST
+HOST-SUFFIX,clashyun.com,GFWLIST
 HOST-SUFFIX,classicalguitarblog.net,GFWLIST
 HOST-SUFFIX,claude.ai,GFWLIST
 HOST-SUFFIX,claude.com,GFWLIST
@@ -3189,6 +3190,7 @@ HOST-SUFFIX,synapse.org,GFWLIST
 HOST-SUFFIX,syncback.com,GFWLIST
 HOST-SUFFIX,synergyse.com,GFWLIST
 HOST-SUFFIX,syosetu.com,GFWLIST
+HOST-SUFFIX,sysub.com,GFWLIST
 HOST-SUFFIX,t-g.com,GFWLIST
 HOST-SUFFIX,t.co,GFWLIST
 HOST-SUFFIX,t.me,GFWLIST
