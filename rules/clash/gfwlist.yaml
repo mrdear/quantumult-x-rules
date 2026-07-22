@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-07-21 01:59:45
-# Total domains: 4030
+# Updated: 2026-07-22 01:58:10
+# Total domains: 4031
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -3988,6 +3988,7 @@ payload:
   - '+.zello.com'
   - '+.zenmate.com'
   - '+.zenmate.com.ru'
+  - '+.zenmux.ai'
   - '+.zerohedge.com'
   - '+.zeronet.io'
   - '+.zh-hans.cfsh99.com'
