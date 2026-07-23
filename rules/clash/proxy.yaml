@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-22 01:58:10
-# Total domains: 26821
+# Updated: 2026-07-23 02:05:55
+# Total domains: 26822
 payload:
   - '000webhost.com'
   - '01.org'
@@ -26667,6 +26667,7 @@ payload:
   - 'zenlesszonezero.com'
   - 'zenmate.com'
   - 'zenmate.com.ru'
+  - 'zenmux.ai'
   - 'zenodo.org'
   - 'zeplin.dev'
   - 'zeplin.io'

@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-22 01:58:10
-# Total domains: 26821
+# Updated: 2026-07-23 02:05:55
+# Total domains: 26822
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -26667,6 +26667,7 @@ HOST-SUFFIX,zenit.ru,PROXY
 HOST-SUFFIX,zenlesszonezero.com,PROXY
 HOST-SUFFIX,zenmate.com,PROXY
 HOST-SUFFIX,zenmate.com.ru,PROXY
+HOST-SUFFIX,zenmux.ai,PROXY
 HOST-SUFFIX,zenodo.org,PROXY
 HOST-SUFFIX,zeplin.dev,PROXY
 HOST-SUFFIX,zeplin.io,PROXY

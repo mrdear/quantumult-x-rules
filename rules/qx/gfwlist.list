@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-07-22 01:58:10
-# Total domains: 4031
+# Updated: 2026-07-23 02:05:55
+# Total domains: 4032
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -3388,6 +3388,7 @@ HOST-SUFFIX,to-porno.com,GFWLIST
 HOST-SUFFIX,togetter.com,GFWLIST
 HOST-SUFFIX,token.im,GFWLIST
 HOST-SUFFIX,tokenlon.im,GFWLIST
+HOST-SUFFIX,tokenplus.app,GFWLIST
 HOST-SUFFIX,tokyo-porn-tube.com,GFWLIST
 HOST-SUFFIX,tokyocn.com,GFWLIST
 HOST-SUFFIX,tomp3.cc,GFWLIST

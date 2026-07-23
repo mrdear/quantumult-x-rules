@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-07-22 01:58:10
-# Total domains: 4031
+# Updated: 2026-07-23 02:05:55
+# Total domains: 4032
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -3388,6 +3388,7 @@ payload:
   - '+.togetter.com'
   - '+.token.im'
   - '+.tokenlon.im'
+  - '+.tokenplus.app'
   - '+.tokyo-porn-tube.com'
   - '+.tokyocn.com'
   - '+.tomp3.cc'
