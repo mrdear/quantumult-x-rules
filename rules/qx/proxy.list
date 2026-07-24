@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-07-23 02:05:55
-# Total domains: 26822
+# Updated: 2026-07-24 02:01:03
+# Total domains: 26823
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -22779,6 +22779,7 @@ HOST-SUFFIX,tohoku-bank.co.jp,PROXY
 HOST-SUFFIX,tok.media,PROXY
 HOST-SUFFIX,token.im,PROXY
 HOST-SUFFIX,tokenlon.im,PROXY
+HOST-SUFFIX,tokenplus.app,PROXY
 HOST-SUFFIX,tokyo-hot.com,PROXY
 HOST-SUFFIX,tokyo-porn-tube.com,PROXY
 HOST-SUFFIX,tokyo-sports.co.jp,PROXY

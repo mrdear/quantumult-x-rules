@@ -1,5 +1,5 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-07-23 02:05:55
+# Updated: 2026-07-24 02:01:03
 # Total domains: 4032
 payload:
   - '+.000webhost.com'
