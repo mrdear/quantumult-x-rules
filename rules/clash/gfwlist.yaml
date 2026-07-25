@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-07-24 02:01:03
-# Total domains: 4032
+# Updated: 2026-07-25 02:01:01
+# Total domains: 4034
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -666,6 +666,7 @@ payload:
   - '+.cia.gov'
   - '+.cici.com'
   - '+.ciciai.com'
+  - '+.circle19.org'
   - '+.cirosantilli.com'
   - '+.citizencn.com'
   - '+.citizenlab.ca'
@@ -1991,6 +1992,7 @@ payload:
   - '+.kantie.org'
   - '+.kaotic.com'
   - '+.karayou.com'
+  - '+.kards.com'
   - '+.kathmandupost.com'
   - '+.kawaiikawaii.jp'
   - '+.kawase.com'
