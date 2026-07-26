@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-25 02:01:02
-# Total domains: 26823
+# Updated: 2026-07-26 02:05:16
+# Total domains: 26828
 payload:
   - '000webhost.com'
   - '01.org'
@@ -5491,6 +5491,7 @@ payload:
   - 'cinepornogratis.com'
   - 'cinny.in'
   - 'cios.org'
+  - 'circle19.org'
   - 'cirosantilli.com'
   - 'cisco-returns.com'
   - 'cisco-warrantyfinder.com'
@@ -7087,6 +7088,7 @@ payload:
   - 'docs.com'
   - 'docs.new'
   - 'docs.rs'
+  - 'docs.rw'
   - 'doctor-videos.com'
   - 'documentforce.com'
   - 'documentingreality.com'
@@ -13600,6 +13602,7 @@ payload:
   - 'karabako-gmo.com'
   - 'karafarinbank.ir'
   - 'karayou.com'
+  - 'kards.com'
   - 'karechat.ai'
   - 'karger.com'
   - 'karinahart.com'
@@ -14287,6 +14290,7 @@ payload:
   - 'localxlist.org'
   - 'location.microsoft.com'
   - 'lockestek.com'
+  - 'log.rw'
   - 'logi.com'
   - 'logicool.co.jp'
   - 'logicoolg.com'
@@ -23007,6 +23011,7 @@ payload:
   - 'truyenkk1.com'
   - 'truyentranh86.com'
   - 'truyenwk.com'
+  - 'try.rw'
   - 'tryalias.com'
   - 'tryboobs.com'
   - 'trycloudflare.com'
