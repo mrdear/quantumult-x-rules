@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-07-27 02:12:33
-# Total domains: 4034
+# Updated: 2026-07-28 01:53:51
+# Total domains: 4035
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -3429,6 +3429,7 @@ HOST-SUFFIX,trtworld.com,GFWLIST
 HOST-SUFFIX,truebuddha-md.org,GFWLIST
 HOST-SUFFIX,trustwallet.com,GFWLIST
 HOST-SUFFIX,truthsocial.com,GFWLIST
+HOST-SUFFIX,tryai.dev,GFWLIST
 HOST-SUFFIX,tryheart.jp,GFWLIST
 HOST-SUFFIX,tsdr.uspto.gov,GFWLIST
 HOST-SUFFIX,tt1069.com,GFWLIST
