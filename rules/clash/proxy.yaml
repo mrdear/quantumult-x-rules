@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-07-28 01:53:51
-# Total domains: 26828
+# Updated: 2026-07-29 01:56:36
+# Total domains: 26835
 payload:
   - '000webhost.com'
   - '01.org'
@@ -3937,6 +3937,7 @@ payload:
   - 'bluemix.net'
   - 'bluestacks.com'
   - 'bluffyporn.com'
+  - 'blurams.app'
   - 'blurams.com'
   - 'blylq.buzz'
   - 'blz-contentstack.com'
@@ -5206,6 +5207,7 @@ payload:
   - 'cencoastbmw.com'
   - 'cenews.eu'
   - 'cenkei.com'
+  - 'ceno.app'
   - 'censorship.ai'
   - 'censorship.no'
   - 'centauro.com.br'
@@ -10097,6 +10099,7 @@ payload:
   - 'githubnext.com'
   - 'githubpreview.dev'
   - 'githubstatus.com'
+  - 'githubsupport.com'
   - 'githubuniverse.com'
   - 'githubusercontent.com'
   - 'gitlab-assets.oss-cn-hongkong.aliyuncs.com'
@@ -13045,6 +13048,7 @@ payload:
   - 'iutunes.com'
   - 'ivacy.com'
   - 'ivi.ru'
+  - 'ivicdn.tv'
   - 'ivintageporn.com'
   - 'ivonblog.com'
   - 'ivpn.net'
@@ -13753,6 +13757,7 @@ payload:
   - 'kindleren.com'
   - 'kindnudist.com'
   - 'kindteenporn.com'
+  - 'kinescopecdn.net'
   - 'kingcomix.com'
   - 'kingdomsalvation.org'
   - 'kingextre.me'
@@ -20183,6 +20188,7 @@ payload:
   - 'sber.ru'
   - 'sberauto.com'
   - 'sberbank-insurance.ru'
+  - 'sberbank-tele.com'
   - 'sberbank.com'
   - 'sberbank.ru'
   - 'sberbankaktivno.ru'
@@ -23012,6 +23018,7 @@ payload:
   - 'truyentranh86.com'
   - 'truyenwk.com'
   - 'try.rw'
+  - 'tryai.dev'
   - 'tryalias.com'
   - 'tryboobs.com'
   - 'trycloudflare.com'
