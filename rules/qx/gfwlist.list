@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-07-30 01:48:18
-# Total domains: 4035
+# Updated: 2026-07-31 02:05:49
+# Total domains: 4037
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2074,6 +2074,7 @@ HOST-SUFFIX,lenwhite.com,GFWLIST
 HOST-SUFFIX,leonardo.ai,GFWLIST
 HOST-SUFFIX,lesoir.be,GFWLIST
 HOST-SUFFIX,letscorp.net,GFWLIST
+HOST-SUFFIX,level-plus.net,GFWLIST
 HOST-SUFFIX,lexica.art,GFWLIST
 HOST-SUFFIX,li.taipei,GFWLIST
 HOST-SUFFIX,liangyou.net,GFWLIST
@@ -3586,6 +3587,7 @@ HOST-SUFFIX,uyghurcongress.org,GFWLIST
 HOST-SUFFIX,uyghurpen.org,GFWLIST
 HOST-SUFFIX,uyghurstudies.org,GFWLIST
 HOST-SUFFIX,uyghurtribunal.com,GFWLIST
+HOST-SUFFIX,v.recipes,GFWLIST
 HOST-SUFFIX,v2.help,GFWLIST
 HOST-SUFFIX,v2.hysteria.network,GFWLIST
 HOST-SUFFIX,v2ex.com,GFWLIST
