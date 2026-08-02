@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-08-01 02:07:35
-# Total domains: 4037
+# Updated: 2026-08-02 02:04:13
+# Total domains: 4038
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2471,6 +2471,7 @@ HOST-SUFFIX,ntd.tv,GFWLIST
 HOST-SUFFIX,ntdtv.com,GFWLIST
 HOST-SUFFIX,ntdtv.com.tw,GFWLIST
 HOST-SUFFIX,ntdtv.cz,GFWLIST
+HOST-SUFFIX,nthlink.com,GFWLIST
 HOST-SUFFIX,nuexpo.com,GFWLIST
 HOST-SUFFIX,nurgo-software.com,GFWLIST
 HOST-SUFFIX,nusatrip.com,GFWLIST
