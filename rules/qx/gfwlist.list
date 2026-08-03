@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-08-02 02:04:13
-# Total domains: 4038
+# Updated: 2026-08-03 02:06:23
+# Total domains: 4035
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -589,6 +589,7 @@ HOST-SUFFIX,cenews.eu,GFWLIST
 HOST-SUFFIX,centauro.com.br,GFWLIST
 HOST-SUFFIX,centerforhumanreprod.com,GFWLIST
 HOST-SUFFIX,centralnation.com,GFWLIST
+HOST-SUFFIX,cerebras.ai,GFWLIST
 HOST-SUFFIX,certificate-transparency.org,GFWLIST
 HOST-SUFFIX,cfr.org,GFWLIST
 HOST-SUFFIX,cg.play-analytics.com,GFWLIST
@@ -662,6 +663,7 @@ HOST-SUFFIX,chrome.com,GFWLIST
 HOST-SUFFIX,chromecast.com,GFWLIST
 HOST-SUFFIX,chromeexperiments.com,GFWLIST
 HOST-SUFFIX,chromestatus.com,GFWLIST
+HOST-SUFFIX,cht.com.tw,GFWLIST
 HOST-SUFFIX,ci-en.jp,GFWLIST
 HOST-SUFFIX,cia.gov,GFWLIST
 HOST-SUFFIX,cici.com,GFWLIST
@@ -2321,7 +2323,6 @@ HOST-SUFFIX,mos.ru,GFWLIST
 HOST-SUFFIX,mosavi.io,GFWLIST
 HOST-SUFFIX,movements.org,GFWLIST
 HOST-SUFFIX,moviefap.com,GFWLIST
-HOST-SUFFIX,mozilla.ai,GFWLIST
 HOST-SUFFIX,mpettis.com,GFWLIST
 HOST-SUFFIX,mpfinance.com,GFWLIST
 HOST-SUFFIX,mpinews.com,GFWLIST
@@ -2771,7 +2772,6 @@ HOST-SUFFIX,puffinbrowser.com,GFWLIST
 HOST-SUFFIX,pullfolio.co,GFWLIST
 HOST-SUFFIX,pure18.com,GFWLIST
 HOST-SUFFIX,pureconcepts.net,GFWLIST
-HOST-SUFFIX,puredns.org,GFWLIST
 HOST-SUFFIX,pureinsight.org,GFWLIST
 HOST-SUFFIX,purepdf.com,GFWLIST
 HOST-SUFFIX,purevpn.com,GFWLIST
@@ -2813,7 +2813,6 @@ HOST-SUFFIX,radio.co,GFWLIST
 HOST-SUFFIX,radio.garden,GFWLIST
 HOST-SUFFIX,radioaustralia.net.au,GFWLIST
 HOST-SUFFIX,radiohilight.net,GFWLIST
-HOST-SUFFIX,radiojar.com,GFWLIST
 HOST-SUFFIX,radioline.co,GFWLIST
 HOST-SUFFIX,radiovaticana.org,GFWLIST
 HOST-SUFFIX,radiovncr.com,GFWLIST
@@ -2920,7 +2919,6 @@ HOST-SUFFIX,sadpanda.us,GFWLIST
 HOST-SUFFIX,safechat.com,GFWLIST
 HOST-SUFFIX,safeguarddefenders.com,GFWLIST
 HOST-SUFFIX,safervpn.com,GFWLIST
-HOST-SUFFIX,sagernet.org,GFWLIST
 HOST-SUFFIX,sakuralive.com,GFWLIST
 HOST-SUFFIX,salvation.org.hk,GFWLIST
 HOST-SUFFIX,sankakucomplex.com,GFWLIST
@@ -3839,7 +3837,6 @@ HOST-SUFFIX,wwitv.com,GFWLIST
 HOST-SUFFIX,www.ajsands.com,GFWLIST
 HOST-SUFFIX,www.aolnews.com,GFWLIST
 HOST-SUFFIX,www.bing.com,GFWLIST
-HOST-SUFFIX,www.clashverge.dev,GFWLIST
 HOST-SUFFIX,www.hoyolab.com,GFWLIST
 HOST-SUFFIX,www.lorenzetti.com.br,GFWLIST
 HOST-SUFFIX,www.moztw.org,GFWLIST
