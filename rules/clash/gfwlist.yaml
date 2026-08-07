@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-08-06 01:54:30
-# Total domains: 4035
+# Updated: 2026-08-07 02:16:53
+# Total domains: 4034
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -278,7 +278,6 @@ payload:
   - '+.atnext.com'
   - '+.auctions.yahoo.co.jp'
   - '+.audacy.com'
-  - '+.auntology.fandom.com'
   - '+.autodraw.com'
   - '+.av.movie'
   - '+.av01.tv'
@@ -1070,6 +1069,7 @@ payload:
   - '+.falunhr.org'
   - '+.famunion.com'
   - '+.fanbox.cc'
+  - '+.fandom.com'
   - '+.fangeqiang.com'
   - '+.fanglizhi.info'
   - '+.fangong.org'
@@ -1729,7 +1729,6 @@ payload:
   - '+.holyspiritspeaks.org'
   - '+.home.saxo'
   - '+.homedepot.com'
-  - '+.hongkong.fandom.com'
   - '+.hongkongfp.com'
   - '+.hongzhi.li'
   - '+.honven.xyz'
