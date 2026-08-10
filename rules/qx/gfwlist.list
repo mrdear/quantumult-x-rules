@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-08-09 01:08:41
-# Total domains: 4034
+# Updated: 2026-08-10 01:10:23
+# Total domains: 4038
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -121,6 +121,7 @@ HOST-SUFFIX,agoogleaday.com,GFWLIST
 HOST-SUFFIX,agro.hk,GFWLIST
 HOST-SUFFIX,ai.dev,GFWLIST
 HOST-SUFFIX,ai.studio,GFWLIST
+HOST-SUFFIX,aihub.top,GFWLIST
 HOST-SUFFIX,aiosearch.com,GFWLIST
 HOST-SUFFIX,aiph.net,GFWLIST
 HOST-SUFFIX,airconsole.com,GFWLIST
@@ -320,6 +321,7 @@ HOST-SUFFIX,bannedbook.org,GFWLIST
 HOST-SUFFIX,banorte.com,GFWLIST
 HOST-SUFFIX,barnabu.co.uk,GFWLIST
 HOST-SUFFIX,barton.de,GFWLIST
+HOST-SUFFIX,basemaps.arcgis.com,GFWLIST
 HOST-SUFFIX,bastillepost.com,GFWLIST
 HOST-SUFFIX,bayvoice.net,GFWLIST
 HOST-SUFFIX,bb-chat.tv,GFWLIST
@@ -1011,6 +1013,7 @@ HOST-SUFFIX,erodoujinworld.com,GFWLIST
 HOST-SUFFIX,eromanga-kingdom.com,GFWLIST
 HOST-SUFFIX,eromangadouzin.com,GFWLIST
 HOST-SUFFIX,esg.t91y.com,GFWLIST
+HOST-SUFFIX,esim.redteago.com,GFWLIST
 HOST-SUFFIX,eslite.com,GFWLIST
 HOST-SUFFIX,esurance.com,GFWLIST
 HOST-SUFFIX,etherdelta.com,GFWLIST
@@ -1033,6 +1036,7 @@ HOST-SUFFIX,exmormon.org,GFWLIST
 HOST-SUFFIX,expatshield.com,GFWLIST
 HOST-SUFFIX,expecthim.com,GFWLIST
 HOST-SUFFIX,expekt.com,GFWLIST
+HOST-SUFFIX,experience.arcgis.com,GFWLIST
 HOST-SUFFIX,exploader.net,GFWLIST
 HOST-SUFFIX,expressnews.com,GFWLIST
 HOST-SUFFIX,expressvpn.com,GFWLIST
