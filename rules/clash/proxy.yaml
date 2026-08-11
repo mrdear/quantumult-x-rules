@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-08-10 01:10:24
-# Total domains: 26923
+# Updated: 2026-08-11 01:09:05
+# Total domains: 26925
 payload:
   - '000webhost.com'
   - '01.org'
@@ -1085,6 +1085,7 @@ payload:
   - 'ai91porn.cc'
   - 'aiaa.org'
   - 'aiasahi.jp'
+  - 'aihub.top'
   - 'aimei133.com'
   - 'aimsciences.org'
   - 'aiosearch.com'
@@ -8177,6 +8178,7 @@ payload:
   - 'esforce.com'
   - 'esforce.ru'
   - 'esg.t91y.com'
+  - 'esim.redteago.com'
   - 'eskimotube.com'
   - 'eslite.com'
   - 'esm.run'
