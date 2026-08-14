@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-08-13 01:18:38
-# Total domains: 26955
+# Updated: 2026-08-14 01:18:16
+# Total domains: 26967
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -4680,6 +4680,7 @@ HOST-SUFFIX,buhidoh.net,PROXY
 HOST-SUFFIX,buicha.social,PROXY
 HOST-SUFFIX,building3dcontent.com,PROXY
 HOST-SUFFIX,builtfromebay.com,PROXY
+HOST-SUFFIX,builtwithnix.org,PROXY
 HOST-SUFFIX,bukkake-jav.com,PROXY
 HOST-SUFFIX,bullguard.com,PROXY
 HOST-SUFFIX,bullog.org,PROXY
@@ -16318,6 +16319,7 @@ HOST-SUFFIX,mymusclevideo.com,PROXY
 HOST-SUFFIX,mynavi.jp,PROXY
 HOST-SUFFIX,mynetname.net,PROXY
 HOST-SUFFIX,mynike.com,PROXY
+HOST-SUFFIX,mynixos.com,PROXY
 HOST-SUFFIX,myoctocat.com,PROXY
 HOST-SUFFIX,myparagliding.com,PROXY
 HOST-SUFFIX,mypearson.com,PROXY
@@ -17011,7 +17013,16 @@ HOST-SUFFIX,niusnews.com,PROXY
 HOST-SUFFIX,nivod.tv,PROXY
 HOST-SUFFIX,nivodi.tv,PROXY
 HOST-SUFFIX,nivodz.com,PROXY
+HOST-SUFFIX,nix-community.github.io,PROXY
+HOST-SUFFIX,nix-community.org,PROXY
+HOST-SUFFIX,nix.dev,PROXY
+HOST-SUFFIX,nix.store,PROXY
+HOST-SUFFIX,nixcon.org,PROXY
+HOST-SUFFIX,nixcon2017.org,PROXY
+HOST-SUFFIX,nixlang.com,PROXY
 HOST-SUFFIX,nixos.org,PROXY
+HOST-SUFFIX,nixos.wiki,PROXY
+HOST-SUFFIX,nixpkgs.org,PROXY
 HOST-SUFFIX,niziero.info,PROXY
 HOST-SUFFIX,njactb.org,PROXY
 HOST-SUFFIX,njav.tv,PROXY
@@ -26301,6 +26312,7 @@ HOST-SUFFIX,yandex.ee,PROXY
 HOST-SUFFIX,yandex.eu,PROXY
 HOST-SUFFIX,yandex.fi,PROXY
 HOST-SUFFIX,yandex.fr,PROXY
+HOST-SUFFIX,yandex.it,PROXY
 HOST-SUFFIX,yandex.jobs,PROXY
 HOST-SUFFIX,yandex.kg,PROXY
 HOST-SUFFIX,yandex.kz,PROXY
