@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-08-14 01:18:16
-# Total domains: 26967
+# Updated: 2026-08-15 00:49:37
+# Total domains: 26970
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -19978,6 +19978,7 @@ HOST-SUFFIX,rsc.org,PROXY
 HOST-SUFFIX,rsdlmonitor.com,PROXY
 HOST-SUFFIX,rsf-chinese.org,PROXY
 HOST-SUFFIX,rsf.org,PROXY
+HOST-SUFFIX,rsg.ms,PROXY
 HOST-SUFFIX,rsg.sc,PROXY
 HOST-SUFFIX,rshb.ru,PROXY
 HOST-SUFFIX,rsk.co,PROXY
@@ -20322,6 +20323,8 @@ HOST-SUFFIX,sbti.unun.dev,PROXY
 HOST-SUFFIX,sbux.com.my,PROXY
 HOST-SUFFIX,sbuxcard.com,PROXY
 HOST-SUFFIX,sc-cdn.net,PROXY
+HOST-SUFFIX,sc-gw.com,PROXY
+HOST-SUFFIX,sc-static.net,PROXY
 HOST-SUFFIX,sc.com,PROXY
 HOST-SUFFIX,sca-tolo.info,PROXY
 HOST-SUFFIX,scala-lang.org,PROXY
