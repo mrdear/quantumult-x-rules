@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-08-16 00:52:39
-# Total domains: 26970
+# Updated: 2026-08-17 00:50:59
+# Total domains: 26971
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -20119,6 +20119,7 @@ HOST-SUFFIX,rutracker.me,PROXY
 HOST-SUFFIX,rutracker.net,PROXY
 HOST-SUFFIX,rutracker.nl,PROXY
 HOST-SUFFIX,rutracker.org,PROXY
+HOST-SUFFIX,rutracker.wiki,PROXY
 HOST-SUFFIX,rutrk.org,PROXY
 HOST-SUFFIX,rutube.ru,PROXY
 HOST-SUFFIX,rutube.sport,PROXY
