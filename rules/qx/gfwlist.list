@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-08-17 00:50:58
-# Total domains: 4039
+# Updated: 2026-08-18 00:48:56
+# Total domains: 4040
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2124,6 +2124,7 @@ HOST-SUFFIX,liveleak.com,GFWLIST
 HOST-SUFFIX,livemint.com,GFWLIST
 HOST-SUFFIX,livestream.com,GFWLIST
 HOST-SUFFIX,livevideo.com,GFWLIST
+HOST-SUFFIX,livingatlas.arcgis.com,GFWLIST
 HOST-SUFFIX,livingstream.com,GFWLIST
 HOST-SUFFIX,lmarena.ai,GFWLIST
 HOST-SUFFIX,localbitcoins.com,GFWLIST
