@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-08-18 00:48:56
-# Total domains: 4040
+# Updated: 2026-08-19 00:49:35
+# Total domains: 4042
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2917,6 +2917,7 @@ HOST-SUFFIX,rutracker.org,GFWLIST
 HOST-SUFFIX,s-cute.com,GFWLIST
 HOST-SUFFIX,s.yimg.com,GFWLIST
 HOST-SUFFIX,s3-ap-northeast-1.amazonaws.com,GFWLIST
+HOST-SUFFIX,s3.dualstack.us-west-2.amazonaws.com,GFWLIST
 HOST-SUFFIX,sacks.com,GFWLIST
 HOST-SUFFIX,sacom.hk,GFWLIST
 HOST-SUFFIX,sadistic-v.com,GFWLIST
@@ -3790,6 +3791,7 @@ HOST-SUFFIX,wiktionary.org,GFWLIST
 HOST-SUFFIX,willw.net,GFWLIST
 HOST-SUFFIX,wilsoncenter.org,GFWLIST
 HOST-SUFFIX,windscribe.com,GFWLIST
+HOST-SUFFIX,windy.com,GFWLIST
 HOST-SUFFIX,wingamestore.com,GFWLIST
 HOST-SUFFIX,wingy.site,GFWLIST
 HOST-SUFFIX,wionews.com,GFWLIST
