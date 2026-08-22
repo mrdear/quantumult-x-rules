@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-08-21 00:53:12
-# Total domains: 4043
+# Updated: 2026-08-22 00:49:49
+# Total domains: 4045
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -469,6 +469,7 @@ HOST-SUFFIX,break.com,GFWLIST
 HOST-SUFFIX,breakgfw.com,GFWLIST
 HOST-SUFFIX,breakingtweets.com,GFWLIST
 HOST-SUFFIX,breakwall.net,GFWLIST
+HOST-SUFFIX,briarproject.org,GFWLIST
 HOST-SUFFIX,brill.com,GFWLIST
 HOST-SUFFIX,brizzly.com,GFWLIST
 HOST-SUFFIX,broadpressinc.com,GFWLIST
@@ -604,6 +605,7 @@ HOST-SUFFIX,character.ai,GFWLIST
 HOST-SUFFIX,chat.com,GFWLIST
 HOST-SUFFIX,chat.lmsys.org,GFWLIST
 HOST-SUFFIX,chatgpt.com,GFWLIST
+HOST-SUFFIX,chatgpt.site,GFWLIST
 HOST-SUFFIX,chatpdf.com,GFWLIST
 HOST-SUFFIX,chaturbate.com,GFWLIST
 HOST-SUFFIX,checkgfw.com,GFWLIST
