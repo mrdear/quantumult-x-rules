@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-08-22 00:49:50
-# Total domains: 26984
+# Updated: 2026-08-23 00:53:33
+# Total domains: 26985
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -4555,6 +4555,7 @@ HOST-SUFFIX,brew.sh,PROXY
 HOST-SUFFIX,brewmp.com,PROXY
 HOST-SUFFIX,briantreepayments.net,PROXY
 HOST-SUFFIX,briantreepayments.tv,PROXY
+HOST-SUFFIX,briarproject.org,PROXY
 HOST-SUFFIX,bridge-studio.co.uk,PROXY
 HOST-SUFFIX,bridgebim.com,PROXY
 HOST-SUFFIX,bridgestone-asiapacific.com,PROXY
