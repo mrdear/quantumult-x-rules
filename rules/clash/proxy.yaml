@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-08-23 00:53:33
-# Total domains: 26985
+# Updated: 2026-08-24 00:51:47
+# Total domains: 26990
 payload:
   - '000webhost.com'
   - '01.org'
@@ -1868,6 +1868,7 @@ payload:
   - 'api.moomoobull.com'
   - 'api.news'
   - 'api.palworldgame.com'
+  - 'api.shuaiapi.com'
   - 'api.viu.now.com'
   - 'apiary.io'
   - 'apiauto.ru'
@@ -11346,6 +11347,7 @@ payload:
   - 'hippyhillscomix.com'
   - 'hipzoom.net'
   - 'hiroshimabank.co.jp'
+  - 'historylines.net'
   - 'historyofdota.com'
   - 'historyofdota.net'
   - 'historyofdota.org'
@@ -13874,6 +13876,7 @@ payload:
   - 'kiwi.jp'
   - 'kiwi.kz'
   - 'kiwibrowser.com'
+  - 'kiwix.org'
   - 'kiyobank.co.jp'
   - 'kk-whys.co.jp'
   - 'kk.stream'
@@ -15010,6 +15013,7 @@ payload:
   - 'mcdonaldsapps.com'
   - 'mcdonaldsarabia.com'
   - 'mcdonaldsparties.co.nz'
+  - 'mceindex.com'
   - 'mcisco.com'
   - 'mcpeaceofmind.com'
   - 'mcrouter.net'
@@ -25557,6 +25561,7 @@ payload:
   - 'x3guide.com'
   - 'x3vid.com'
   - 'x6av.com'
+  - 'x86.fr'
   - 'x99av.com'
   - 'xamarin.com'
   - 'xandr.com'

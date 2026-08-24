@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-08-23 00:53:33
-# Total domains: 26985
+# Updated: 2026-08-24 00:51:47
+# Total domains: 26990
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -1868,6 +1868,7 @@ HOST-SUFFIX,api.ai,PROXY
 HOST-SUFFIX,api.moomoobull.com,PROXY
 HOST-SUFFIX,api.news,PROXY
 HOST-SUFFIX,api.palworldgame.com,PROXY
+HOST-SUFFIX,api.shuaiapi.com,PROXY
 HOST-SUFFIX,api.viu.now.com,PROXY
 HOST-SUFFIX,apiary.io,PROXY
 HOST-SUFFIX,apiauto.ru,PROXY
@@ -11346,6 +11347,7 @@ HOST-SUFFIX,hiporn.net,PROXY
 HOST-SUFFIX,hippyhillscomix.com,PROXY
 HOST-SUFFIX,hipzoom.net,PROXY
 HOST-SUFFIX,hiroshimabank.co.jp,PROXY
+HOST-SUFFIX,historylines.net,PROXY
 HOST-SUFFIX,historyofdota.com,PROXY
 HOST-SUFFIX,historyofdota.net,PROXY
 HOST-SUFFIX,historyofdota.org,PROXY
@@ -13874,6 +13876,7 @@ HOST-SUFFIX,kitakyushubank.co.jp,PROXY
 HOST-SUFFIX,kiwi.jp,PROXY
 HOST-SUFFIX,kiwi.kz,PROXY
 HOST-SUFFIX,kiwibrowser.com,PROXY
+HOST-SUFFIX,kiwix.org,PROXY
 HOST-SUFFIX,kiyobank.co.jp,PROXY
 HOST-SUFFIX,kk-whys.co.jp,PROXY
 HOST-SUFFIX,kk.stream,PROXY
@@ -15010,6 +15013,7 @@ HOST-SUFFIX,mcdonalds.se,PROXY
 HOST-SUFFIX,mcdonaldsapps.com,PROXY
 HOST-SUFFIX,mcdonaldsarabia.com,PROXY
 HOST-SUFFIX,mcdonaldsparties.co.nz,PROXY
+HOST-SUFFIX,mceindex.com,PROXY
 HOST-SUFFIX,mcisco.com,PROXY
 HOST-SUFFIX,mcpeaceofmind.com,PROXY
 HOST-SUFFIX,mcrouter.net,PROXY
@@ -25557,6 +25561,7 @@ HOST-SUFFIX,x18r.com,PROXY
 HOST-SUFFIX,x3guide.com,PROXY
 HOST-SUFFIX,x3vid.com,PROXY
 HOST-SUFFIX,x6av.com,PROXY
+HOST-SUFFIX,x86.fr,PROXY
 HOST-SUFFIX,x99av.com,PROXY
 HOST-SUFFIX,xamarin.com,PROXY
 HOST-SUFFIX,xandr.com,PROXY

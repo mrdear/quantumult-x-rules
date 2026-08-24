@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-08-23 00:53:32
-# Total domains: 4049
+# Updated: 2026-08-24 00:51:47
+# Total domains: 4051
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -208,6 +208,7 @@ payload:
   - '+.api.palworldgame.com'
   - '+.api.pureapk.com'
   - '+.api.recaptcha.net'
+  - '+.api.shuaiapi.com'
   - '+.api.steampowered.com'
   - '+.api5.futunn.com'
   - '+.apiary.io'
@@ -3869,6 +3870,7 @@ payload:
   - '+.x.com'
   - '+.x.company'
   - '+.x3guide.com'
+  - '+.x86.fr'
   - '+.xbabe.com'
   - '+.xbookcn.com'
   - '+.xbtce.com'
