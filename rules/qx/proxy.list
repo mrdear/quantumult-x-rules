@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-08-26 00:52:37
-# Total domains: 26990
+# Updated: 2026-08-27 06:33:26
+# Total domains: 26994
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -794,6 +794,7 @@ HOST-SUFFIX,adguard.info,PROXY
 HOST-SUFFIX,adguard.io,PROXY
 HOST-SUFFIX,adguard.org,PROXY
 HOST-SUFFIX,adguardaccount.com,PROXY
+HOST-SUFFIX,adguardaccount.net,PROXY
 HOST-SUFFIX,adguardcdn.com,PROXY
 HOST-SUFFIX,adguardvpn.com,PROXY
 HOST-SUFFIX,adhelpnews.com,PROXY
@@ -1847,6 +1848,7 @@ HOST-SUFFIX,aod-pod-uk-live.akamaized.net,PROXY
 HOST-SUFFIX,aodahl.com,PROXY
 HOST-SUFFIX,aofriend.com,PROXY
 HOST-SUFFIX,aokwholesale.net,PROXY
+HOST-SUFFIX,aolcdn.com,PROXY
 HOST-SUFFIX,aomedia.org,PROXY
 HOST-SUFFIX,aomiwang.com,PROXY
 HOST-SUFFIX,aorus.com,PROXY
@@ -17803,6 +17805,7 @@ HOST-SUFFIX,ourshdtv.com,PROXY
 HOST-SUFFIX,ourshemales.com,PROXY
 HOST-SUFFIX,oursteps.com.au,PROXY
 HOST-SUFFIX,ourtv.hk,PROXY
+HOST-SUFFIX,ouryahoo.com,PROXY
 HOST-SUFFIX,out-app-purchase.com,PROXY
 HOST-SUFFIX,outbound.io,PROXY
 HOST-SUFFIX,outdoorpublicsex.com,PROXY
@@ -26301,6 +26304,7 @@ HOST-SUFFIX,yahooapis.com,PROXY
 HOST-SUFFIX,yahoodns.net,PROXY
 HOST-SUFFIX,yahoofinance.com,PROXY
 HOST-SUFFIX,yahoohealth.com,PROXY
+HOST-SUFFIX,yahooinc.com,PROXY
 HOST-SUFFIX,yahoomusic.com,PROXY
 HOST-SUFFIX,yahoosandbox.com,PROXY
 HOST-SUFFIX,yahoosportsbook.com,PROXY
