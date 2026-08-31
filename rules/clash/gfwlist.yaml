@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-08-30 02:54:26
-# Total domains: 4052
+# Updated: 2026-08-31 02:47:51
+# Total domains: 4054
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -1298,6 +1298,7 @@ payload:
   - '+.getlantern.org'
   - '+.getmalus.com'
   - '+.getmdl.io'
+  - '+.getmonero.org'
   - '+.getoutline.org'
   - '+.getsession.org'
   - '+.getsync.com'
@@ -2445,6 +2446,7 @@ payload:
   - '+.nhentai.net'
   - '+.nic.cz.cc'
   - '+.nic.gov'
+  - '+.nicoseiga.jp'
   - '+.nicovideo.jp'
   - '+.nightswatch.top'
   - '+.nikke-en.com'
