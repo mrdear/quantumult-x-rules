@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-09-04 02:20:37
-# Total domains: 4054
+# Updated: 2026-09-05 02:21:35
+# Total domains: 4057
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -787,6 +787,7 @@ payload:
   - '+.csuchen.de'
   - '+.csw.org.uk'
   - '+.ct.org.tw'
+  - '+.ctee.com.tw'
   - '+.ctinets.com'
   - '+.ctinews.com'
   - '+.ctinsider.com'
@@ -1717,6 +1718,7 @@ payload:
   - '+.hkcnews.com'
   - '+.hkcoc.com'
   - '+.hkdc.us'
+  - '+.hkej.com'
   - '+.hket.com'
   - '+.hkfaa.com'
   - '+.hkgalden.com'
@@ -2118,6 +2120,7 @@ payload:
   - '+.linktr.ee'
   - '+.linux.do'
   - '+.linux.org.hk'
+  - '+.linux.sb'
   - '+.liquiditytp.com'
   - '+.liquidvpn.com'
   - '+.listennotes.com'
