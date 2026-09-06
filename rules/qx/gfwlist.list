@@ -1,12 +1,14 @@
 # GFW List for Quantumult X
-# Updated: 2026-09-05 02:21:35
-# Total domains: 4057
+# Updated: 2026-09-06 02:17:38
+# Total domains: 4066
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
 HOST-SUFFIX,1000giri.net,GFWLIST
 HOST-SUFFIX,10beasts.net,GFWLIST
 HOST-SUFFIX,10musume.com,GFWLIST
+HOST-SUFFIX,123av.com,GFWLIST
+HOST-SUFFIX,123av.me,GFWLIST
 HOST-SUFFIX,12bet.com,GFWLIST
 HOST-SUFFIX,12vpn.com,GFWLIST
 HOST-SUFFIX,12vpn.net,GFWLIST
@@ -1680,6 +1682,7 @@ HOST-SUFFIX,help.byspotify.com,GFWLIST
 HOST-SUFFIX,helpeachpeople.com,GFWLIST
 HOST-SUFFIX,helpster.de,GFWLIST
 HOST-SUFFIX,hembed.com,GFWLIST
+HOST-SUFFIX,hentai.tv,GFWLIST
 HOST-SUFFIX,heqinglian.net,GFWLIST
 HOST-SUFFIX,heritage.org,GFWLIST
 HOST-SUFFIX,herokuapp.com,GFWLIST
@@ -2896,6 +2899,7 @@ HOST-SUFFIX,rlwlw.com,GFWLIST
 HOST-SUFFIX,rmbl.ws,GFWLIST
 HOST-SUFFIX,roblox.com,GFWLIST
 HOST-SUFFIX,robustnessiskey.com,GFWLIST
+HOST-SUFFIX,roc-taiwan.org,GFWLIST
 HOST-SUFFIX,rocket-inc.net,GFWLIST
 HOST-SUFFIX,rocket.chat,GFWLIST
 HOST-SUFFIX,rocksdb.org,GFWLIST
@@ -2905,6 +2909,7 @@ HOST-SUFFIX,rolia.net,GFWLIST
 HOST-SUFFIX,rolsociety.org,GFWLIST
 HOST-SUFFIX,ronjoneswriter.com,GFWLIST
 HOST-SUFFIX,rou.video,GFWLIST
+HOST-SUFFIX,roushuwo.com,GFWLIST
 HOST-SUFFIX,rsdlmonitor.com,GFWLIST
 HOST-SUFFIX,rsf-chinese.org,GFWLIST
 HOST-SUFFIX,rsf.org,GFWLIST
@@ -3192,6 +3197,7 @@ HOST-SUFFIX,sunporno.com,GFWLIST
 HOST-SUFFIX,supchina.com,GFWLIST
 HOST-SUFFIX,superpages.com,GFWLIST
 HOST-SUFFIX,supervpn.net,GFWLIST
+HOST-SUFFIX,supjav.com,GFWLIST
 HOST-SUFFIX,support.futunn.com,GFWLIST
 HOST-SUFFIX,supremecourt.gov,GFWLIST
 HOST-SUFFIX,surfeasy.com,GFWLIST
@@ -3219,10 +3225,12 @@ HOST-SUFFIX,t66y.com,GFWLIST
 HOST-SUFFIX,taaze.tw,GFWLIST
 HOST-SUFFIX,taedp.org.tw,GFWLIST
 HOST-SUFFIX,tagwalk.com,GFWLIST
+HOST-SUFFIX,taiav.com,GFWLIST
 HOST-SUFFIX,tails.net,GFWLIST
 HOST-SUFFIX,taipeisociety.org,GFWLIST
 HOST-SUFFIX,taipeitimes.com,GFWLIST
 HOST-SUFFIX,taisounds.com,GFWLIST
+HOST-SUFFIX,taiwanembassy.org,GFWLIST
 HOST-SUFFIX,taiwanhot.net,GFWLIST
 HOST-SUFFIX,taiwanjustice.net,GFWLIST
 HOST-SUFFIX,taiwanncf.org.tw,GFWLIST
@@ -3849,6 +3857,7 @@ HOST-SUFFIX,write.as,GFWLIST
 HOST-SUFFIX,writesonic.com,GFWLIST
 HOST-SUFFIX,wsj.com,GFWLIST
 HOST-SUFFIX,wsj.net,GFWLIST
+HOST-SUFFIX,wtfpass.com,GFWLIST
 HOST-SUFFIX,wufafangwen.com,GFWLIST
 HOST-SUFFIX,wufi.org.tw,GFWLIST
 HOST-SUFFIX,wujieliulan.com,GFWLIST

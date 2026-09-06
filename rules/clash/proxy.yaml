@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-09-05 02:21:36
-# Total domains: 27006
+# Updated: 2026-09-06 02:17:38
+# Total domains: 27007
 payload:
   - '000webhost.com'
   - '01.org'
@@ -14287,6 +14287,7 @@ payload:
   - 'linux.do'
   - 'linux.org'
   - 'linux.org.hk'
+  - 'linux.sb'
   - 'linuxfoundation.org'
   - 'linuxfromscratch.org'
   - 'linuxmint.com'

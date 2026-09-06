@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-09-05 02:21:36
-# Total domains: 27006
+# Updated: 2026-09-06 02:17:38
+# Total domains: 27007
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -14287,6 +14287,7 @@ HOST-SUFFIX,linseysworld.com,PROXY
 HOST-SUFFIX,linux.do,PROXY
 HOST-SUFFIX,linux.org,PROXY
 HOST-SUFFIX,linux.org.hk,PROXY
+HOST-SUFFIX,linux.sb,PROXY
 HOST-SUFFIX,linuxfoundation.org,PROXY
 HOST-SUFFIX,linuxfromscratch.org,PROXY
 HOST-SUFFIX,linuxmint.com,PROXY
