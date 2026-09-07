@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-09-06 02:17:38
-# Total domains: 27007
+# Updated: 2026-09-07 02:14:40
+# Total domains: 27013
 payload:
   - '000webhost.com'
   - '01.org'
@@ -38,6 +38,8 @@ payload:
   - '119474.xyz'
   - '11jav.com'
   - '123-hp.com'
+  - '123av.com'
+  - '123av.me'
   - '123bin.cc'
   - '123dapp.com'
   - '123dappipad.com'
@@ -19937,6 +19939,7 @@ payload:
   - 'roborecall.com'
   - 'robotoffice.com'
   - 'robustnessiskey.com'
+  - 'roc-taiwan.org'
   - 'rocket-inc.net'
   - 'rocket.chat'
   - 'rocketfishproducts.com'
@@ -19985,6 +19988,7 @@ payload:
   - 'roudaosp.cc'
   - 'roughebonysex.com'
   - 'roughman.net'
+  - 'roushuwo.com'
   - 'routerboard.com'
   - 'routledgehandbooks.com'
   - 'rowblocks.com'
@@ -22229,6 +22233,7 @@ payload:
   - 'taipeitimes.com'
   - 'taisounds.com'
   - 'taiwanadultexpo.com'
+  - 'taiwanembassy.org'
   - 'taiwanhot.net'
   - 'taiwanjustice.net'
   - 'taiwanncf.org.tw'
@@ -25377,6 +25382,7 @@ payload:
   - 'wsjplus.com'
   - 'wsjshop.com'
   - 'wsjwine.com'
+  - 'wtfpass.com'
   - 'wtfpeople.com'
   - 'wtmobile.com'
   - 'wto.org'
