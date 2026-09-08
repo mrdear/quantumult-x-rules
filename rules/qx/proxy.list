@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-09-07 02:14:40
-# Total domains: 27013
+# Updated: 2026-09-08 02:27:04
+# Total domains: 27014
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -14053,6 +14053,7 @@ HOST-SUFFIX,larsgeorge.com,PROXY
 HOST-SUFFIX,lasersawapp.com,PROXY
 HOST-SUFFIX,last.fm,PROXY
 HOST-SUFFIX,lastcombat.com,PROXY
+HOST-SUFFIX,lastfm-img.freetls.fastly.net,PROXY
 HOST-SUFFIX,lastfm.es,PROXY
 HOST-SUFFIX,lastfm.freetls.fastly.net,PROXY
 HOST-SUFFIX,lastpass.com,PROXY

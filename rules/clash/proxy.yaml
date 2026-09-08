@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-09-07 02:14:40
-# Total domains: 27013
+# Updated: 2026-09-08 02:27:04
+# Total domains: 27014
 payload:
   - '000webhost.com'
   - '01.org'
@@ -14053,6 +14053,7 @@ payload:
   - 'lasersawapp.com'
   - 'last.fm'
   - 'lastcombat.com'
+  - 'lastfm-img.freetls.fastly.net'
   - 'lastfm.es'
   - 'lastfm.freetls.fastly.net'
   - 'lastpass.com'
